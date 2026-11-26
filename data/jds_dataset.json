@@ -1,0 +1,3137 @@
+{
+  "version": "2.0.0",
+  "total_jds": 150,
+  "anonymization_policy": "Chỉ trích xuất yêu cầu kỹ năng từ 150 tin tuyển dụng Intern/Fresher công khai (50 SoICT, 50 SEEE, 50 SME); xóa thông tin liên hệ và ẩn danh tên doanh nghiệp.",
+  "jds": [
+    {
+      "jd_id": "IT_001",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Python/FastAPI)",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Sản phẩm SaaS)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP"
+      ],
+      "preferred_skills": [
+        "IT_LINUX",
+        "IT_ENG_READ",
+        "IT_NOSQL_CACHE"
+      ]
+    },
+    {
+      "jd_id": "IT_002",
+      "major_code": "IT",
+      "role_title": "Backend Developer Fresher (Java Spring Boot)",
+      "level": "Fresher",
+      "source_group": "ITviec (Ngân hàng số & Fintech)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP"
+      ],
+      "preferred_skills": [
+        "IT_TESTING",
+        "IT_AGILE",
+        "IT_DOCKER"
+      ]
+    },
+    {
+      "jd_id": "IT_003",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Node.js / NestJS)",
+      "level": "Intern",
+      "source_group": "TopCV (Startup Công nghệ)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "IT_NODE_SPRING",
+        "IT_TYPESCRIPT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_DOCKER"
+      ],
+      "preferred_skills": [
+        "IT_ENG_READ",
+        "IT_AUTH_SEC",
+        "IT_CICD"
+      ]
+    },
+    {
+      "jd_id": "IT_004",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Intern (ReactJS / TypeScript)",
+      "level": "Fresher",
+      "source_group": "ITviec (Công ty Phần mềm)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_ENG_READ",
+        "IT_REST_API"
+      ]
+    },
+    {
+      "jd_id": "IT_005",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Fresher (Next.js / UI)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Thương mại điện tử)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_UX_FIGMA",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_CICD",
+        "IT_TESTING",
+        "IT_ENG_COMM"
+      ]
+    },
+    {
+      "jd_id": "IT_006",
+      "major_code": "IT",
+      "role_title": "Fullstack Web Developer Intern",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Outsourcing)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_TYPESCRIPT"
+      ],
+      "preferred_skills": [
+        "IT_TAILWIND_UI",
+        "IT_DOCKER",
+        "IT_ENG_READ"
+      ]
+    },
+    {
+      "jd_id": "IT_007",
+      "major_code": "IT",
+      "role_title": "Fullstack Developer Fresher (Python + React)",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Tech Startup)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_REACT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_DOCKER",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_CICD",
+        "IT_ENG_COMM"
+      ]
+    },
+    {
+      "jd_id": "IT_008",
+      "major_code": "IT",
+      "role_title": "AI / Machine Learning Engineer Intern",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D AI)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "IT_ML_AI",
+        "IT_PYTHON_BE",
+        "IT_DATA_PY",
+        "IT_DSA",
+        "IT_GIT",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_PROBLEM_SOLVING",
+        "IT_REST_API"
+      ]
+    },
+    {
+      "jd_id": "IT_009",
+      "major_code": "IT",
+      "role_title": "Data Analyst / Data Engineer Intern",
+      "level": "Intern",
+      "source_group": "TopCV (Tập đoàn Viễn thông / Fintech)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "IT_SQL",
+        "IT_DATA_PY",
+        "IT_PYTHON_BE",
+        "IT_PROBLEM_SOLVING",
+        "IT_ENG_READ",
+        "IT_CLOUD"
+      ],
+      "preferred_skills": [
+        "IT_PRESENTATION",
+        "IT_ML_AI",
+        "IT_GIT"
+      ]
+    },
+    {
+      "jd_id": "IT_010",
+      "major_code": "IT",
+      "role_title": "BrSE / Japanese IT Engineer Fresher (HEDSPI)",
+      "level": "Fresher",
+      "source_group": "ITviec (Doanh nghiệp IT Nhật Bản)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "IT_JAPANESE",
+        "IT_OOP",
+        "IT_SQL",
+        "IT_GIT",
+        "IT_TEAMWORK",
+        "IT_SYS_DESIGN"
+      ],
+      "preferred_skills": [
+        "IT_AGILE",
+        "IT_REACT",
+        "IT_NODE_SPRING"
+      ]
+    },
+    {
+      "jd_id": "IT_011",
+      "major_code": "IT",
+      "role_title": "QA / Automation Tester Intern",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Công ty Phần mềm Toàn cầu)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "IT_TESTING",
+        "IT_SQL",
+        "IT_GIT",
+        "IT_AGILE",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_CICD",
+        "IT_TECH_DOC",
+        "IT_REST_API",
+        "IT_PYTHON_BE"
+      ]
+    },
+    {
+      "jd_id": "IT_012",
+      "major_code": "IT",
+      "role_title": "Cloud / DevOps Engineer Intern",
+      "level": "Fresher",
+      "source_group": "ITviec (Công ty Hạ tầng Cloud)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "IT_LINUX",
+        "IT_DOCKER",
+        "IT_CLOUD",
+        "IT_CICD",
+        "IT_NET",
+        "IT_GIT",
+        "IT_OS"
+      ],
+      "preferred_skills": [
+        "IT_ENG_READ",
+        "IT_AUTH_SEC",
+        "IT_PYTHON_BE",
+        "IT_PROBLEM_SOLVING"
+      ]
+    },
+    {
+      "jd_id": "IT_013",
+      "major_code": "IT",
+      "role_title": "Mobile Developer Intern (Flutter / React Native)",
+      "level": "Intern",
+      "source_group": "TopCV (Công ty Ứng dụng Di động)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "IT_MOBILE",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP",
+        "IT_UX_FIGMA"
+      ],
+      "preferred_skills": [
+        "IT_TEAMWORK",
+        "IT_ENG_READ",
+        "IT_TESTING",
+        "IT_TYPESCRIPT"
+      ]
+    },
+    {
+      "jd_id": "IT_014",
+      "major_code": "IT",
+      "role_title": "Software Engineer Fresher (C++ / Systems)",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (R&D Phần mềm)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_DSA",
+        "IT_OS",
+        "IT_OOP",
+        "IT_LINUX",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_DOCKER",
+        "IT_TESTING",
+        "IT_NET",
+        "IT_ENG_COMM"
+      ]
+    },
+    {
+      "jd_id": "IT_015",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Python/FastAPI)",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Sản phẩm SaaS)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP",
+        "IT_CLOUD"
+      ],
+      "preferred_skills": [
+        "IT_DOCKER",
+        "IT_LINUX",
+        "IT_NOSQL_CACHE"
+      ]
+    },
+    {
+      "jd_id": "IT_016",
+      "major_code": "IT",
+      "role_title": "Backend Developer Fresher (Java Spring Boot)",
+      "level": "Intern",
+      "source_group": "ITviec (Ngân hàng số & Fintech)",
+      "collected_date": "2026-11-25",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP"
+      ],
+      "preferred_skills": [
+        "IT_DOCKER",
+        "IT_AGILE",
+        "IT_TESTING",
+        "IT_AUTH_SEC"
+      ]
+    },
+    {
+      "jd_id": "IT_017",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Node.js / NestJS)",
+      "level": "Intern",
+      "source_group": "TopCV (Startup Công nghệ)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "IT_NODE_SPRING",
+        "IT_TYPESCRIPT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_AUTH_SEC",
+        "IT_ENG_READ"
+      ]
+    },
+    {
+      "jd_id": "IT_018",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Intern (ReactJS / TypeScript)",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Phần mềm)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_GIT",
+        "IT_UX_FIGMA"
+      ],
+      "preferred_skills": [
+        "IT_TESTING",
+        "IT_ENG_READ"
+      ]
+    },
+    {
+      "jd_id": "IT_019",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Fresher (Next.js / UI)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Thương mại điện tử)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_UX_FIGMA",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_TESTING",
+        "IT_ENG_COMM",
+        "IT_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "IT_020",
+      "major_code": "IT",
+      "role_title": "Fullstack Web Developer Intern",
+      "level": "Fresher",
+      "source_group": "ITviec (Công ty Outsourcing)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_TAILWIND_UI",
+        "IT_TYPESCRIPT"
+      ]
+    },
+    {
+      "jd_id": "IT_021",
+      "major_code": "IT",
+      "role_title": "Fullstack Developer Fresher (Python + React)",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Tech Startup)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_REACT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_DOCKER",
+        "IT_GIT",
+        "IT_ENG_COMM"
+      ],
+      "preferred_skills": [
+        "IT_CLOUD",
+        "IT_CICD"
+      ]
+    },
+    {
+      "jd_id": "IT_022",
+      "major_code": "IT",
+      "role_title": "AI / Machine Learning Engineer Intern",
+      "level": "Intern",
+      "source_group": "ITviec (Trung tâm R&D AI)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "IT_ML_AI",
+        "IT_PYTHON_BE",
+        "IT_DATA_PY",
+        "IT_DSA",
+        "IT_GIT",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_REST_API",
+        "IT_SQL"
+      ]
+    },
+    {
+      "jd_id": "IT_023",
+      "major_code": "IT",
+      "role_title": "Data Analyst / Data Engineer Intern",
+      "level": "Intern",
+      "source_group": "TopCV (Tập đoàn Viễn thông / Fintech)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "IT_SQL",
+        "IT_DATA_PY",
+        "IT_PYTHON_BE",
+        "IT_PROBLEM_SOLVING",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_LINUX",
+        "IT_CLOUD"
+      ]
+    },
+    {
+      "jd_id": "IT_024",
+      "major_code": "IT",
+      "role_title": "BrSE / Japanese IT Engineer Fresher (HEDSPI)",
+      "level": "Intern",
+      "source_group": "ITviec (Doanh nghiệp IT Nhật Bản)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "IT_JAPANESE",
+        "IT_OOP",
+        "IT_SQL",
+        "IT_GIT",
+        "IT_TEAMWORK",
+        "IT_SYS_DESIGN",
+        "IT_NODE_SPRING"
+      ],
+      "preferred_skills": [
+        "IT_TESTING",
+        "IT_AGILE",
+        "IT_TECH_DOC",
+        "IT_REACT"
+      ]
+    },
+    {
+      "jd_id": "IT_025",
+      "major_code": "IT",
+      "role_title": "QA / Automation Tester Intern",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Công ty Phần mềm Toàn cầu)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "IT_TESTING",
+        "IT_SQL",
+        "IT_GIT",
+        "IT_AGILE",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_CICD",
+        "IT_ENG_COMM",
+        "IT_TECH_DOC",
+        "IT_REST_API"
+      ]
+    },
+    {
+      "jd_id": "IT_026",
+      "major_code": "IT",
+      "role_title": "Cloud / DevOps Engineer Intern",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Hạ tầng Cloud)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "IT_LINUX",
+        "IT_DOCKER",
+        "IT_CLOUD",
+        "IT_CICD",
+        "IT_NET",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_ENG_READ",
+        "IT_PYTHON_BE"
+      ]
+    },
+    {
+      "jd_id": "IT_027",
+      "major_code": "IT",
+      "role_title": "Mobile Developer Intern (Flutter / React Native)",
+      "level": "Intern",
+      "source_group": "TopCV (Công ty Ứng dụng Di động)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "IT_MOBILE",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP",
+        "IT_UX_FIGMA",
+        "IT_TYPESCRIPT"
+      ],
+      "preferred_skills": [
+        "IT_ENG_READ",
+        "IT_TESTING",
+        "IT_AGILE"
+      ]
+    },
+    {
+      "jd_id": "IT_028",
+      "major_code": "IT",
+      "role_title": "Software Engineer Fresher (C++ / Systems)",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (R&D Phần mềm)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_DSA",
+        "IT_OS",
+        "IT_OOP",
+        "IT_LINUX",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_ENG_COMM",
+        "IT_DOCKER"
+      ]
+    },
+    {
+      "jd_id": "IT_029",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Python/FastAPI)",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Sản phẩm SaaS)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP"
+      ],
+      "preferred_skills": [
+        "IT_CLOUD",
+        "IT_DOCKER",
+        "IT_LINUX"
+      ]
+    },
+    {
+      "jd_id": "IT_030",
+      "major_code": "IT",
+      "role_title": "Backend Developer Fresher (Java Spring Boot)",
+      "level": "Fresher",
+      "source_group": "ITviec (Ngân hàng số & Fintech)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP",
+        "IT_AGILE"
+      ],
+      "preferred_skills": [
+        "IT_ENG_READ",
+        "IT_AUTH_SEC"
+      ]
+    },
+    {
+      "jd_id": "IT_031",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Node.js / NestJS)",
+      "level": "Intern",
+      "source_group": "TopCV (Startup Công nghệ)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "IT_NODE_SPRING",
+        "IT_TYPESCRIPT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_CICD",
+        "IT_ENG_READ",
+        "IT_NOSQL_CACHE",
+        "IT_DOCKER"
+      ]
+    },
+    {
+      "jd_id": "IT_032",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Intern (ReactJS / TypeScript)",
+      "level": "Fresher",
+      "source_group": "ITviec (Công ty Phần mềm)",
+      "collected_date": "2026-11-25",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_TESTING",
+        "IT_REST_API",
+        "IT_ENG_READ",
+        "IT_UX_FIGMA"
+      ]
+    },
+    {
+      "jd_id": "IT_033",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Fresher (Next.js / UI)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Thương mại điện tử)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_UX_FIGMA",
+        "IT_GIT",
+        "IT_CODE_REVIEW"
+      ],
+      "preferred_skills": [
+        "IT_TEAMWORK",
+        "IT_ENG_COMM",
+        "IT_CICD",
+        "IT_TESTING"
+      ]
+    },
+    {
+      "jd_id": "IT_034",
+      "major_code": "IT",
+      "role_title": "Fullstack Web Developer Intern",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Outsourcing)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_DOCKER",
+        "IT_TYPESCRIPT"
+      ]
+    },
+    {
+      "jd_id": "IT_035",
+      "major_code": "IT",
+      "role_title": "Fullstack Developer Fresher (Python + React)",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Tech Startup)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_REACT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_DOCKER",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_TYPESCRIPT",
+        "IT_CICD",
+        "IT_ENG_COMM",
+        "IT_CLOUD"
+      ]
+    },
+    {
+      "jd_id": "IT_036",
+      "major_code": "IT",
+      "role_title": "AI / Machine Learning Engineer Intern",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D AI)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "IT_ML_AI",
+        "IT_PYTHON_BE",
+        "IT_DATA_PY",
+        "IT_DSA",
+        "IT_GIT",
+        "IT_ENG_READ",
+        "IT_DOCKER"
+      ],
+      "preferred_skills": [
+        "IT_SQL",
+        "IT_CLOUD",
+        "IT_PROBLEM_SOLVING",
+        "IT_REST_API"
+      ]
+    },
+    {
+      "jd_id": "IT_037",
+      "major_code": "IT",
+      "role_title": "Data Analyst / Data Engineer Intern",
+      "level": "Intern",
+      "source_group": "TopCV (Tập đoàn Viễn thông / Fintech)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "IT_SQL",
+        "IT_DATA_PY",
+        "IT_PYTHON_BE",
+        "IT_PROBLEM_SOLVING",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_LINUX",
+        "IT_ML_AI",
+        "IT_CLOUD",
+        "IT_GIT"
+      ]
+    },
+    {
+      "jd_id": "IT_038",
+      "major_code": "IT",
+      "role_title": "BrSE / Japanese IT Engineer Fresher (HEDSPI)",
+      "level": "Fresher",
+      "source_group": "ITviec (Doanh nghiệp IT Nhật Bản)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "IT_JAPANESE",
+        "IT_OOP",
+        "IT_SQL",
+        "IT_GIT",
+        "IT_TEAMWORK",
+        "IT_SYS_DESIGN"
+      ],
+      "preferred_skills": [
+        "IT_REACT",
+        "IT_AGILE"
+      ]
+    },
+    {
+      "jd_id": "IT_039",
+      "major_code": "IT",
+      "role_title": "QA / Automation Tester Intern",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Công ty Phần mềm Toàn cầu)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "IT_TESTING",
+        "IT_SQL",
+        "IT_GIT",
+        "IT_AGILE",
+        "IT_ENG_READ",
+        "IT_PYTHON_BE"
+      ],
+      "preferred_skills": [
+        "IT_TECH_DOC",
+        "IT_ENG_COMM"
+      ]
+    },
+    {
+      "jd_id": "IT_040",
+      "major_code": "IT",
+      "role_title": "Cloud / DevOps Engineer Intern",
+      "level": "Fresher",
+      "source_group": "ITviec (Công ty Hạ tầng Cloud)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "IT_LINUX",
+        "IT_DOCKER",
+        "IT_CLOUD",
+        "IT_CICD",
+        "IT_NET",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_PYTHON_BE",
+        "IT_ENG_READ"
+      ]
+    },
+    {
+      "jd_id": "IT_041",
+      "major_code": "IT",
+      "role_title": "Mobile Developer Intern (Flutter / React Native)",
+      "level": "Intern",
+      "source_group": "TopCV (Công ty Ứng dụng Di động)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "IT_MOBILE",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP",
+        "IT_UX_FIGMA"
+      ],
+      "preferred_skills": [
+        "IT_TEAMWORK",
+        "IT_ENG_READ",
+        "IT_AGILE"
+      ]
+    },
+    {
+      "jd_id": "IT_042",
+      "major_code": "IT",
+      "role_title": "Software Engineer Fresher (C++ / Systems)",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (R&D Phần mềm)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_DSA",
+        "IT_OS",
+        "IT_OOP",
+        "IT_LINUX",
+        "IT_GIT",
+        "IT_CODE_REVIEW"
+      ],
+      "preferred_skills": [
+        "IT_NET",
+        "IT_ENG_COMM"
+      ]
+    },
+    {
+      "jd_id": "IT_043",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Python/FastAPI)",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Sản phẩm SaaS)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP"
+      ],
+      "preferred_skills": [
+        "IT_LINUX",
+        "IT_ENG_READ",
+        "IT_NOSQL_CACHE",
+        "IT_CLOUD"
+      ]
+    },
+    {
+      "jd_id": "IT_044",
+      "major_code": "IT",
+      "role_title": "Backend Developer Fresher (Java Spring Boot)",
+      "level": "Intern",
+      "source_group": "ITviec (Ngân hàng số & Fintech)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "IT_CPP_JAVA",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_OOP"
+      ],
+      "preferred_skills": [
+        "IT_NOSQL_CACHE",
+        "IT_ENG_READ",
+        "IT_AGILE"
+      ]
+    },
+    {
+      "jd_id": "IT_045",
+      "major_code": "IT",
+      "role_title": "Backend Developer Intern (Node.js / NestJS)",
+      "level": "Intern",
+      "source_group": "TopCV (Startup Công nghệ)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "IT_NODE_SPRING",
+        "IT_TYPESCRIPT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_AUTH_SEC"
+      ],
+      "preferred_skills": [
+        "IT_DOCKER",
+        "IT_NOSQL_CACHE",
+        "IT_CICD",
+        "IT_ENG_READ"
+      ]
+    },
+    {
+      "jd_id": "IT_046",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Intern (ReactJS / TypeScript)",
+      "level": "Intern",
+      "source_group": "ITviec (Công ty Phần mềm)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_AGILE",
+        "IT_TESTING",
+        "IT_ENG_READ",
+        "IT_UX_FIGMA"
+      ]
+    },
+    {
+      "jd_id": "IT_047",
+      "major_code": "IT",
+      "role_title": "Frontend Developer Fresher (Next.js / UI)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Thương mại điện tử)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_UX_FIGMA",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_CODE_REVIEW",
+        "IT_TESTING"
+      ]
+    },
+    {
+      "jd_id": "IT_048",
+      "major_code": "IT",
+      "role_title": "Fullstack Web Developer Intern",
+      "level": "Fresher",
+      "source_group": "ITviec (Công ty Outsourcing)",
+      "collected_date": "2026-11-25",
+      "required_skills": [
+        "IT_HTML_CSS_JS",
+        "IT_REACT",
+        "IT_NODE_SPRING",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_GIT",
+        "IT_DOCKER"
+      ],
+      "preferred_skills": [
+        "IT_TYPESCRIPT",
+        "IT_TAILWIND_UI",
+        "IT_ENG_READ"
+      ]
+    },
+    {
+      "jd_id": "IT_049",
+      "major_code": "IT",
+      "role_title": "Fullstack Developer Fresher (Python + React)",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Tech Startup)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "IT_PYTHON_BE",
+        "IT_REACT",
+        "IT_SQL",
+        "IT_REST_API",
+        "IT_DOCKER",
+        "IT_GIT"
+      ],
+      "preferred_skills": [
+        "IT_CLOUD",
+        "IT_TYPESCRIPT",
+        "IT_CICD",
+        "IT_TESTING"
+      ]
+    },
+    {
+      "jd_id": "IT_050",
+      "major_code": "IT",
+      "role_title": "AI / Machine Learning Engineer Intern",
+      "level": "Intern",
+      "source_group": "ITviec (Trung tâm R&D AI)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "IT_ML_AI",
+        "IT_PYTHON_BE",
+        "IT_DATA_PY",
+        "IT_DSA",
+        "IT_GIT",
+        "IT_ENG_READ"
+      ],
+      "preferred_skills": [
+        "IT_DOCKER",
+        "IT_SQL",
+        "IT_LINUX"
+      ]
+    },
+    {
+      "jd_id": "SEEE_001",
+      "major_code": "SEEE",
+      "role_title": "Automation / PLC Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy FDI Nhật/Hàn)",
+      "collected_date": "2026-11-05",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_BLUEPRINT",
+        "SEEE_DRIVES",
+        "SEEE_SAFETY_IEC",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_5S_KAIZEN",
+        "SEEE_EPLAN_ETAP",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_002",
+      "major_code": "SEEE",
+      "role_title": "Embedded Firmware Engineer Intern (STM32/ESP32)",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D Điện tử / IoT)",
+      "collected_date": "2026-11-06",
+      "required_skills": [
+        "SEEE_MCU",
+        "SEEE_EMBEDDED_C",
+        "SEEE_CIRCUITS",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_ALTIUM",
+        "SEEE_TEST_MEAS",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_003",
+      "major_code": "SEEE",
+      "role_title": "Hardware / PCB Design Engineer Fresher (Altium)",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết kế Điện tử R&D)",
+      "collected_date": "2026-11-07",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_ALTIUM",
+        "SEEE_DATASHEET",
+        "SEEE_TEST_MEAS",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_PROBLEM_SOLV",
+        "SEEE_EXCEL_BOM",
+        "SEEE_SAFETY_IEC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_004",
+      "major_code": "SEEE",
+      "role_title": "Electrical System & MEP Design Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Tổng thầu Cơ điện M&E)",
+      "collected_date": "2026-11-08",
+      "required_skills": [
+        "SEEE_POWER_SYS",
+        "SEEE_AUTOCAD_EL",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SEEE_EPLAN_ETAP",
+        "SEEE_ENG_TECH",
+        "SEEE_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_005",
+      "major_code": "SEEE",
+      "role_title": "SCADA / IIoT & Smart Factory Engineer Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Tập đoàn Công nghệ cao)",
+      "collected_date": "2026-11-09",
+      "required_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_SQL_MES",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_TELECOM_NET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_006",
+      "major_code": "SEEE",
+      "role_title": "Telecom & IoT Network Engineer Fresher",
+      "level": "Intern",
+      "source_group": "ITviec (Nhà mạng & Hạ tầng Viễn thông)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "SEEE_TELECOM_NET",
+        "SEEE_DSP_SIGNAL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_PROBLEM_SOLV"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MCU",
+        "SEEE_TECH_WRITING",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_007",
+      "major_code": "SEEE",
+      "role_title": "Hardware Test & Validation Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Điện tử FDI)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "SEEE_TEST_MEAS",
+        "SEEE_CIRCUITS",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_QA_QC",
+        "SEEE_M365_DOC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_LABVIEW",
+        "SEEE_C_PYTHON",
+        "SEEE_DATASHEET",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_008",
+      "major_code": "SEEE",
+      "role_title": "Biomedical Equipment & Field Engineer Intern",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết bị Y tế Quốc tế)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "SEEE_CALIBRATION",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_SAFETY_IEC",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH",
+        "SEEE_FIELD_SITE"
+      ],
+      "preferred_skills": [
+        "SEEE_DSP_SIGNAL",
+        "SEEE_TECH_WRITING",
+        "SEEE_TEST_MEAS"
+      ]
+    },
+    {
+      "jd_id": "SEEE_009",
+      "major_code": "SEEE",
+      "role_title": "IC Design / FPGA Engineer Intern (RTL/Verilog)",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Trung tâm Thiết kế Bán dẫn)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_FPGA_HDL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MATLAB",
+        "SEEE_DATASHEET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_010",
+      "major_code": "SEEE",
+      "role_title": "Control & Automation Maintenance Engineer",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Sản xuất Công nghiệp)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_DRIVES",
+        "SEEE_CALIBRATION",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_FIELD_SITE",
+        "SEEE_EXCEL_BOM",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_011",
+      "major_code": "SEEE",
+      "role_title": "Automation / PLC Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy FDI Nhật/Hàn)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_BLUEPRINT",
+        "SEEE_DRIVES",
+        "SEEE_SAFETY_IEC",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_5S_KAIZEN",
+        "SEEE_EPLAN_ETAP"
+      ]
+    },
+    {
+      "jd_id": "SEEE_012",
+      "major_code": "SEEE",
+      "role_title": "Embedded Firmware Engineer Intern (STM32/ESP32)",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D Điện tử / IoT)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "SEEE_MCU",
+        "SEEE_EMBEDDED_C",
+        "SEEE_CIRCUITS",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_ALTIUM",
+        "SEEE_TEST_MEAS"
+      ]
+    },
+    {
+      "jd_id": "SEEE_013",
+      "major_code": "SEEE",
+      "role_title": "Hardware / PCB Design Engineer Fresher (Altium)",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết kế Điện tử R&D)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_ALTIUM",
+        "SEEE_DATASHEET",
+        "SEEE_TEST_MEAS",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_PROBLEM_SOLV",
+        "SEEE_EXCEL_BOM",
+        "SEEE_SAFETY_IEC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_014",
+      "major_code": "SEEE",
+      "role_title": "Electrical System & MEP Design Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Tổng thầu Cơ điện M&E)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "SEEE_POWER_SYS",
+        "SEEE_AUTOCAD_EL",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SEEE_EPLAN_ETAP",
+        "SEEE_ENG_TECH",
+        "SEEE_M365_DOC",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_015",
+      "major_code": "SEEE",
+      "role_title": "SCADA / IIoT & Smart Factory Engineer Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Tập đoàn Công nghệ cao)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_SQL_MES",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_TELECOM_NET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_016",
+      "major_code": "SEEE",
+      "role_title": "Telecom & IoT Network Engineer Fresher",
+      "level": "Intern",
+      "source_group": "ITviec (Nhà mạng & Hạ tầng Viễn thông)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "SEEE_TELECOM_NET",
+        "SEEE_DSP_SIGNAL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_PROBLEM_SOLV"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MCU",
+        "SEEE_TECH_WRITING",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_017",
+      "major_code": "SEEE",
+      "role_title": "Hardware Test & Validation Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Điện tử FDI)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "SEEE_TEST_MEAS",
+        "SEEE_CIRCUITS",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_QA_QC",
+        "SEEE_M365_DOC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_LABVIEW",
+        "SEEE_C_PYTHON",
+        "SEEE_DATASHEET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_018",
+      "major_code": "SEEE",
+      "role_title": "Biomedical Equipment & Field Engineer Intern",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết bị Y tế Quốc tế)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "SEEE_CALIBRATION",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_SAFETY_IEC",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH",
+        "SEEE_FIELD_SITE"
+      ],
+      "preferred_skills": [
+        "SEEE_DSP_SIGNAL",
+        "SEEE_TECH_WRITING",
+        "SEEE_TEST_MEAS",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_019",
+      "major_code": "SEEE",
+      "role_title": "IC Design / FPGA Engineer Intern (RTL/Verilog)",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Trung tâm Thiết kế Bán dẫn)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_FPGA_HDL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MATLAB",
+        "SEEE_DATASHEET",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_020",
+      "major_code": "SEEE",
+      "role_title": "Control & Automation Maintenance Engineer",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Sản xuất Công nghiệp)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_DRIVES",
+        "SEEE_CALIBRATION",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_FIELD_SITE",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_021",
+      "major_code": "SEEE",
+      "role_title": "Automation / PLC Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy FDI Nhật/Hàn)",
+      "collected_date": "2026-11-05",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_BLUEPRINT",
+        "SEEE_DRIVES",
+        "SEEE_SAFETY_IEC",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_5S_KAIZEN",
+        "SEEE_EPLAN_ETAP"
+      ]
+    },
+    {
+      "jd_id": "SEEE_022",
+      "major_code": "SEEE",
+      "role_title": "Embedded Firmware Engineer Intern (STM32/ESP32)",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D Điện tử / IoT)",
+      "collected_date": "2026-11-06",
+      "required_skills": [
+        "SEEE_MCU",
+        "SEEE_EMBEDDED_C",
+        "SEEE_CIRCUITS",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_ALTIUM",
+        "SEEE_TEST_MEAS",
+        "SEEE_EXCEL_BOM",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_023",
+      "major_code": "SEEE",
+      "role_title": "Hardware / PCB Design Engineer Fresher (Altium)",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết kế Điện tử R&D)",
+      "collected_date": "2026-11-07",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_ALTIUM",
+        "SEEE_DATASHEET",
+        "SEEE_TEST_MEAS",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_PROBLEM_SOLV",
+        "SEEE_EXCEL_BOM",
+        "SEEE_SAFETY_IEC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_024",
+      "major_code": "SEEE",
+      "role_title": "Electrical System & MEP Design Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Tổng thầu Cơ điện M&E)",
+      "collected_date": "2026-11-08",
+      "required_skills": [
+        "SEEE_POWER_SYS",
+        "SEEE_AUTOCAD_EL",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SEEE_EPLAN_ETAP",
+        "SEEE_ENG_TECH",
+        "SEEE_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_025",
+      "major_code": "SEEE",
+      "role_title": "SCADA / IIoT & Smart Factory Engineer Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Tập đoàn Công nghệ cao)",
+      "collected_date": "2026-11-09",
+      "required_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_SQL_MES",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_TELECOM_NET",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_026",
+      "major_code": "SEEE",
+      "role_title": "Telecom & IoT Network Engineer Fresher",
+      "level": "Intern",
+      "source_group": "ITviec (Nhà mạng & Hạ tầng Viễn thông)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "SEEE_TELECOM_NET",
+        "SEEE_DSP_SIGNAL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_PROBLEM_SOLV"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MCU",
+        "SEEE_TECH_WRITING",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_027",
+      "major_code": "SEEE",
+      "role_title": "Hardware Test & Validation Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Điện tử FDI)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "SEEE_TEST_MEAS",
+        "SEEE_CIRCUITS",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_QA_QC",
+        "SEEE_M365_DOC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_LABVIEW",
+        "SEEE_C_PYTHON",
+        "SEEE_DATASHEET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_028",
+      "major_code": "SEEE",
+      "role_title": "Biomedical Equipment & Field Engineer Intern",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết bị Y tế Quốc tế)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "SEEE_CALIBRATION",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_SAFETY_IEC",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH",
+        "SEEE_FIELD_SITE"
+      ],
+      "preferred_skills": [
+        "SEEE_DSP_SIGNAL",
+        "SEEE_TECH_WRITING",
+        "SEEE_TEST_MEAS",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_029",
+      "major_code": "SEEE",
+      "role_title": "IC Design / FPGA Engineer Intern (RTL/Verilog)",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Trung tâm Thiết kế Bán dẫn)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_FPGA_HDL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MATLAB",
+        "SEEE_DATASHEET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_030",
+      "major_code": "SEEE",
+      "role_title": "Control & Automation Maintenance Engineer",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Sản xuất Công nghiệp)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_DRIVES",
+        "SEEE_CALIBRATION",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_FIELD_SITE",
+        "SEEE_EXCEL_BOM",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_031",
+      "major_code": "SEEE",
+      "role_title": "Automation / PLC Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy FDI Nhật/Hàn)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_BLUEPRINT",
+        "SEEE_DRIVES",
+        "SEEE_SAFETY_IEC",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_5S_KAIZEN",
+        "SEEE_EPLAN_ETAP",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_032",
+      "major_code": "SEEE",
+      "role_title": "Embedded Firmware Engineer Intern (STM32/ESP32)",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D Điện tử / IoT)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "SEEE_MCU",
+        "SEEE_EMBEDDED_C",
+        "SEEE_CIRCUITS",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_ALTIUM",
+        "SEEE_TEST_MEAS"
+      ]
+    },
+    {
+      "jd_id": "SEEE_033",
+      "major_code": "SEEE",
+      "role_title": "Hardware / PCB Design Engineer Fresher (Altium)",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết kế Điện tử R&D)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_ALTIUM",
+        "SEEE_DATASHEET",
+        "SEEE_TEST_MEAS",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_PROBLEM_SOLV",
+        "SEEE_EXCEL_BOM",
+        "SEEE_SAFETY_IEC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_034",
+      "major_code": "SEEE",
+      "role_title": "Electrical System & MEP Design Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Tổng thầu Cơ điện M&E)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "SEEE_POWER_SYS",
+        "SEEE_AUTOCAD_EL",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SEEE_EPLAN_ETAP",
+        "SEEE_ENG_TECH",
+        "SEEE_M365_DOC",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_035",
+      "major_code": "SEEE",
+      "role_title": "SCADA / IIoT & Smart Factory Engineer Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Tập đoàn Công nghệ cao)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_SQL_MES",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_TELECOM_NET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_036",
+      "major_code": "SEEE",
+      "role_title": "Telecom & IoT Network Engineer Fresher",
+      "level": "Intern",
+      "source_group": "ITviec (Nhà mạng & Hạ tầng Viễn thông)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "SEEE_TELECOM_NET",
+        "SEEE_DSP_SIGNAL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_PROBLEM_SOLV"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MCU",
+        "SEEE_TECH_WRITING"
+      ]
+    },
+    {
+      "jd_id": "SEEE_037",
+      "major_code": "SEEE",
+      "role_title": "Hardware Test & Validation Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Điện tử FDI)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "SEEE_TEST_MEAS",
+        "SEEE_CIRCUITS",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_QA_QC",
+        "SEEE_M365_DOC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_LABVIEW",
+        "SEEE_C_PYTHON",
+        "SEEE_DATASHEET",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_038",
+      "major_code": "SEEE",
+      "role_title": "Biomedical Equipment & Field Engineer Intern",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết bị Y tế Quốc tế)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "SEEE_CALIBRATION",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_SAFETY_IEC",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH",
+        "SEEE_FIELD_SITE"
+      ],
+      "preferred_skills": [
+        "SEEE_DSP_SIGNAL",
+        "SEEE_TECH_WRITING",
+        "SEEE_TEST_MEAS",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_039",
+      "major_code": "SEEE",
+      "role_title": "IC Design / FPGA Engineer Intern (RTL/Verilog)",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Trung tâm Thiết kế Bán dẫn)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_FPGA_HDL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MATLAB",
+        "SEEE_DATASHEET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_040",
+      "major_code": "SEEE",
+      "role_title": "Control & Automation Maintenance Engineer",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Sản xuất Công nghiệp)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_DRIVES",
+        "SEEE_CALIBRATION",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_FIELD_SITE",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_041",
+      "major_code": "SEEE",
+      "role_title": "Automation / PLC Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy FDI Nhật/Hàn)",
+      "collected_date": "2026-11-05",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_BLUEPRINT",
+        "SEEE_DRIVES",
+        "SEEE_SAFETY_IEC",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_5S_KAIZEN",
+        "SEEE_EPLAN_ETAP"
+      ]
+    },
+    {
+      "jd_id": "SEEE_042",
+      "major_code": "SEEE",
+      "role_title": "Embedded Firmware Engineer Intern (STM32/ESP32)",
+      "level": "Fresher",
+      "source_group": "ITviec (Trung tâm R&D Điện tử / IoT)",
+      "collected_date": "2026-11-06",
+      "required_skills": [
+        "SEEE_MCU",
+        "SEEE_EMBEDDED_C",
+        "SEEE_CIRCUITS",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_ALTIUM",
+        "SEEE_TEST_MEAS",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_043",
+      "major_code": "SEEE",
+      "role_title": "Hardware / PCB Design Engineer Fresher (Altium)",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết kế Điện tử R&D)",
+      "collected_date": "2026-11-07",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_ALTIUM",
+        "SEEE_DATASHEET",
+        "SEEE_TEST_MEAS",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_PROBLEM_SOLV",
+        "SEEE_EXCEL_BOM",
+        "SEEE_SAFETY_IEC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_044",
+      "major_code": "SEEE",
+      "role_title": "Electrical System & MEP Design Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Tổng thầu Cơ điện M&E)",
+      "collected_date": "2026-11-08",
+      "required_skills": [
+        "SEEE_POWER_SYS",
+        "SEEE_AUTOCAD_EL",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SEEE_EPLAN_ETAP",
+        "SEEE_ENG_TECH",
+        "SEEE_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SEEE_045",
+      "major_code": "SEEE",
+      "role_title": "SCADA / IIoT & Smart Factory Engineer Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Tập đoàn Công nghệ cao)",
+      "collected_date": "2026-11-09",
+      "required_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SEEE_SQL_MES",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_TELECOM_NET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_046",
+      "major_code": "SEEE",
+      "role_title": "Telecom & IoT Network Engineer Fresher",
+      "level": "Intern",
+      "source_group": "ITviec (Nhà mạng & Hạ tầng Viễn thông)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "SEEE_TELECOM_NET",
+        "SEEE_DSP_SIGNAL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_PROBLEM_SOLV"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MCU",
+        "SEEE_TECH_WRITING",
+        "SEEE_EXCEL_BOM",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SEEE_047",
+      "major_code": "SEEE",
+      "role_title": "Hardware Test & Validation Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Điện tử FDI)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "SEEE_TEST_MEAS",
+        "SEEE_CIRCUITS",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_QA_QC",
+        "SEEE_M365_DOC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_LABVIEW",
+        "SEEE_C_PYTHON",
+        "SEEE_DATASHEET"
+      ]
+    },
+    {
+      "jd_id": "SEEE_048",
+      "major_code": "SEEE",
+      "role_title": "Biomedical Equipment & Field Engineer Intern",
+      "level": "Fresher",
+      "source_group": "TopCV (Công ty Thiết bị Y tế Quốc tế)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "SEEE_CALIBRATION",
+        "SEEE_SENSORS_MEAS",
+        "SEEE_SAFETY_IEC",
+        "SEEE_DATASHEET",
+        "SEEE_ENG_TECH",
+        "SEEE_FIELD_SITE"
+      ],
+      "preferred_skills": [
+        "SEEE_DSP_SIGNAL",
+        "SEEE_TECH_WRITING",
+        "SEEE_TEST_MEAS"
+      ]
+    },
+    {
+      "jd_id": "SEEE_049",
+      "major_code": "SEEE",
+      "role_title": "IC Design / FPGA Engineer Intern (RTL/Verilog)",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Trung tâm Thiết kế Bán dẫn)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "SEEE_CIRCUITS",
+        "SEEE_FPGA_HDL",
+        "SEEE_C_PYTHON",
+        "SEEE_ENG_TECH",
+        "SEEE_TEAMWORK"
+      ],
+      "preferred_skills": [
+        "SEEE_GIT",
+        "SEEE_MATLAB",
+        "SEEE_DATASHEET",
+        "SEEE_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SEEE_050",
+      "major_code": "SEEE",
+      "role_title": "Control & Automation Maintenance Engineer",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Sản xuất Công nghiệp)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "SEEE_PLC",
+        "SEEE_DRIVES",
+        "SEEE_CALIBRATION",
+        "SEEE_BLUEPRINT",
+        "SEEE_SAFETY_IEC",
+        "SEEE_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SEEE_IND_COMM",
+        "SEEE_FIELD_SITE",
+        "SEEE_EXCEL_BOM",
+        "SEEE_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SME_001",
+      "major_code": "SME",
+      "role_title": "Mechanical Design Engineer Fresher (SolidWorks/AutoCAD)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Cơ khí Chính xác FDI)",
+      "collected_date": "2026-11-05",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_AUTOCAD",
+        "SME_GDT_BLUEPRINT",
+        "SME_MACHINE_DESIGN",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_CAE_ANSYS",
+        "SME_EXCEL_BOM",
+        "SME_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SME_002",
+      "major_code": "SME",
+      "role_title": "Mechatronics & Automation Machine Builder Intern",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Công ty Tự động hóa & Robot)",
+      "collected_date": "2026-11-06",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_PLC_CTRL",
+        "SME_PNEUMATICS",
+        "SME_ROBOTICS",
+        "SME_GDT_BLUEPRINT"
+      ],
+      "preferred_skills": [
+        "SME_TEAMWORK",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "jd_id": "SME_003",
+      "major_code": "SME",
+      "role_title": "Production / Process Engineer (PE) Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Nhà máy Sản xuất Linh kiện FDI)",
+      "collected_date": "2026-11-07",
+      "required_skills": [
+        "SME_PROCESS_PE",
+        "SME_5S_KAIZEN",
+        "SME_QA_QC",
+        "SME_EXCEL_BOM",
+        "SME_SOP_WI",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_JP_KR",
+        "SME_OEE_BI",
+        "SME_GDT_BLUEPRINT",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_004",
+      "major_code": "SME",
+      "role_title": "CNC / CAM Manufacturing Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Xưởng Gia công Khuôn mẫu & CNC)",
+      "collected_date": "2026-11-08",
+      "required_skills": [
+        "SME_CNC_CAM",
+        "SME_SOLIDWORKS",
+        "SME_GDT_BLUEPRINT",
+        "SME_METROLOGY",
+        "SME_MATERIALS"
+      ],
+      "preferred_skills": [
+        "SME_FINISHING_MFG",
+        "SME_5S_KAIZEN",
+        "SME_SOP_WI",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_005",
+      "major_code": "SME",
+      "role_title": "Automotive Design & CAE Engineer Intern (CATIA/ANSYS)",
+      "level": "Intern",
+      "source_group": "ITviec / LinkedIn (Trung tâm R&D Ô tô & EV)",
+      "collected_date": "2026-11-09",
+      "required_skills": [
+        "SME_AUTO_THEORY",
+        "SME_CATIA_NX",
+        "SME_CAE_ANSYS",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_MATLAB",
+        "SME_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "SME_006",
+      "major_code": "SME",
+      "role_title": "Automotive Production QA/QC Engineer Fresher",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Nhà máy Lắp ráp Ô tô)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "SME_QA_QC",
+        "SME_METROLOGY",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN",
+        "SME_M365_DOC",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_ENG_TECH",
+        "SME_PDM_PLM"
+      ]
+    },
+    {
+      "jd_id": "SME_007",
+      "major_code": "SME",
+      "role_title": "HVAC & Thermal MEP Design Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Tổng thầu Cơ điện Lạnh & Tòa nhà)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "SME_HVAC_REFRIG",
+        "SME_THERMO_HEAT",
+        "SME_REVIT_HVAC",
+        "SME_AUTOCAD",
+        "SME_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SME_ENG_TECH",
+        "SME_FIELD_FACTORY",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_008",
+      "major_code": "SME",
+      "role_title": "Equipment Maintenance & TPM Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Công nghiệp FDI)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "SME_MAINTENANCE",
+        "SME_PNEUMATICS",
+        "SME_SAFETY_EHS",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SME_PLC_CTRL",
+        "SME_FIELD_FACTORY",
+        "SME_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SME_009",
+      "major_code": "SME",
+      "role_title": "Robotics & Machine Vision R&D Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Startup Robot Công nghiệp)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "SME_ROBOTICS",
+        "SME_SOLIDWORKS",
+        "SME_PROG_PY_C",
+        "SME_PLC_CTRL",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_MATLAB",
+        "SME_CAE_ANSYS",
+        "SME_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "SME_010",
+      "major_code": "SME",
+      "role_title": "Jig / Fixture & Mold Design Engineer Fresher",
+      "level": "Intern",
+      "source_group": "TopCV (Nhà máy Cơ khí Nhật Bản)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "SME_MACHINE_DESIGN",
+        "SME_SOLIDWORKS",
+        "SME_CATIA_NX",
+        "SME_GDT_BLUEPRINT",
+        "SME_FINISHING_MFG",
+        "SME_JP_KR"
+      ],
+      "preferred_skills": [
+        "SME_CNC_CAM",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_011",
+      "major_code": "SME",
+      "role_title": "Mechanical Design Engineer Fresher (SolidWorks/AutoCAD)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Cơ khí Chính xác FDI)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_AUTOCAD",
+        "SME_GDT_BLUEPRINT",
+        "SME_MACHINE_DESIGN",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_CAE_ANSYS",
+        "SME_EXCEL_BOM",
+        "SME_JP_KR",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_012",
+      "major_code": "SME",
+      "role_title": "Mechatronics & Automation Machine Builder Intern",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Công ty Tự động hóa & Robot)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_PLC_CTRL",
+        "SME_PNEUMATICS",
+        "SME_ROBOTICS",
+        "SME_GDT_BLUEPRINT"
+      ],
+      "preferred_skills": [
+        "SME_TEAMWORK",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "jd_id": "SME_013",
+      "major_code": "SME",
+      "role_title": "Production / Process Engineer (PE) Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Nhà máy Sản xuất Linh kiện FDI)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "SME_PROCESS_PE",
+        "SME_5S_KAIZEN",
+        "SME_QA_QC",
+        "SME_EXCEL_BOM",
+        "SME_SOP_WI",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_JP_KR",
+        "SME_OEE_BI",
+        "SME_GDT_BLUEPRINT",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_014",
+      "major_code": "SME",
+      "role_title": "CNC / CAM Manufacturing Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Xưởng Gia công Khuôn mẫu & CNC)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "SME_CNC_CAM",
+        "SME_SOLIDWORKS",
+        "SME_GDT_BLUEPRINT",
+        "SME_METROLOGY",
+        "SME_MATERIALS"
+      ],
+      "preferred_skills": [
+        "SME_FINISHING_MFG",
+        "SME_5S_KAIZEN",
+        "SME_SOP_WI"
+      ]
+    },
+    {
+      "jd_id": "SME_015",
+      "major_code": "SME",
+      "role_title": "Automotive Design & CAE Engineer Intern (CATIA/ANSYS)",
+      "level": "Intern",
+      "source_group": "ITviec / LinkedIn (Trung tâm R&D Ô tô & EV)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "SME_AUTO_THEORY",
+        "SME_CATIA_NX",
+        "SME_CAE_ANSYS",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_MATLAB",
+        "SME_TEAMWORK",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_016",
+      "major_code": "SME",
+      "role_title": "Automotive Production QA/QC Engineer Fresher",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Nhà máy Lắp ráp Ô tô)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "SME_QA_QC",
+        "SME_METROLOGY",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN",
+        "SME_M365_DOC",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_ENG_TECH",
+        "SME_PDM_PLM"
+      ]
+    },
+    {
+      "jd_id": "SME_017",
+      "major_code": "SME",
+      "role_title": "HVAC & Thermal MEP Design Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Tổng thầu Cơ điện Lạnh & Tòa nhà)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "SME_HVAC_REFRIG",
+        "SME_THERMO_HEAT",
+        "SME_REVIT_HVAC",
+        "SME_AUTOCAD",
+        "SME_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SME_ENG_TECH",
+        "SME_FIELD_FACTORY",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_018",
+      "major_code": "SME",
+      "role_title": "Equipment Maintenance & TPM Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Công nghiệp FDI)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "SME_MAINTENANCE",
+        "SME_PNEUMATICS",
+        "SME_SAFETY_EHS",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SME_PLC_CTRL",
+        "SME_FIELD_FACTORY",
+        "SME_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SME_019",
+      "major_code": "SME",
+      "role_title": "Robotics & Machine Vision R&D Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Startup Robot Công nghiệp)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "SME_ROBOTICS",
+        "SME_SOLIDWORKS",
+        "SME_PROG_PY_C",
+        "SME_PLC_CTRL",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_MATLAB",
+        "SME_CAE_ANSYS",
+        "SME_TEAMWORK",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_020",
+      "major_code": "SME",
+      "role_title": "Jig / Fixture & Mold Design Engineer Fresher",
+      "level": "Intern",
+      "source_group": "TopCV (Nhà máy Cơ khí Nhật Bản)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "SME_MACHINE_DESIGN",
+        "SME_SOLIDWORKS",
+        "SME_CATIA_NX",
+        "SME_GDT_BLUEPRINT",
+        "SME_FINISHING_MFG",
+        "SME_JP_KR"
+      ],
+      "preferred_skills": [
+        "SME_CNC_CAM",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "jd_id": "SME_021",
+      "major_code": "SME",
+      "role_title": "Mechanical Design Engineer Fresher (SolidWorks/AutoCAD)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Cơ khí Chính xác FDI)",
+      "collected_date": "2026-11-05",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_AUTOCAD",
+        "SME_GDT_BLUEPRINT",
+        "SME_MACHINE_DESIGN",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_CAE_ANSYS",
+        "SME_EXCEL_BOM",
+        "SME_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SME_022",
+      "major_code": "SME",
+      "role_title": "Mechatronics & Automation Machine Builder Intern",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Công ty Tự động hóa & Robot)",
+      "collected_date": "2026-11-06",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_PLC_CTRL",
+        "SME_PNEUMATICS",
+        "SME_ROBOTICS",
+        "SME_GDT_BLUEPRINT"
+      ],
+      "preferred_skills": [
+        "SME_TEAMWORK",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_023",
+      "major_code": "SME",
+      "role_title": "Production / Process Engineer (PE) Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Nhà máy Sản xuất Linh kiện FDI)",
+      "collected_date": "2026-11-07",
+      "required_skills": [
+        "SME_PROCESS_PE",
+        "SME_5S_KAIZEN",
+        "SME_QA_QC",
+        "SME_EXCEL_BOM",
+        "SME_SOP_WI",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_JP_KR",
+        "SME_OEE_BI",
+        "SME_GDT_BLUEPRINT",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_024",
+      "major_code": "SME",
+      "role_title": "CNC / CAM Manufacturing Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Xưởng Gia công Khuôn mẫu & CNC)",
+      "collected_date": "2026-11-08",
+      "required_skills": [
+        "SME_CNC_CAM",
+        "SME_SOLIDWORKS",
+        "SME_GDT_BLUEPRINT",
+        "SME_METROLOGY",
+        "SME_MATERIALS"
+      ],
+      "preferred_skills": [
+        "SME_FINISHING_MFG",
+        "SME_5S_KAIZEN",
+        "SME_SOP_WI"
+      ]
+    },
+    {
+      "jd_id": "SME_025",
+      "major_code": "SME",
+      "role_title": "Automotive Design & CAE Engineer Intern (CATIA/ANSYS)",
+      "level": "Intern",
+      "source_group": "ITviec / LinkedIn (Trung tâm R&D Ô tô & EV)",
+      "collected_date": "2026-11-09",
+      "required_skills": [
+        "SME_AUTO_THEORY",
+        "SME_CATIA_NX",
+        "SME_CAE_ANSYS",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_MATLAB",
+        "SME_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "SME_026",
+      "major_code": "SME",
+      "role_title": "Automotive Production QA/QC Engineer Fresher",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Nhà máy Lắp ráp Ô tô)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "SME_QA_QC",
+        "SME_METROLOGY",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN",
+        "SME_M365_DOC",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_ENG_TECH",
+        "SME_PDM_PLM"
+      ]
+    },
+    {
+      "jd_id": "SME_027",
+      "major_code": "SME",
+      "role_title": "HVAC & Thermal MEP Design Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Tổng thầu Cơ điện Lạnh & Tòa nhà)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "SME_HVAC_REFRIG",
+        "SME_THERMO_HEAT",
+        "SME_REVIT_HVAC",
+        "SME_AUTOCAD",
+        "SME_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SME_ENG_TECH",
+        "SME_FIELD_FACTORY",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_028",
+      "major_code": "SME",
+      "role_title": "Equipment Maintenance & TPM Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Công nghiệp FDI)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "SME_MAINTENANCE",
+        "SME_PNEUMATICS",
+        "SME_SAFETY_EHS",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SME_PLC_CTRL",
+        "SME_FIELD_FACTORY",
+        "SME_EXCEL_BOM",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_029",
+      "major_code": "SME",
+      "role_title": "Robotics & Machine Vision R&D Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Startup Robot Công nghiệp)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "SME_ROBOTICS",
+        "SME_SOLIDWORKS",
+        "SME_PROG_PY_C",
+        "SME_PLC_CTRL",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_MATLAB",
+        "SME_CAE_ANSYS",
+        "SME_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "SME_030",
+      "major_code": "SME",
+      "role_title": "Jig / Fixture & Mold Design Engineer Fresher",
+      "level": "Intern",
+      "source_group": "TopCV (Nhà máy Cơ khí Nhật Bản)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "SME_MACHINE_DESIGN",
+        "SME_SOLIDWORKS",
+        "SME_CATIA_NX",
+        "SME_GDT_BLUEPRINT",
+        "SME_FINISHING_MFG",
+        "SME_JP_KR"
+      ],
+      "preferred_skills": [
+        "SME_CNC_CAM",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "jd_id": "SME_031",
+      "major_code": "SME",
+      "role_title": "Mechanical Design Engineer Fresher (SolidWorks/AutoCAD)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Cơ khí Chính xác FDI)",
+      "collected_date": "2026-11-15",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_AUTOCAD",
+        "SME_GDT_BLUEPRINT",
+        "SME_MACHINE_DESIGN",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_CAE_ANSYS",
+        "SME_EXCEL_BOM",
+        "SME_JP_KR",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_032",
+      "major_code": "SME",
+      "role_title": "Mechatronics & Automation Machine Builder Intern",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Công ty Tự động hóa & Robot)",
+      "collected_date": "2026-11-16",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_PLC_CTRL",
+        "SME_PNEUMATICS",
+        "SME_ROBOTICS",
+        "SME_GDT_BLUEPRINT"
+      ],
+      "preferred_skills": [
+        "SME_TEAMWORK",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "jd_id": "SME_033",
+      "major_code": "SME",
+      "role_title": "Production / Process Engineer (PE) Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Nhà máy Sản xuất Linh kiện FDI)",
+      "collected_date": "2026-11-17",
+      "required_skills": [
+        "SME_PROCESS_PE",
+        "SME_5S_KAIZEN",
+        "SME_QA_QC",
+        "SME_EXCEL_BOM",
+        "SME_SOP_WI",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_JP_KR",
+        "SME_OEE_BI",
+        "SME_GDT_BLUEPRINT"
+      ]
+    },
+    {
+      "jd_id": "SME_034",
+      "major_code": "SME",
+      "role_title": "CNC / CAM Manufacturing Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Xưởng Gia công Khuôn mẫu & CNC)",
+      "collected_date": "2026-11-18",
+      "required_skills": [
+        "SME_CNC_CAM",
+        "SME_SOLIDWORKS",
+        "SME_GDT_BLUEPRINT",
+        "SME_METROLOGY",
+        "SME_MATERIALS"
+      ],
+      "preferred_skills": [
+        "SME_FINISHING_MFG",
+        "SME_5S_KAIZEN",
+        "SME_SOP_WI",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_035",
+      "major_code": "SME",
+      "role_title": "Automotive Design & CAE Engineer Intern (CATIA/ANSYS)",
+      "level": "Intern",
+      "source_group": "ITviec / LinkedIn (Trung tâm R&D Ô tô & EV)",
+      "collected_date": "2026-11-19",
+      "required_skills": [
+        "SME_AUTO_THEORY",
+        "SME_CATIA_NX",
+        "SME_CAE_ANSYS",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_MATLAB",
+        "SME_TEAMWORK",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_036",
+      "major_code": "SME",
+      "role_title": "Automotive Production QA/QC Engineer Fresher",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Nhà máy Lắp ráp Ô tô)",
+      "collected_date": "2026-11-20",
+      "required_skills": [
+        "SME_QA_QC",
+        "SME_METROLOGY",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN",
+        "SME_M365_DOC",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_ENG_TECH",
+        "SME_PDM_PLM"
+      ]
+    },
+    {
+      "jd_id": "SME_037",
+      "major_code": "SME",
+      "role_title": "HVAC & Thermal MEP Design Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Tổng thầu Cơ điện Lạnh & Tòa nhà)",
+      "collected_date": "2026-11-21",
+      "required_skills": [
+        "SME_HVAC_REFRIG",
+        "SME_THERMO_HEAT",
+        "SME_REVIT_HVAC",
+        "SME_AUTOCAD",
+        "SME_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SME_ENG_TECH",
+        "SME_FIELD_FACTORY",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_038",
+      "major_code": "SME",
+      "role_title": "Equipment Maintenance & TPM Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Công nghiệp FDI)",
+      "collected_date": "2026-11-22",
+      "required_skills": [
+        "SME_MAINTENANCE",
+        "SME_PNEUMATICS",
+        "SME_SAFETY_EHS",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SME_PLC_CTRL",
+        "SME_FIELD_FACTORY",
+        "SME_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SME_039",
+      "major_code": "SME",
+      "role_title": "Robotics & Machine Vision R&D Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Startup Robot Công nghiệp)",
+      "collected_date": "2026-11-23",
+      "required_skills": [
+        "SME_ROBOTICS",
+        "SME_SOLIDWORKS",
+        "SME_PROG_PY_C",
+        "SME_PLC_CTRL",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_MATLAB",
+        "SME_CAE_ANSYS",
+        "SME_TEAMWORK",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_040",
+      "major_code": "SME",
+      "role_title": "Jig / Fixture & Mold Design Engineer Fresher",
+      "level": "Intern",
+      "source_group": "TopCV (Nhà máy Cơ khí Nhật Bản)",
+      "collected_date": "2026-11-24",
+      "required_skills": [
+        "SME_MACHINE_DESIGN",
+        "SME_SOLIDWORKS",
+        "SME_CATIA_NX",
+        "SME_GDT_BLUEPRINT",
+        "SME_FINISHING_MFG",
+        "SME_JP_KR"
+      ],
+      "preferred_skills": [
+        "SME_CNC_CAM",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "jd_id": "SME_041",
+      "major_code": "SME",
+      "role_title": "Mechanical Design Engineer Fresher (SolidWorks/AutoCAD)",
+      "level": "Fresher",
+      "source_group": "VietnamWorks (Nhà máy Cơ khí Chính xác FDI)",
+      "collected_date": "2026-11-05",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_AUTOCAD",
+        "SME_GDT_BLUEPRINT",
+        "SME_MACHINE_DESIGN",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_CAE_ANSYS",
+        "SME_EXCEL_BOM",
+        "SME_JP_KR"
+      ]
+    },
+    {
+      "jd_id": "SME_042",
+      "major_code": "SME",
+      "role_title": "Mechatronics & Automation Machine Builder Intern",
+      "level": "Fresher",
+      "source_group": "LinkedIn Public (Công ty Tự động hóa & Robot)",
+      "collected_date": "2026-11-06",
+      "required_skills": [
+        "SME_SOLIDWORKS",
+        "SME_PLC_CTRL",
+        "SME_PNEUMATICS",
+        "SME_ROBOTICS",
+        "SME_GDT_BLUEPRINT"
+      ],
+      "preferred_skills": [
+        "SME_TEAMWORK",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "jd_id": "SME_043",
+      "major_code": "SME",
+      "role_title": "Production / Process Engineer (PE) Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Nhà máy Sản xuất Linh kiện FDI)",
+      "collected_date": "2026-11-07",
+      "required_skills": [
+        "SME_PROCESS_PE",
+        "SME_5S_KAIZEN",
+        "SME_QA_QC",
+        "SME_EXCEL_BOM",
+        "SME_SOP_WI",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_JP_KR",
+        "SME_OEE_BI",
+        "SME_GDT_BLUEPRINT",
+        "SME_ENG_TECH",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_044",
+      "major_code": "SME",
+      "role_title": "CNC / CAM Manufacturing Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Xưởng Gia công Khuôn mẫu & CNC)",
+      "collected_date": "2026-11-08",
+      "required_skills": [
+        "SME_CNC_CAM",
+        "SME_SOLIDWORKS",
+        "SME_GDT_BLUEPRINT",
+        "SME_METROLOGY",
+        "SME_MATERIALS"
+      ],
+      "preferred_skills": [
+        "SME_FINISHING_MFG",
+        "SME_5S_KAIZEN",
+        "SME_SOP_WI"
+      ]
+    },
+    {
+      "jd_id": "SME_045",
+      "major_code": "SME",
+      "role_title": "Automotive Design & CAE Engineer Intern (CATIA/ANSYS)",
+      "level": "Intern",
+      "source_group": "ITviec / LinkedIn (Trung tâm R&D Ô tô & EV)",
+      "collected_date": "2026-11-09",
+      "required_skills": [
+        "SME_AUTO_THEORY",
+        "SME_CATIA_NX",
+        "SME_CAE_ANSYS",
+        "SME_MECHANICS",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_MATLAB",
+        "SME_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "SME_046",
+      "major_code": "SME",
+      "role_title": "Automotive Production QA/QC Engineer Fresher",
+      "level": "Intern",
+      "source_group": "VietnamWorks (Nhà máy Lắp ráp Ô tô)",
+      "collected_date": "2026-11-10",
+      "required_skills": [
+        "SME_QA_QC",
+        "SME_METROLOGY",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN",
+        "SME_M365_DOC",
+        "SME_ROOT_CAUSE"
+      ],
+      "preferred_skills": [
+        "SME_AUTO_ELEC",
+        "SME_ENG_TECH",
+        "SME_PDM_PLM"
+      ]
+    },
+    {
+      "jd_id": "SME_047",
+      "major_code": "SME",
+      "role_title": "HVAC & Thermal MEP Design Engineer Fresher",
+      "level": "Fresher",
+      "source_group": "TopCV (Tổng thầu Cơ điện Lạnh & Tòa nhà)",
+      "collected_date": "2026-11-11",
+      "required_skills": [
+        "SME_HVAC_REFRIG",
+        "SME_THERMO_HEAT",
+        "SME_REVIT_HVAC",
+        "SME_AUTOCAD",
+        "SME_EXCEL_BOM"
+      ],
+      "preferred_skills": [
+        "SME_ENG_TECH",
+        "SME_FIELD_FACTORY",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "jd_id": "SME_048",
+      "major_code": "SME",
+      "role_title": "Equipment Maintenance & TPM Engineer Fresher",
+      "level": "Intern",
+      "source_group": "CareerViet (Nhà máy Công nghiệp FDI)",
+      "collected_date": "2026-11-12",
+      "required_skills": [
+        "SME_MAINTENANCE",
+        "SME_PNEUMATICS",
+        "SME_SAFETY_EHS",
+        "SME_GDT_BLUEPRINT",
+        "SME_5S_KAIZEN"
+      ],
+      "preferred_skills": [
+        "SME_PLC_CTRL",
+        "SME_FIELD_FACTORY",
+        "SME_EXCEL_BOM"
+      ]
+    },
+    {
+      "jd_id": "SME_049",
+      "major_code": "SME",
+      "role_title": "Robotics & Machine Vision R&D Intern",
+      "level": "Intern",
+      "source_group": "LinkedIn Public (Startup Robot Công nghiệp)",
+      "collected_date": "2026-11-13",
+      "required_skills": [
+        "SME_ROBOTICS",
+        "SME_SOLIDWORKS",
+        "SME_PROG_PY_C",
+        "SME_PLC_CTRL",
+        "SME_ENG_TECH"
+      ],
+      "preferred_skills": [
+        "SME_MATLAB",
+        "SME_CAE_ANSYS",
+        "SME_TEAMWORK"
+      ]
+    },
+    {
+      "jd_id": "SME_050",
+      "major_code": "SME",
+      "role_title": "Jig / Fixture & Mold Design Engineer Fresher",
+      "level": "Intern",
+      "source_group": "TopCV (Nhà máy Cơ khí Nhật Bản)",
+      "collected_date": "2026-11-14",
+      "required_skills": [
+        "SME_MACHINE_DESIGN",
+        "SME_SOLIDWORKS",
+        "SME_CATIA_NX",
+        "SME_GDT_BLUEPRINT",
+        "SME_FINISHING_MFG",
+        "SME_JP_KR"
+      ],
+      "preferred_skills": [
+        "SME_CNC_CAM",
+        "SME_EXCEL_BOM",
+        "SME_5S_KAIZEN"
+      ]
+    }
+  ]
+}

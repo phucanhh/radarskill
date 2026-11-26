@@ -1,0 +1,1373 @@
+{
+  "version": "2.0.0",
+  "clubs": [
+    {
+      "club_id": "CLUB_EHUB",
+      "name_vi": "CLB tiếng Anh eHub (HUST)",
+      "short_name": "eHub",
+      "is_partner_club": true,
+      "focus_vi": "Tiếng Anh giao tiếp, Tiếng Anh chuyên ngành Kỹ thuật/Thương mại, Mock Interview bằng tiếng Anh và kỹ năng thuyết trình.",
+      "activities_vi": [
+        "Speaking Club hàng tuần",
+        "Workshop viết CV & Mock Interview tiếng Anh",
+        "Luyện thi IELTS / TOEIC định hướng kỹ sư"
+      ],
+      "target_majors": [
+        "IT",
+        "SEEE",
+        "SME"
+      ],
+      "target_axes": [
+        "IT_AX6",
+        "SEEE_AX6",
+        "SME_AX6"
+      ],
+      "target_skills": [
+        "IT_ENG_READ",
+        "IT_ENG_COMM",
+        "SEEE_ENG_TECH",
+        "SME_ENG_TECH"
+      ]
+    },
+    {
+      "club_id": "CLUB_O365",
+      "name_vi": "CLB o365 - HUST",
+      "short_name": "o365 - HUST",
+      "is_partner_club": true,
+      "focus_vi": "Kỹ năng số, Microsoft 365, Excel nâng cao, Power BI, Power Automate, quản lý dữ liệu và năng suất làm việc doanh nghiệp.",
+      "activities_vi": [
+        "Chuỗi training Excel Pivot/Power Query & Power BI",
+        "Workshop tự động hóa quy trình với Power Automate",
+        "Ôn thi chứng chỉ MOS / Microsoft Learn"
+      ],
+      "target_majors": [
+        "IT",
+        "SEEE",
+        "SME"
+      ],
+      "target_axes": [
+        "IT_AX4",
+        "SEEE_AX5",
+        "SME_AX5"
+      ],
+      "target_skills": [
+        "IT_DATA_PY",
+        "SEEE_EXCEL_BOM",
+        "SEEE_M365_DOC",
+        "SME_EXCEL_BOM",
+        "SME_OEE_BI",
+        "SME_M365_DOC"
+      ]
+    },
+    {
+      "club_id": "CLUB_HEDSPI_NICHIBU",
+      "name_vi": "CLB HEDSPI NICHIBU (Việt-Nhật SoICT)",
+      "short_name": "HEDSPI NICHIBU",
+      "is_partner_club": true,
+      "focus_vi": "Lập trình thực chiến, giao lưu doanh nghiệp IT Việt-Nhật, văn hóa làm việc Nhật Bản (Horenso), tiếng Nhật CNTT (JLPT N3-N2) và định hướng BrSE.",
+      "activities_vi": [
+        "Workshop Fullstack, Git Flow & Docker thực chiến",
+        "Định hướng nghề nghiệp BrSE / Kỹ sư CNTT thị trường Nhật",
+        "Luyện phỏng vấn kỹ thuật & tiếng Nhật chuyên ngành IT"
+      ],
+      "target_majors": [
+        "IT",
+        "SEEE",
+        "SME"
+      ],
+      "target_axes": [
+        "IT_AX5",
+        "IT_AX6",
+        "SEEE_AX6",
+        "SME_AX6"
+      ],
+      "target_skills": [
+        "IT_JAPANESE",
+        "IT_GIT",
+        "IT_AGILE",
+        "SEEE_JP_KR",
+        "SEEE_5S_KAIZEN",
+        "SME_JP_KR",
+        "SME_5S_KAIZEN"
+      ]
+    },
+    {
+      "club_id": "CLUB_SOICT_INNOVATION",
+      "name_vi": "CLB Sáng tạo & Lập trình SoICT (BK-CS / AI Club)",
+      "short_name": "SoICT AI & Dev",
+      "is_partner_club": false,
+      "focus_vi": "Thuật toán, Hackathon, AI/Machine Learning, Cloud/DevOps và triển khai dự án mã nguồn mở.",
+      "activities_vi": [
+        "Luyện giải thuật & ICPC",
+        "Hackathon xây dựng sản phẩm AI/Web trong 48h",
+        "Seminar Cloud, Docker & MLOps"
+      ],
+      "target_majors": [
+        "IT"
+      ],
+      "target_axes": [
+        "IT_AX1",
+        "IT_AX4",
+        "IT_AX5"
+      ],
+      "target_skills": [
+        "IT_DSA",
+        "IT_ML_AI",
+        "IT_DOCKER",
+        "IT_CLOUD",
+        "IT_CICD",
+        "IT_TESTING"
+      ]
+    },
+    {
+      "club_id": "CLUB_SEEE_AUTO",
+      "name_vi": "CLB Tự động hóa & Hệ thống Nhúng (SEEE)",
+      "short_name": "SEEE Automation",
+      "is_partner_club": false,
+      "focus_vi": "Thiết kế mạch PCB Altium, lập trình vi điều khiển STM32/ESP32, PLC Siemens và IoT công nghiệp.",
+      "activities_vi": [
+        "Lab mở thực hành hàn mạch & đo Oscilloscope",
+        "Đội thi Robocon / Thiết kế hệ thống nhúng",
+        "Workshop lập trình PLC TIA Portal & SCADA"
+      ],
+      "target_majors": [
+        "SEEE",
+        "SME"
+      ],
+      "target_axes": [
+        "SEEE_AX2",
+        "SEEE_AX3",
+        "SEEE_AX4",
+        "SME_AX3"
+      ],
+      "target_skills": [
+        "SEEE_ALTIUM",
+        "SEEE_MCU",
+        "SEEE_EMBEDDED_C",
+        "SEEE_PLC",
+        "SEEE_HMI_SCADA",
+        "SME_PLC_CTRL"
+      ]
+    },
+    {
+      "club_id": "CLUB_SME_CAD",
+      "name_vi": "CLB Cơ khí - Cơ điện tử & Thiết kế CAD/CAM (SME)",
+      "short_name": "SME CAD/Mechatronics",
+      "is_partner_club": false,
+      "focus_vi": "Thiết kế 3D SolidWorks/Inventor, mô phỏng ANSYS, gia công CNC và chế tạo mô hình cơ điện tử.",
+      "activities_vi": [
+        "Luyện chứng chỉ SolidWorks CSWA/CSWP",
+        "Dự án chế tạo cánh tay Robot & Jig cơ khí",
+        "Chia sẻ kinh nghiệm đọc bản vẽ GD&T từ cựu sinh viên"
+      ],
+      "target_majors": [
+        "SME",
+        "SEEE"
+      ],
+      "target_axes": [
+        "SME_AX1",
+        "SME_AX2",
+        "SME_AX4",
+        "SEEE_AX2"
+      ],
+      "target_skills": [
+        "SME_SOLIDWORKS",
+        "SME_AUTOCAD",
+        "SME_CAE_ANSYS",
+        "SME_GDT_BLUEPRINT",
+        "SME_ROBOTICS",
+        "SEEE_AUTOCAD_EL"
+      ]
+    }
+  ],
+  "by_axis": {
+    "IT_AX1": {
+      "major_code": "IT",
+      "next_semester_electives": [
+        {
+          "course_code": "IT3170",
+          "reason_vi": "Củng cố tư duy giải thuật ứng dụng và tối ưu hóa độ phức tạp cho vòng phỏng vấn kỹ thuật."
+        },
+        {
+          "course_code": "IT3080",
+          "reason_vi": "Nắm chắc giao thức TCP/IP, HTTP/DNS làm nền tảng cho phát triển Web và Cloud."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SOICT_INNOVATION",
+          "reason_vi": "Tham gia luyện tập giải thuật định kỳ và giải bài toán thực tế theo nhóm."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "NeetCode 150 / Algorithms Specialization",
+          "provider": "Coursera (Stanford) / NeetCode",
+          "type": "Khóa học online",
+          "duration": "6–8 tuần",
+          "cost_note": "Miễn phí (Audit / Financial Aid)",
+          "target_skills": [
+            "IT_DSA",
+            "IT_PROBLEM_SOLVING"
+          ]
+        },
+        {
+          "title": "Clean Code & Object-Oriented Design Patterns",
+          "provider": "Refactoring.Guru / Udemy",
+          "type": "Tài liệu & thực hành",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "IT_OOP"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Xây dựng bộ công cụ trực quan hóa thuật toán đồ thị & tìm đường (Algorithm Visualizer)",
+          "difficulty": "Trung bình",
+          "duration_weeks": 3,
+          "description_vi": "Ứng dụng web minh họa trực quan BFS/DFS/Dijkstra/A* trên bản đồ khuôn viên Đại học Bách khoa Hà Nội.",
+          "deliverables_vi": [
+            "Repo GitHub có benchmark thời gian chạy",
+            "Demo web tương tác trực tiếp"
+          ],
+          "target_skills": [
+            "IT_DSA",
+            "IT_OOP",
+            "IT_PROBLEM_SOLVING"
+          ]
+        }
+      ]
+    },
+    "IT_AX2": {
+      "major_code": "IT",
+      "next_semester_electives": [
+        {
+          "course_code": "IT4409",
+          "reason_vi": "Xây dựng hoàn chỉnh REST API, xác thực người dùng và kết nối CSDL trong bài tập lớn."
+        },
+        {
+          "course_code": "IT3090",
+          "reason_vi": "Thành thạo chuẩn hóa CSDL, viết truy vấn SQL phức tạp và tối ưu Index."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_HEDSPI_NICHIBU",
+          "reason_vi": "Học quy chuẩn thiết kế Backend thực chiến từ các anh chị khóa trên và doanh nghiệp đối tác."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "FastAPI & PostgreSQL Production Backend",
+          "provider": "Full Stack Open / Official Docs",
+          "type": "Khóa học thực hành",
+          "duration": "4–6 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "IT_PYTHON_BE",
+            "IT_REST_API",
+            "IT_SQL"
+          ]
+        },
+        {
+          "title": "Meta Back-End Developer Professional Certificate",
+          "provider": "Coursera",
+          "type": "Chứng chỉ",
+          "duration": "2–3 tháng",
+          "cost_note": "Hỗ trợ Financial Aid cho sinh viên",
+          "target_skills": [
+            "IT_REST_API",
+            "IT_SQL",
+            "IT_AUTH_SEC"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Hệ thống Backend đặt phòng học & quản lý sự kiện CLB (FastAPI + PostgreSQL + Redis)",
+          "difficulty": "Trung bình",
+          "duration_weeks": 4,
+          "description_vi": "Thiết kế REST API chuẩn OpenAPI, phân quyền JWT (Sinh viên/CLB/Admin), chống đặt trùng lịch bằng transaction SQL và cache Redis.",
+          "deliverables_vi": [
+            "Tài liệu Swagger UI đầy đủ",
+            "Docker Compose chạy 1 lệnh",
+            "Bộ Postman collection test tự động"
+          ],
+          "target_skills": [
+            "IT_PYTHON_BE",
+            "IT_REST_API",
+            "IT_SQL",
+            "IT_AUTH_SEC",
+            "IT_NOSQL_CACHE"
+          ]
+        }
+      ]
+    },
+    "IT_AX3": {
+      "major_code": "IT",
+      "next_semester_electives": [
+        {
+          "course_code": "IT4441",
+          "reason_vi": "Rèn tư duy thiết kế giao diện UI/UX, đọc Figma và tối ưu trải nghiệm người dùng."
+        },
+        {
+          "course_code": "IT4785",
+          "reason_vi": "Mở rộng khả năng phát triển giao diện sang ứng dụng di động đa nền tảng."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_HEDSPI_NICHIBU",
+          "reason_vi": "Thực hành làm sản phẩm Web/Frontend theo nhóm chuẩn quy trình doanh nghiệp."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Full Stack Open (React + TypeScript)",
+          "provider": "University of Helsinki",
+          "type": "Khóa học đại học mở",
+          "duration": "6 tuần",
+          "cost_note": "Miễn phí + có chứng chỉ",
+          "target_skills": [
+            "IT_REACT",
+            "IT_TYPESCRIPT",
+            "IT_HTML_CSS_JS"
+          ]
+        },
+        {
+          "title": "Google UX Design Foundations",
+          "provider": "Coursera",
+          "type": "Chứng chỉ",
+          "duration": "4 tuần",
+          "cost_note": "Financial Aid",
+          "target_skills": [
+            "IT_UX_FIGMA",
+            "IT_TAILWIND_UI"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Dashboard Quản lý Lộ trình Học tập & Tín chỉ HUST (React + TypeScript + Tailwind)",
+          "difficulty": "Trung bình",
+          "duration_weeks": 4,
+          "description_vi": "Giao diện kéo-thả kế hoạch môn học theo kỳ, tính GPA giả lập và trực quan hóa tiến độ hoàn thành CTĐT bằng biểu đồ tương tác.",
+          "deliverables_vi": [
+            "Triển khai live trên Vercel",
+            "Responsive chuẩn Mobile & Desktop",
+            "Component chuẩn TypeScript"
+          ],
+          "target_skills": [
+            "IT_REACT",
+            "IT_TYPESCRIPT",
+            "IT_TAILWIND_UI",
+            "IT_UX_FIGMA"
+          ]
+        }
+      ]
+    },
+    "IT_AX4": {
+      "major_code": "IT",
+      "next_semester_electives": [
+        {
+          "course_code": "IT4866",
+          "reason_vi": "Trang bị trực tiếp kỹ năng Docker, Linux, AWS/Cloud và tự động hóa CI/CD đang thiếu nhiều nhất ở sinh viên."
+        },
+        {
+          "course_code": "IT4930",
+          "reason_vi": "Nâng cao năng lực xử lý dữ liệu bằng Python/Pandas và triển khai mô hình AI."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SOICT_INNOVATION",
+          "reason_vi": "Tham gia các buổi seminar Cloud/AI và Hackathon triển khai sản phẩm thực tế."
+        },
+        {
+          "club_id": "CLUB_O365",
+          "reason_vi": "Bổ sung kỹ năng trực quan hóa dữ liệu và hệ sinh thái Microsoft Azure/Power Platform."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "AWS Cloud Practitioner Essentials",
+          "provider": "AWS Skill Builder",
+          "type": "Chứng chỉ Cloud",
+          "duration": "4 tuần",
+          "cost_note": "Học miễn phí (thi chứng chỉ có ưu đãi SV)",
+          "target_skills": [
+            "IT_CLOUD",
+            "IT_LINUX"
+          ]
+        },
+        {
+          "title": "Docker & GitHub Actions CI/CD Hands-on",
+          "provider": "Microsoft Learn / Docker Docs",
+          "type": "Lab thực hành",
+          "duration": "2–3 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "IT_DOCKER",
+            "IT_CICD"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Pipeline tự động triển khai Web App tích hợp AI trích xuất CV (Docker + GitHub Actions + LLM API)",
+          "difficulty": "Khá",
+          "duration_weeks": 4,
+          "description_vi": "Đóng gói ứng dụng FastAPI + React bằng multi-stage Docker, thiết lập GitHub Actions tự chạy test và deploy lên Cloud khi push code.",
+          "deliverables_vi": [
+            "Dockerfile + docker-compose.yml chuẩn production",
+            "Workflow CI/CD xanh 100%",
+            "API trích xuất kỹ năng chạy thực tế"
+          ],
+          "target_skills": [
+            "IT_DOCKER",
+            "IT_CICD",
+            "IT_CLOUD",
+            "IT_ML_AI",
+            "IT_LINUX"
+          ]
+        }
+      ]
+    },
+    "IT_AX5": {
+      "major_code": "IT",
+      "next_semester_electives": [
+        {
+          "course_code": "IT4501",
+          "reason_vi": "Học bài bản về Unit Test, Integration Test, Automation Test và quy trình QA."
+        },
+        {
+          "course_code": "IT3180",
+          "reason_vi": "Thực hành làm dự án nhóm theo Scrum, thiết kế UML và quản lý mã nguồn Git."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_HEDSPI_NICHIBU",
+          "reason_vi": "Rèn thói quen Pull Request, Code Review và viết tài liệu chuẩn doanh nghiệp phần mềm."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Git & GitHub Professional Workflow + Automated Testing",
+          "provider": "Microsoft Learn / Atlassian",
+          "type": "Khóa học thực hành",
+          "duration": "2 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "IT_GIT",
+            "IT_AGILE",
+            "IT_TESTING"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Nâng cấp đồ án môn học lên chuẩn Production với 80% Test Coverage & GitHub Flow",
+          "difficulty": "Cơ bản – Trung bình",
+          "duration_weeks": 2,
+          "description_vi": "Chọn 1 bài tập lớn cũ, viết bộ Pytest/Jest unit test, thêm Playwright E2E test, thiết lập PR template và README kiến trúc rõ ràng.",
+          "deliverables_vi": [
+            "Báo cáo test coverage >= 80%",
+            "Lịch sử commit & Pull Request sạch chuẩn Conventional Commits"
+          ],
+          "target_skills": [
+            "IT_TESTING",
+            "IT_GIT",
+            "IT_CODE_REVIEW",
+            "IT_TECH_DOC"
+          ]
+        }
+      ]
+    },
+    "IT_AX6": {
+      "major_code": "IT",
+      "next_semester_electives": [
+        {
+          "course_code": "FL1100",
+          "reason_vi": "Tăng cường vốn từ vựng tiếng Anh chuyên ngành CNTT và kỹ năng đọc hiểu tài liệu kỹ thuật."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_EHUB",
+          "reason_vi": "Luyện nói tiếng Anh, viết CV chuẩn quốc tế và thực hành Mock Interview 1-1."
+        },
+        {
+          "club_id": "CLUB_HEDSPI_NICHIBU",
+          "reason_vi": "Luyện tiếng Nhật CNTT (JLPT N3-N2) và tác phong giao tiếp khách hàng Nhật (BrSE)."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Chứng chỉ IELTS 6.5+ / TOEIC 750+ hoặc JLPT N3-N2",
+          "provider": "British Council / IIG / JLPT",
+          "type": "Chứng chỉ ngoại ngữ",
+          "duration": "3–6 tháng",
+          "cost_note": "Tự luyện + thi chuẩn hóa",
+          "target_skills": [
+            "IT_ENG_COMM",
+            "IT_ENG_READ",
+            "IT_JAPANESE"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Viết chuỗi 5 bài Technical Blog tiếng Anh (hoặc Nhật) phân tích kiến trúc dự án cá nhân",
+          "difficulty": "Cơ bản",
+          "duration_weeks": 3,
+          "description_vi": "Trình bày vấn đề, kiến trúc, khó khăn và kết quả đo đạc của đồ án trên Dev.to / Medium / GitHub Pages kèm video demo 3 phút bằng tiếng Anh.",
+          "deliverables_vi": [
+            "5 bài viết kỹ thuật song ngữ",
+            "Video demo thuyết trình 3 phút gắn vào CV"
+          ],
+          "target_skills": [
+            "IT_ENG_COMM",
+            "IT_PRESENTATION",
+            "IT_TECH_DOC"
+          ]
+        }
+      ]
+    },
+    "SEEE_AX1": {
+      "major_code": "SEEE",
+      "next_semester_electives": [
+        {
+          "course_code": "EE3140",
+          "reason_vi": "Củng cố nguyên lý máy điện, động cơ và điều khiển biến tần trong công nghiệp."
+        },
+        {
+          "course_code": "EE3280",
+          "reason_vi": "Nắm vững phân tích hệ thống điều khiển tự động và bộ điều khiển PID."
+        },
+        {
+          "course_code": "ET4111",
+          "reason_vi": "Mở rộng kỹ năng đo lường và xử lý tín hiệu cảm biến y sinh cho ngành ET2."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SEEE_AUTO",
+          "reason_vi": "Thực hành thiết kế mạch tương tự/số và ghép nối cảm biến thật trên kit tại Lab CLB."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Modern Control Systems & PID Tuning with MATLAB",
+          "provider": "MathWorks Onramp",
+          "type": "Khóa học online",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí (License SV HUST)",
+          "target_skills": [
+            "SEEE_CTRL_THEORY",
+            "SEEE_MATLAB"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Hệ thống điều khiển tốc độ động cơ BLDC dùng bộ điều khiển PID có phản hồi encoder",
+          "difficulty": "Trung bình",
+          "duration_weeks": 4,
+          "description_vi": "Mô hình hóa hàm truyền trên MATLAB/Simulink rồi nạp thực nghiệm lên mạch công suất + cảm biến tốc độ.",
+          "deliverables_vi": [
+            "Đáp ứng bước ổn định vọt lố < 5%",
+            "Sơ đồ mạch nguyên lý hoàn chỉnh"
+          ],
+          "target_skills": [
+            "SEEE_CTRL_THEORY",
+            "SEEE_DRIVES",
+            "SEEE_CIRCUITS"
+          ]
+        }
+      ]
+    },
+    "SEEE_AX2": {
+      "major_code": "SEEE",
+      "next_semester_electives": [
+        {
+          "course_code": "EE3020",
+          "reason_vi": "Thành thạo Altium Designer vẽ schematic, layout PCB nhiều lớp và xuất Gerber."
+        },
+        {
+          "course_code": "EE3420",
+          "reason_vi": "Thực hành AutoCAD Electrical và ETAP cho bản vẽ cấp điện công nghiệp."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SEEE_AUTO",
+          "reason_vi": "Review layout mạch PCB 1-1 cùng các anh chị R&D trước khi đặt gia công."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Altium Designer PCB Design & Signal Integrity Essentials",
+          "provider": "Altium Academy",
+          "type": "Khóa học thực hành",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SEEE_ALTIUM"
+          ]
+        },
+        {
+          "title": "MATLAB & Simulink Onramp Certification",
+          "provider": "MathWorks",
+          "type": "Chứng chỉ online",
+          "duration": "2 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SEEE_MATLAB"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Thiết kế bo mạch điều khiển động cơ + nguồn buck 24V/5V/3.3V trên Altium Designer (4 lớp)",
+          "difficulty": "Trung bình",
+          "duration_weeks": 4,
+          "description_vi": "Tính chọn linh kiện từ Datasheet, đi dây giảm nhiễu EMI/EMC, kiểm tra DRC 0 lỗi và xuất bộ Gerber + BOM.",
+          "deliverables_vi": [
+            "File thiết kế 3D PCB trên Altium",
+            "Bộ file Gerber và bảng BOM báo giá linh kiện"
+          ],
+          "target_skills": [
+            "SEEE_ALTIUM",
+            "SEEE_DATASHEET",
+            "SEEE_EXCEL_BOM"
+          ]
+        }
+      ]
+    },
+    "SEEE_AX3": {
+      "major_code": "SEEE",
+      "next_semester_electives": [
+        {
+          "course_code": "EE4210",
+          "reason_vi": "Thực chiến lập trình PLC Siemens S7-1200, HMI WinCC và SCADA."
+        },
+        {
+          "course_code": "EE4420",
+          "reason_vi": "Phát triển Firmware C/RTOS trên STM32 và kết nối IIoT MQTT/Modbus."
+        },
+        {
+          "course_code": "ET4070",
+          "reason_vi": "Củng cố giao thức truyền số liệu và mạng viễn thông cho khối ET1."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SEEE_AUTO",
+          "reason_vi": "Luyện tập trực tiếp trên bộ kit PLC Siemens, HMI và STM32 tại phòng Lab CLB."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Siemens TIA Portal PLC Programming & HMI (S7-1200)",
+          "provider": "Siemens Learning",
+          "type": "Khóa học thực hành",
+          "duration": "4 tuần",
+          "cost_note": "Miễn phí (PLCSIM)",
+          "target_skills": [
+            "SEEE_PLC",
+            "SEEE_HMI_SCADA"
+          ]
+        },
+        {
+          "title": "Embedded Systems & ARM Cortex-M Firmware (STM32)",
+          "provider": "Coursera / FastBit",
+          "type": "Khóa học chuyên sâu",
+          "duration": "5 tuần",
+          "cost_note": "Financial Aid",
+          "target_skills": [
+            "SEEE_MCU",
+            "SEEE_EMBEDDED_C"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Trạm giám sát băng tải phân loại tự động (PLC S7-1200 + HMI + Modbus TCP)",
+          "difficulty": "Khá",
+          "duration_weeks": 4,
+          "description_vi": "Viết chương trình Ladder điều khiển biến tần và cảm biến quang, cảnh báo sự cố trên màn hình HMI.",
+          "deliverables_vi": [
+            "Project TIA Portal chạy mô phỏng hoàn chỉnh",
+            "Video demo giao diện HMI & logic điều khiển"
+          ],
+          "target_skills": [
+            "SEEE_PLC",
+            "SEEE_HMI_SCADA",
+            "SEEE_IND_COMM"
+          ]
+        }
+      ]
+    },
+    "SEEE_AX4": {
+      "major_code": "SEEE",
+      "next_semester_electives": [
+        {
+          "course_code": "EE3150",
+          "reason_vi": "Nắm vững quy chuẩn an toàn điện IEC/TCVN khi nghiệm thu hệ thống."
+        },
+        {
+          "course_code": "ET4550",
+          "reason_vi": "Chuẩn hóa an toàn điện và bức xạ cho thiết bị y sinh (ET2)."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SEEE_AUTO",
+          "reason_vi": "Rèn kỹ năng đo kiểm dạng sóng bằng Oscilloscope, Logic Analyzer và đọc Datasheet nhanh."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Hardware Bring-up, Oscilloscope Debug & IEC Safety Basics",
+          "provider": "Keysight / Coursera",
+          "type": "Khóa học kỹ thuật",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SEEE_TEST_MEAS",
+            "SEEE_SAFETY_IEC",
+            "SEEE_DATASHEET"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Bộ quy trình Test Plan & Đo kiểm mạch nguồn chuyển mạch dùng Oscilloscope",
+          "difficulty": "Cơ bản – Trung bình",
+          "duration_weeks": 2,
+          "description_vi": "Đo độ gợn sóng ripple, hiệu suất tải, thời gian khởi động và đối chiếu với Datasheet IC nguồn.",
+          "deliverables_vi": [
+            "Báo cáo đo kiểm kèm ảnh chụp dạng sóng",
+            "Checklist an toàn thiết bị trước khi cấp nguồn"
+          ],
+          "target_skills": [
+            "SEEE_TEST_MEAS",
+            "SEEE_DATASHEET",
+            "SEEE_SAFETY_IEC"
+          ]
+        }
+      ]
+    },
+    "SEEE_AX5": {
+      "major_code": "SEEE",
+      "next_semester_electives": [
+        {
+          "course_code": "ET3260",
+          "reason_vi": "Bổ sung lập trình C/C++, CSDL SQL và công cụ quản lý mã nguồn cho kỹ sư phần cứng."
+        },
+        {
+          "course_code": "ET4500",
+          "reason_vi": "Ứng dụng Python xử lý dữ liệu tín hiệu và ảnh chuyên sâu."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_O365",
+          "reason_vi": "Thành thạo Excel lập bảng BOM tủ điện/bo mạch và trực quan hóa dữ liệu vận hành."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Excel Engineering BOM & Python Automated Hardware Testing",
+          "provider": "Microsoft Learn / CLB o365",
+          "type": "Khóa học thực hành",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SEEE_EXCEL_BOM",
+            "SEEE_C_PYTHON",
+            "SEEE_GIT"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Script Python tự động đọc dữ liệu cảm biến qua UART/Modbus và xuất báo cáo Excel BOM",
+          "difficulty": "Trung bình",
+          "duration_weeks": 3,
+          "description_vi": "Dùng PySerial thu thập log thiết bị 24h, vẽ đồ thị chẩn đoán và tự động tổng hợp bảng linh kiện.",
+          "deliverables_vi": [
+            "Repo GitHub có script Python sạch",
+            "File Excel báo cáo và template BOM chuẩn"
+          ],
+          "target_skills": [
+            "SEEE_C_PYTHON",
+            "SEEE_EXCEL_BOM",
+            "SEEE_GIT"
+          ]
+        }
+      ]
+    },
+    "SEEE_AX6": {
+      "major_code": "SEEE",
+      "next_semester_electives": [
+        {
+          "course_code": "ET2022",
+          "reason_vi": "Rèn kỹ năng viết đặc tả kỹ thuật và thuyết trình đồ án bằng tiếng Anh."
+        },
+        {
+          "course_code": "FL2100",
+          "reason_vi": "Củng cố vốn từ tiếng Anh kỹ thuật để đọc Manual và phỏng vấn doanh nghiệp FDI."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_EHUB",
+          "reason_vi": "Thực hành giao tiếp và Mock Interview 1-1 bằng tiếng Anh kỹ thuật."
+        },
+        {
+          "club_id": "CLUB_HEDSPI_NICHIBU",
+          "reason_vi": "Làm quen tác phong Horenso, 5S và giao tiếp kỹ thuật với doanh nghiệp Nhật."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "TOEIC 650+ & Technical Presentation for Electrical Engineers",
+          "provider": "IIG / Coursera",
+          "type": "Chứng chỉ & Khóa học",
+          "duration": "6–8 tuần",
+          "cost_note": "Miễn phí học liệu",
+          "target_skills": [
+            "SEEE_ENG_TECH",
+            "SEEE_5S_KAIZEN"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Xây dựng sổ tay tóm tắt Datasheet & Tài liệu SOP vận hành bằng tiếng Anh cho 1 kit thí nghiệm",
+          "difficulty": "Cơ bản",
+          "duration_weeks": 2,
+          "description_vi": "Viết tài liệu hướng dẫn đấu nối an toàn IEC, đọc thông số giới hạn và các bước xử lý lỗi thường gặp.",
+          "deliverables_vi": [
+            "Tài liệu SOP tiếng Anh 4 trang",
+            "Video thuyết trình giới thiệu thiết bị 3 phút"
+          ],
+          "target_skills": [
+            "SEEE_ENG_TECH",
+            "SEEE_TECH_WRITING",
+            "SEEE_5S_KAIZEN"
+          ]
+        }
+      ]
+    },
+    "SME_AX1": {
+      "major_code": "SME",
+      "next_semester_electives": [
+        {
+          "course_code": "ME3090",
+          "reason_vi": "Củng cố tính toán truyền động, trục, ổ lăn và thiết kế kết cấu máy."
+        },
+        {
+          "course_code": "TE3200",
+          "reason_vi": "Nắm vững kết cấu hệ thống truyền lực, treo, lái, phanh cho ngành Ô tô (TE1)."
+        },
+        {
+          "course_code": "HE3020",
+          "reason_vi": "Bổ sung nguyên lý máy nén lạnh và chu trình nhiệt cho ngành Nhiệt (HE1)."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SME_CAD",
+          "reason_vi": "Giải bài tập thiết kế cơ cấu chấp hành, tính chọn xi lanh khí nén và động cơ."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Machine Elements & Engineering Mechanics Review",
+          "provider": "MIT OpenCourseWare / Coursera",
+          "type": "Học liệu mở",
+          "duration": "4 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SME_MECHANICS",
+            "SME_MACHINE_DESIGN"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Tính toán thiết kế cụm gá kẹp khí nén (Pneumatic Fixture) cho dây chuyền kiểm tra linh kiện",
+          "difficulty": "Trung bình",
+          "duration_weeks": 3,
+          "description_vi": "Tính chọn lực kẹp an toàn, đường kính xi lanh SMC/Festo và kiểm bền chi tiết gá.",
+          "deliverables_vi": [
+            "Thuyết minh tính chọn cơ cấu & xi lanh",
+            "Sơ đồ nguyên lý mạch khí nén"
+          ],
+          "target_skills": [
+            "SME_MACHINE_DESIGN",
+            "SME_PNEUMATICS",
+            "SME_MECHANICS"
+          ]
+        }
+      ]
+    },
+    "SME_AX2": {
+      "major_code": "SME",
+      "next_semester_electives": [
+        {
+          "course_code": "ME4181",
+          "reason_vi": "Thành thạo mô phỏng ứng suất, biến dạng phần tử hữu hạn (FEM / ANSYS CAE)."
+        },
+        {
+          "course_code": "HE4010",
+          "reason_vi": "Thực hành thiết kế mặt bằng HVAC trên Revit MEP cho ngành Nhiệt."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SME_CAD",
+          "reason_vi": "Ôn luyện chứng chỉ SolidWorks CSWA/CSWP và review bản vẽ 3D lắp ráp."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Certified SolidWorks Associate (CSWA) & ANSYS Mechanical",
+          "provider": "Dassault Systèmes / ANSYS Innovation",
+          "type": "Chứng chỉ quốc tế",
+          "duration": "4–6 tuần",
+          "cost_note": "Miễn phí tài liệu / Ưu đãi SV",
+          "target_skills": [
+            "SME_SOLIDWORKS",
+            "SME_CAE_ANSYS"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Dựng mô hình 3D cụm hộp giảm tốc hoặc Cánh tay Robot 4 bậc tự do & Kiểm bền ANSYS",
+          "difficulty": "Trung bình – Khá",
+          "duration_weeks": 4,
+          "description_vi": "Lắp ráp đầy đủ chi tiết trên SolidWorks/CATIA, chạy mô phỏng ứng suất tải trọng tới hạn trên ANSYS.",
+          "deliverables_vi": [
+            "Portfolio ảnh render 3D + bản vẽ lắp 2D",
+            "Báo cáo phân tích ứng suất ANSYS"
+          ],
+          "target_skills": [
+            "SME_SOLIDWORKS",
+            "SME_CAE_ANSYS",
+            "SME_AUTOCAD"
+          ]
+        }
+      ]
+    },
+    "SME_AX3": {
+      "major_code": "SME",
+      "next_semester_electives": [
+        {
+          "course_code": "ME4122",
+          "reason_vi": "Nắm sâu gia công tinh, khuôn mẫu và công nghệ sản xuất chính xác cho ME2."
+        },
+        {
+          "course_code": "ME4110",
+          "reason_vi": "Thiết kế hệ thống Robot công nghiệp và tích hợp điều khiển cho ME1."
+        },
+        {
+          "course_code": "TE4210",
+          "reason_vi": "Trang bị kiến thức hệ thống điện tử ô tô CAN Bus/ECU cho TE1."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SME_CAD",
+          "reason_vi": "Thực hành lập trình đường chạy dao CNC Mastercam và lắp ráp robot mô hình."
+        },
+        {
+          "club_id": "CLUB_SEEE_AUTO",
+          "reason_vi": "Thực hành đấu nối PLC Siemens S7-1200 điều khiển cơ cấu khí nén."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "CNC Programming with Mastercam & Industrial Robotics Basics",
+          "provider": "TITANS of CNC Academy / Coursera",
+          "type": "Khóa học thực hành",
+          "duration": "4 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SME_CNC_CAM",
+            "SME_ROBOTICS"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Lập quy trình gia công CNC 3 trục & G-Code cho chi tiết vỏ hộp nhôm trên Mastercam",
+          "difficulty": "Khá",
+          "duration_weeks": 3,
+          "description_vi": "Chọn dao cắt, chế độ cắt, mô phỏng đường chạy dao không va chạm và xuất G-Code chuẩn Fanuc.",
+          "deliverables_vi": [
+            "Phiếu nguyên công CNC & thông số cắt",
+            "Video mô phỏng chạy dao hoàn chỉnh"
+          ],
+          "target_skills": [
+            "SME_CNC_CAM",
+            "SME_FINISHING_MFG",
+            "SME_SOP_WI"
+          ]
+        }
+      ]
+    },
+    "SME_AX4": {
+      "major_code": "SME",
+      "next_semester_electives": [
+        {
+          "course_code": "EE4310",
+          "reason_vi": "Học trọn vẹn kiểm soát chất lượng QA/QC, FMEA, 7 QC Tools và bảo trì TPM."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_SME_CAD",
+          "reason_vi": "Thực hành ghi và đọc ký hiệu dung sai hình học GD&T trên bản vẽ chế tạo thực tế."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "GD&T (ASME Y14.5) & Core Quality Tools (FMEA / SPC / 7 QC Tools)",
+          "provider": "Coursera / ASME",
+          "type": "Khóa học kỹ thuật",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí / Financial Aid",
+          "target_skills": [
+            "SME_GDT_BLUEPRINT",
+            "SME_QA_QC",
+            "SME_METROLOGY"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Lập hồ sơ PFMEA & Bảng kiểm soát chất lượng (QC Control Plan) cho chi tiết gia công",
+          "difficulty": "Cơ bản – Trung bình",
+          "duration_weeks": 2,
+          "description_vi": "Phân tích các lỗi sai lệch kích thước phổ biến, chỉ định dụng cụ đo Panme/CMM và hành động phòng ngừa.",
+          "deliverables_vi": [
+            "File PFMEA & Control Plan chuẩn IATF/ISO",
+            "Bản vẽ chú thích dung sai GD&T"
+          ],
+          "target_skills": [
+            "SME_QA_QC",
+            "SME_GDT_BLUEPRINT",
+            "SME_METROLOGY"
+          ]
+        }
+      ]
+    },
+    "SME_AX5": {
+      "major_code": "SME",
+      "next_semester_electives": [
+        {
+          "course_code": "EE4310",
+          "reason_vi": "Hiểu cách theo dõi chỉ số hiệu suất thiết bị OEE và phân tích Pareto dừng máy."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_O365",
+          "reason_vi": "Nâng cao kỹ năng Excel bóc tách BOM đa cấp, tính giá thành và báo cáo OEE trên Power BI."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Excel BOM Costing, OEE Analytics & Work Instruction Design",
+          "provider": "Microsoft Learn / CLB o365",
+          "type": "Khóa học thực hành",
+          "duration": "3 tuần",
+          "cost_note": "Miễn phí",
+          "target_skills": [
+            "SME_EXCEL_BOM",
+            "SME_OEE_BI",
+            "SME_SOP_WI"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Hệ thống Excel quản lý BOM cụm máy tự động & Dashboard theo dõi OEE xưởng",
+          "difficulty": "Cơ bản – Trung bình",
+          "duration_weeks": 2,
+          "description_vi": "Tự động tra giá vật tư/gia công từ BOM xuất từ SolidWorks và tổng hợp biểu đồ nguyên nhân phế phẩm.",
+          "deliverables_vi": [
+            "Template Excel BOM tự động tính giá",
+            "Tài liệu hướng dẫn lắp ráp chuẩn (WI) 2 trang"
+          ],
+          "target_skills": [
+            "SME_EXCEL_BOM",
+            "SME_OEE_BI",
+            "SME_SOP_WI"
+          ]
+        }
+      ]
+    },
+    "SME_AX6": {
+      "major_code": "SME",
+      "next_semester_electives": [
+        {
+          "course_code": "FL2100_SME",
+          "reason_vi": "Củng cố tiếng Anh kỹ thuật chuyên ngành Cơ khí – Đọc bản vẽ và Catalog quốc tế."
+        }
+      ],
+      "clubs": [
+        {
+          "club_id": "CLUB_EHUB",
+          "reason_vi": "Luyện phỏng vấn kỹ thuật và giao tiếp tiếng Anh trong nhà máy FDI."
+        },
+        {
+          "club_id": "CLUB_HEDSPI_NICHIBU",
+          "reason_vi": "Rèn tác phong công nghiệp Nhật Bản 5S/Kaizen/Horenso và tiếng Nhật cơ bản."
+        }
+      ],
+      "courses_and_certs": [
+        {
+          "title": "Lean 5S, Kaizen & Technical English for Manufacturing Engineers",
+          "provider": "JICA / Coursera / IIG",
+          "type": "Khóa học & Chứng chỉ",
+          "duration": "4–6 tuần",
+          "cost_note": "Miễn phí học liệu",
+          "target_skills": [
+            "SME_5S_KAIZEN",
+            "SME_ENG_TECH",
+            "SME_ROOT_CAUSE"
+          ]
+        }
+      ],
+      "project_ideas": [
+        {
+          "title_vi": "Báo cáo cải tiến 5S & Phân tích nguyên nhân gốc rễ (5 Why / Fishbone) cho quy trình xưởng",
+          "difficulty": "Cơ bản",
+          "duration_weeks": 2,
+          "description_vi": "Xây dựng case study giảm thời gian tìm dụng cụ/lắp ráp 20% bằng 5S và chuẩn hóa tài liệu tiếng Anh.",
+          "deliverables_vi": [
+            "Slide báo cáo A3 Kaizen chuẩn nhà máy Nhật",
+            "Bảng phân tích 5 Why song ngữ Anh-Việt"
+          ],
+          "target_skills": [
+            "SME_5S_KAIZEN",
+            "SME_ROOT_CAUSE",
+            "SME_ENG_TECH"
+          ]
+        }
+      ]
+    }
+  },
+  "by_skill": {
+    "IT_DOCKER": {
+      "elective_codes": [
+        "IT4866"
+      ],
+      "club_ids": [
+        "CLUB_SOICT_INNOVATION",
+        "CLUB_HEDSPI_NICHIBU"
+      ],
+      "cert_titles": [
+        "Docker Getting Started & Compose Workshop (Microsoft Learn)"
+      ],
+      "project_idea": "Container hóa đồ án Web (Frontend + Backend + PostgreSQL) bằng Docker Compose và tối ưu kích thước image dưới 150MB."
+    },
+    "IT_TYPESCRIPT": {
+      "elective_codes": [
+        "IT4409",
+        "IT4441"
+      ],
+      "club_ids": [
+        "CLUB_HEDSPI_NICHIBU"
+      ],
+      "cert_titles": [
+        "Full Stack Open – TypeScript Module (University of Helsinki)"
+      ],
+      "project_idea": "Chuyển đổi 1 dự án React JS sang TypeScript strict mode với kiểu dữ liệu đầy đủ cho API response."
+    },
+    "IT_TESTING": {
+      "elective_codes": [
+        "IT4501"
+      ],
+      "club_ids": [
+        "CLUB_SOICT_INNOVATION",
+        "CLUB_HEDSPI_NICHIBU"
+      ],
+      "cert_titles": [
+        "Automated Testing with Pytest & Playwright"
+      ],
+      "project_idea": "Viết bộ Unit Test & E2E Test đạt >= 80% coverage cho đồ án Công nghệ Web và chạy tự động trên GitHub Actions."
+    },
+    "IT_CLOUD": {
+      "elective_codes": [
+        "IT4866"
+      ],
+      "club_ids": [
+        "CLUB_SOICT_INNOVATION"
+      ],
+      "cert_titles": [
+        "AWS Certified Cloud Practitioner (AWS Skill Builder)"
+      ],
+      "project_idea": "Triển khai kiến trúc Web Fullstack trên Vercel + Supabase + VPS/EC2 có HTTPS, biến môi trường và giám sát log."
+    },
+    "IT_JAPANESE": {
+      "elective_codes": [
+        "FL1100"
+      ],
+      "club_ids": [
+        "CLUB_HEDSPI_NICHIBU"
+      ],
+      "cert_titles": [
+        "JLPT N3 / N2 & IT Passport tiếng Nhật"
+      ],
+      "project_idea": "Viết tài liệu đặc tả thiết kế (Basic Design) song ngữ Nhật-Việt cho 1 module quản lý người dùng."
+    },
+    "IT_ENG_COMM": {
+      "elective_codes": [
+        "FL1100"
+      ],
+      "club_ids": [
+        "CLUB_EHUB"
+      ],
+      "cert_titles": [
+        "IELTS 6.5+ / TOEIC 750+"
+      ],
+      "project_idea": "Quay video demo đồ án 3 phút bằng tiếng Anh và tham gia buổi Mock Interview kỹ thuật tại CLB eHub."
+    },
+    "SEEE_PLC": {
+      "elective_codes": [
+        "EE4210"
+      ],
+      "club_ids": [
+        "CLUB_SEEE_AUTO"
+      ],
+      "cert_titles": [
+        "Siemens TIA Portal S7-1200"
+      ],
+      "project_idea": "Lập trình dây chuyền băng tải phân loại sản phẩm + màn hình HMI WinCC trên TIA Portal."
+    },
+    "SEEE_ALTIUM": {
+      "elective_codes": [
+        "EE3020"
+      ],
+      "club_ids": [
+        "CLUB_SEEE_AUTO"
+      ],
+      "cert_titles": [
+        "Altium Designer PCB Essentials"
+      ],
+      "project_idea": "Thiết kế mạch PCB 4 lớp nguồn + STM32, kiểm tra DRC 0 lỗi và xuất bộ Gerber + BOM."
+    },
+    "SEEE_MCU": {
+      "elective_codes": [
+        "EE3480",
+        "EE4420",
+        "ET3300"
+      ],
+      "club_ids": [
+        "CLUB_SEEE_AUTO"
+      ],
+      "cert_titles": [
+        "Embedded Systems ARM Cortex-M (STM32)"
+      ],
+      "project_idea": "Viết Firmware STM32 đọc cảm biến qua SPI/I2C và gửi telemetry lên MQTT dashboard."
+    },
+    "SEEE_ENG_TECH": {
+      "elective_codes": [
+        "ET2022",
+        "FL2100"
+      ],
+      "club_ids": [
+        "CLUB_EHUB"
+      ],
+      "cert_titles": [
+        "TOEIC 650+ & Technical Reading"
+      ],
+      "project_idea": "Tóm tắt Datasheet 5 linh kiện chính trong đồ án và viết SOP hướng dẫn đo kiểm bằng tiếng Anh."
+    },
+    "SEEE_EXCEL_BOM": {
+      "elective_codes": [
+        "EE3420",
+        "EE3020"
+      ],
+      "club_ids": [
+        "CLUB_O365"
+      ],
+      "cert_titles": [
+        "Excel Engineering BOM Costing (CLB o365)"
+      ],
+      "project_idea": "Xây dựng bảng bóc tách khối lượng tủ điện / linh kiện PCB tự động tính chi phí trên Excel."
+    },
+    "SME_SOLIDWORKS": {
+      "elective_codes": [
+        "ME3050",
+        "ME4181"
+      ],
+      "club_ids": [
+        "CLUB_SME_CAD"
+      ],
+      "cert_titles": [
+        "Certified SolidWorks Associate (CSWA)"
+      ],
+      "project_idea": "Thiết kế 3D cụm đồ gá kiểm tra sản phẩm, mô phỏng lắp ráp và xuất bản vẽ 2D chuẩn GD&T."
+    },
+    "SME_QA_QC": {
+      "elective_codes": [
+        "EE4310",
+        "ME4122"
+      ],
+      "club_ids": [
+        "CLUB_SME_CAD"
+      ],
+      "cert_titles": [
+        "FMEA & 7 QC Tools Essentials"
+      ],
+      "project_idea": "Xây dựng bảng PFMEA và Control Plan đo kiểm CMM/Panme cho 1 chi tiết gia công CNC."
+    },
+    "SME_5S_KAIZEN": {
+      "elective_codes": [
+        "EE4310"
+      ],
+      "club_ids": [
+        "CLUB_HEDSPI_NICHIBU"
+      ],
+      "cert_titles": [
+        "Lean 5S & Kaizen Fundamentals"
+      ],
+      "project_idea": "Lập báo cáo A3 Kaizen cải tiến thao tác lắp ráp và giảm sai lỗi tại bàn thực hành."
+    },
+    "SME_EXCEL_BOM": {
+      "elective_codes": [
+        "ME3090",
+        "HE4010"
+      ],
+      "club_ids": [
+        "CLUB_O365"
+      ],
+      "cert_titles": [
+        "Excel BOM & Production OEE Analytics"
+      ],
+      "project_idea": "Xuất BOM đa cấp từ SolidWorks/Revit sang Excel tự động tổng hợp vật tư và dự toán."
+    },
+    "SME_ENG_TECH": {
+      "elective_codes": [
+        "FL2100_SME"
+      ],
+      "club_ids": [
+        "CLUB_EHUB"
+      ],
+      "cert_titles": [
+        "TOEIC 600+ & Technical English"
+      ],
+      "project_idea": "Dịch và chuẩn hóa quy trình thao tác WI kèm chú thích bản vẽ kỹ thuật bằng tiếng Anh."
+    }
+  }
+}

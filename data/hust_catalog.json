@@ -1,0 +1,282 @@
+{
+  "version": "2.0.0",
+  "pilot_scope": "Thí điểm trên 3 trường trọng điểm thuộc Đại học Bách khoa Hà Nội (SoICT, SEEE, SME)",
+  "schools": [
+    {
+      "school_id": "SOICT",
+      "school_code": "SoICT",
+      "school_name": "Trường Công nghệ Thông tin và Truyền thông",
+      "analysis_track": "IT",
+      "programs": [
+        {
+          "program_code": "IT1",
+          "program_name": "Khoa học Máy tính",
+          "analysis_track": "IT",
+          "is_direct_track": true,
+          "focus_hint": "Thuật toán, Backend/Fullstack, AI và hệ thống phân tán",
+          "core_focus_note": "Mạnh về giải thuật, cấu trúc dữ liệu, phát triển phần mềm và hệ thống phân tán.",
+          "year_presets": [
+            {"preset_id": "IT1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["IT1110", "IT3020"], "sample_tools_text": "C/C++ cơ bản, VS Code, bài tập lớn lập trình"},
+            {"preset_id": "IT1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ sở CS", "year": 2, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3090"], "sample_tools_text": "C++, Java OOP, PostgreSQL, Git cơ bản"},
+            {"preset_id": "IT1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Web & CNPM", "year": 3, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3090", "IT3070", "IT3080", "IT3170", "IT3180", "IT4409", "IT3160"], "sample_tools_text": "React, Node.js, PostgreSQL, GitHub, Postman"},
+            {"preset_id": "IT1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Chuyên sâu", "year": 4, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3090", "IT3070", "IT3080", "IT3170", "IT3180", "IT4409", "IT3160", "IT4611", "IT4866", "IT4501", "FL1100"], "sample_tools_text": "Python FastAPI, TypeScript React, Docker, AWS EC2, Unit Test, IELTS 6.5"}
+          ]
+        },
+        {
+          "program_code": "IT2",
+          "program_name": "Kỹ thuật Máy tính",
+          "analysis_track": "IT",
+          "is_direct_track": true,
+          "focus_hint": "Kiến trúc máy tính, hệ thống nhúng, mạng và hạ tầng",
+          "core_focus_note": "Kết hợp phần mềm hệ thống, Linux, mạng máy tính và thiết kế hệ nhúng.",
+          "year_presets": [
+            {"preset_id": "IT2_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["IT1110", "IT3020"], "sample_tools_text": "Lập trình C cơ bản, Linux cơ bản"},
+            {"preset_id": "IT2_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Kiến trúc & CSDL", "year": 2, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3280", "IT3090"], "sample_tools_text": "C/C++, Assembly, SQL, Git"},
+            {"preset_id": "IT2_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Nhúng & Mạng", "year": 3, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3280", "IT3090", "IT3070", "IT3080", "IT4062", "IT4210", "IT3180"], "sample_tools_text": "Linux CLI, Socket C/Python, Docker cơ bản, ESP32"},
+            {"preset_id": "IT2_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Hệ thống & Cloud", "year": 4, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3280", "IT3090", "IT3070", "IT3080", "IT4062", "IT4210", "IT3180", "IT4611", "IT4866", "IT4172", "FL1100"], "sample_tools_text": "Docker, AWS EC2, CI/CD, Linux Bash, C++ nhúng, Python"}
+          ]
+        },
+        {
+          "program_code": "IT-E6",
+          "program_name": "Công nghệ thông tin Việt - Nhật (HEDSPI)",
+          "analysis_track": "IT",
+          "is_direct_track": true,
+          "focus_hint": "Phát triển phần mềm, quy trình Agile/ITSS và tiếng Nhật CNTT",
+          "core_focus_note": "Đào tạo quy trình công nghệ phần mềm chuẩn Nhật (ITSS), UI/UX, kiểm thử và BrSE.",
+          "year_presets": [
+            {"preset_id": "ITE6_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["IT1110", "IT3020"], "sample_tools_text": "C cơ bản, tiếng Nhật sơ cấp N5"},
+            {"preset_id": "ITE6_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – OOP & CSDL", "year": 2, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090"], "sample_tools_text": "Java OOP, PostgreSQL, Git, tiếng Nhật N4"},
+            {"preset_id": "ITE6_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Web & ITSS", "year": 3, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090", "IT3070", "IT3080", "IT4082", "IT4409", "IT4441"], "sample_tools_text": "React, Spring Boot/Node.js, Figma, GitHub Flow, JLPT N3"},
+            {"preset_id": "ITE6_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – BrSE & QA", "year": 4, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090", "IT3070", "IT3080", "IT4082", "IT4409", "IT4441", "IT4549", "IT4501", "IT3170", "FL1100"], "sample_tools_text": "TypeScript React, FastAPI, Unit Test, Docker, Agile/Jira, JLPT N2"}
+          ]
+        },
+        {
+          "program_code": "IT-E7",
+          "program_name": "Công nghệ thông tin Global ICT",
+          "analysis_track": "IT",
+          "is_direct_track": true,
+          "focus_hint": "Phát triển phần mềm chuẩn quốc tế giảng dạy bằng tiếng Anh",
+          "core_focus_note": "Giảng dạy 100% tiếng Anh về Web/Mobile, hệ thống phân tán và Cloud.",
+          "year_presets": [
+            {"preset_id": "ITE7_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["IT1110", "IT3020"], "sample_tools_text": "C/Python basics, IELTS 6.0"},
+            {"preset_id": "ITE7_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ sở CS", "year": 2, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090"], "sample_tools_text": "Java/C++, SQL, GitHub"},
+            {"preset_id": "ITE7_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Web & Mobile", "year": 3, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090", "IT3070", "IT3080", "IT4082", "IT4409", "IT4441", "IT4785"], "sample_tools_text": "React, TypeScript, Flutter, REST API, Figma"},
+            {"preset_id": "ITE7_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Fullstack & Cloud", "year": 4, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090", "IT3070", "IT3080", "IT4082", "IT4409", "IT4441", "IT4785", "IT4611", "IT4866", "IT4501", "FL1100"], "sample_tools_text": "Next.js, FastAPI, Docker, AWS, CI/CD, IELTS 7.0"}
+          ]
+        },
+        {
+          "program_code": "IT-E10",
+          "program_name": "Khoa học Dữ liệu và Trí tuệ Nhân tạo",
+          "analysis_track": "IT",
+          "is_direct_track": true,
+          "focus_hint": "Python, Học máy, Học sâu, dữ liệu lớn và triển khai AI",
+          "core_focus_note": "Tập trung toán ứng dụng, Khoa học dữ liệu, Deep Learning và MLOps bằng tiếng Anh.",
+          "year_presets": [
+            {"preset_id": "ITE10_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Toán & Python", "year": 1, "completed_courses": ["IT1110", "IT3020"], "sample_tools_text": "Python, NumPy cơ bản"},
+            {"preset_id": "ITE10_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Thuật toán & SQL", "year": 2, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090"], "sample_tools_text": "Python, Pandas, PostgreSQL, Git"},
+            {"preset_id": "ITE10_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – AI & Machine Learning", "year": 3, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090", "IT3070", "IT3160", "IT3190", "IT4930"], "sample_tools_text": "Scikit-learn, PyTorch, Pandas, SQL, FastAPI cơ bản"},
+            {"preset_id": "ITE10_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Deep Learning & MLOps", "year": 4, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3090", "IT3070", "IT3160", "IT3190", "IT4930", "IT4653", "IT3320", "IT4611", "IT4866", "FL1100"], "sample_tools_text": "PyTorch, LLM API/RAG, Docker, AWS, FastAPI, IELTS 6.5"}
+          ]
+        },
+        {
+          "program_code": "IT-E15",
+          "program_name": "An toàn Không gian số (Cyber Security)",
+          "analysis_track": "IT",
+          "is_direct_track": true,
+          "focus_hint": "An toàn thông tin, mật mã ứng dụng, an ninh mạng và Linux",
+          "core_focus_note": "Chuyên sâu mật mã học, lập trình mạng an toàn, kiểm thử bảo mật và hệ thống Linux.",
+          "year_presets": [
+            {"preset_id": "ITE15_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["IT1110", "IT3020"], "sample_tools_text": "C/Python, Linux Ubuntu cơ bản"},
+            {"preset_id": "ITE15_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Hệ thống & CSDL", "year": 2, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3090"], "sample_tools_text": "C/C++, Python, SQL, Git, Linux CLI"},
+            {"preset_id": "ITE15_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Mạng & An toàn TT", "year": 3, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3090", "IT3070", "IT3080", "IT4015", "IT4025", "IT4062"], "sample_tools_text": "Wireshark, Linux Bash, JWT/OAuth2, OWASP, Python"},
+            {"preset_id": "ITE15_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Pentest & Cloud Sec", "year": 4, "completed_courses": ["IT1110", "IT3020", "IT3040", "IT3011", "IT3100", "IT3030", "IT3090", "IT3070", "IT3080", "IT4015", "IT4025", "IT4062", "IT4082", "IT4409", "IT4866", "FL1100"], "sample_tools_text": "Docker, Linux, Cloud AWS, REST API Security, Unit Test, IELTS 6.5"}
+          ]
+        }
+      ]
+    },
+    {
+      "school_id": "SEEE",
+      "school_code": "SEEE",
+      "school_name": "Trường Điện - Điện tử",
+      "analysis_track": "SEEE",
+      "programs": [
+        {
+          "program_code": "EE1",
+          "program_name": "Kỹ thuật Điện",
+          "analysis_track": "SEEE",
+          "is_direct_track": true,
+          "focus_hint": "Hệ thống điện, máy điện, lưới điện, trạm biến áp và an toàn IEC",
+          "core_focus_note": "Chuyên sâu thiết kế cung cấp điện, trạm biến áp, lưới điện và bảo vệ rơle.",
+          "year_presets": [
+            {"preset_id": "EE1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn Điện", "year": 1, "completed_courses": ["EE1010", "ME2015"], "sample_tools_text": "AutoCAD 2D cơ bản, Excel"},
+            {"preset_id": "EE1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Mạch & Đo lường", "year": 2, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2031", "EE3110"], "sample_tools_text": "AutoCAD, MATLAB, đồng hồ đo điện"},
+            {"preset_id": "EE1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Máy & Lưới điện", "year": 3, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2031", "EE3110", "EE3140", "EE3420", "EE4010", "EE3150"], "sample_tools_text": "AutoCAD Electrical, Dialux, đọc bản vẽ tủ điện, IEC"},
+            {"preset_id": "EE1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Trạm & Bảo vệ", "year": 4, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2031", "EE3110", "EE3140", "EE3420", "EE4010", "EE3150", "EE4020", "EE4030", "EE4040", "FL2100"], "sample_tools_text": "ETAP, EPLAN, AutoCAD Electrical, Excel bóc tách BOM, tiếng Anh kỹ thuật"}
+          ]
+        },
+        {
+          "program_code": "EE2",
+          "program_name": "Kỹ thuật Điều khiển - Tự động hóa",
+          "analysis_track": "SEEE",
+          "is_direct_track": true,
+          "focus_hint": "Lập trình PLC Siemens/Mitsubishi, HMI/SCADA, vi xử lý và IIoT",
+          "core_focus_note": "Mạnh về lý thuyết điều khiển, PLC, truyền thông công nghiệp và tự động hóa dây chuyền.",
+          "year_presets": [
+            {"preset_id": "EE2_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["EE1010", "ME2015"], "sample_tools_text": "AutoCAD cơ bản, lập trình C"},
+            {"preset_id": "EE2_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Mạch & Tín hiệu", "year": 2, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2000", "EE2111", "EE3110"], "sample_tools_text": "MATLAB/Simulink, Arduino, đo kiểm điện"},
+            {"preset_id": "EE2_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Điều khiển & MCU", "year": 3, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2000", "EE2111", "EE3110", "EE3140", "EE3280", "EE3480", "EE3150"], "sample_tools_text": "MATLAB Simulink, STM32/ESP32, vẽ mạch tủ điện, biến tần"},
+            {"preset_id": "EE2_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – PLC & SCADA", "year": 4, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2000", "EE2111", "EE3110", "EE3140", "EE3280", "EE3480", "EE3150", "EE4210", "EE4250", "EE4420", "FL2100"], "sample_tools_text": "PLC Siemens TIA Portal, HMI WinCC, Modbus/Profinet, EPLAN, Datasheet"}
+          ]
+        },
+        {
+          "program_code": "EE-E8",
+          "program_name": "Kỹ thuật Điều khiển - Tự động hóa (Tiên tiến)",
+          "analysis_track": "SEEE",
+          "is_direct_track": true,
+          "focus_hint": "Tự động hóa công nghiệp, điều khiển thông minh và tiếng Anh kỹ thuật",
+          "core_focus_note": "Chương trình giảng dạy bằng tiếng Anh về điều khiển, đo lường công nghiệp và IIoT.",
+          "year_presets": [
+            {"preset_id": "EEE8_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn", "year": 1, "completed_courses": ["EE1010", "ME2015"], "sample_tools_text": "C/Python basics, Technical Drawing"},
+            {"preset_id": "EEE8_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Mạch & Tín hiệu", "year": 2, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2000", "EE2111", "EE3110"], "sample_tools_text": "MATLAB, LabVIEW, đo kiểm mạch"},
+            {"preset_id": "EEE8_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Điều khiển & Nhúng", "year": 3, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2000", "EE2111", "EE3110", "EE3280", "EE3480", "EE4260"], "sample_tools_text": "STM32, MATLAB Simulink, C nhúng, tiếng Anh"},
+            {"preset_id": "EEE8_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Tự động hóa & IIoT", "year": 4, "completed_courses": ["EE1010", "ME2015", "EE2021", "EE2000", "EE2111", "EE3110", "EE3280", "EE3480", "EE4260", "EE4210", "EE4420", "EE4250", "ET2022"], "sample_tools_text": "TIA Portal PLC, MQTT/OPC UA, Python, IELTS 6.5"}
+          ]
+        },
+        {
+          "program_code": "ET1",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông",
+          "analysis_track": "SEEE",
+          "is_direct_track": true,
+          "focus_hint": "Thiết kế mạch tương tự/số, PCB Altium, vi xử lý và truyền số liệu",
+          "core_focus_note": "Mạnh về điện tử tương tự, điện tử số, hệ vi xử lý, thiết kế mạch PCB và mạng truyền số liệu.",
+          "year_presets": [
+            {"preset_id": "ET1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Lập trình & Cơ sở", "year": 1, "completed_courses": ["ET2030", "ME2015"], "sample_tools_text": "Ngôn ngữ C, hàn linh kiện cơ bản"},
+            {"preset_id": "ET1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Điện tử Số & Tương tự", "year": 2, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3210", "ET3220", "ET3230"], "sample_tools_text": "Proteus/LTSpice, Oscilloscope, C/C++"},
+            {"preset_id": "ET1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Vi xử lý & PCB", "year": 3, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3210", "ET3220", "ET3230", "ET3300", "EE3020", "ET3250"], "sample_tools_text": "Altium Designer PCB 2 lớp, STM32/ESP32, UART/SPI/I2C"},
+            {"preset_id": "ET1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Nhúng & Truyền số liệu", "year": 4, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3210", "ET3220", "ET3230", "ET3300", "EE3020", "ET3250", "ET4070", "ET3260", "EE4420", "ET2022"], "sample_tools_text": "Altium 4 lớp, C nhúng, RTOS, MQTT, Git, Datasheet tiếng Anh"}
+          ]
+        },
+        {
+          "program_code": "ET-E4",
+          "program_name": "Kỹ thuật Điện tử - Viễn thông (Tiên tiến)",
+          "analysis_track": "SEEE",
+          "is_direct_track": true,
+          "focus_hint": "Hệ thống nhúng, thiết kế phần cứng, HDL/FPGA và viễn thông",
+          "core_focus_note": "Chương trình giảng dạy tiếng Anh chuyên sâu thiết kế mạch, vi xử lý và xử lý tín hiệu số.",
+          "year_presets": [
+            {"preset_id": "ETE4_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Lập trình", "year": 1, "completed_courses": ["ET2030", "ET2012"], "sample_tools_text": "C/C++ programming, basic electronics"},
+            {"preset_id": "ETE4_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Số & Tương tự", "year": 2, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3220", "ET3230"], "sample_tools_text": "MATLAB, Verilog/HDL cơ bản, mạch số"},
+            {"preset_id": "ETE4_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Vi xử lý & Tín hiệu", "year": 3, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3220", "ET3230", "ET3300", "EE3020", "ET3250", "ET2022"], "sample_tools_text": "Altium Designer, STM32, Oscilloscope, Technical Writing"},
+            {"preset_id": "ETE4_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Hệ nhúng & IoT", "year": 4, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3220", "ET3230", "ET3300", "EE3020", "ET3250", "ET2022", "ET4070", "ET3260", "EE4420"], "sample_tools_text": "Embedded C, Altium PCB, Python DSP, Git, IELTS 6.5"}
+          ]
+        },
+        {
+          "program_code": "ET2",
+          "program_name": "Kỹ thuật Y sinh",
+          "analysis_track": "SEEE",
+          "is_direct_track": true,
+          "focus_hint": "Thiết bị điện tử y tế, đo lường sinh lý và xử lý tín hiệu/ảnh y tế",
+          "core_focus_note": "Kết hợp điện tử vi xử lý với đo lường y sinh, xử lý tín hiệu ECG/EEG, ảnh DICOM và an toàn thiết bị.",
+          "year_presets": [
+            {"preset_id": "ET2_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn & C", "year": 1, "completed_courses": ["ET2030", "ET2012"], "sample_tools_text": "Lập trình C, điện tử cơ bản"},
+            {"preset_id": "ET2_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Mạch & Tín hiệu", "year": 2, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3220", "ET3230"], "sample_tools_text": "MATLAB, mạch khuếch đại sinh học"},
+            {"preset_id": "ET2_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Đo lường & Thiết bị Y tế", "year": 3, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3220", "ET3230", "ET3300", "ET4111", "ET4120", "EE3020"], "sample_tools_text": "STM32 cảm biến, PCB Altium, đo kiểm Oscilloscope"},
+            {"preset_id": "ET2_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Ảnh Y tế & An toàn", "year": 4, "completed_courses": ["ET2030", "ET2012", "EE2000", "ET3220", "ET3230", "ET3300", "ET4111", "ET4120", "EE3020", "ET4480", "ET4500", "ET4570", "ET4550", "ET2022"], "sample_tools_text": "Python xử lý ảnh/ECG, LabVIEW, kiểm chuẩn thiết bị y tế IEC, Datasheet"}
+          ]
+        }
+      ]
+    },
+    {
+      "school_id": "SME",
+      "school_code": "SME",
+      "school_name": "Trường Cơ khí",
+      "analysis_track": "SME",
+      "programs": [
+        {
+          "program_code": "ME1",
+          "program_name": "Kỹ thuật Cơ điện tử",
+          "analysis_track": "SME",
+          "is_direct_track": true,
+          "focus_hint": "Thiết kế cơ khí 3D, vi điều khiển/PLC và kỹ thuật Robot công nghiệp",
+          "core_focus_note": "Tích hợp thiết kế chi tiết máy CAD 3D với lập trình điều khiển PLC, khí nén và robot.",
+          "year_presets": [
+            {"preset_id": "ME1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Đồ họa kỹ thuật", "year": 1, "completed_courses": ["ME2011", "EE2012"], "sample_tools_text": "AutoCAD 2D cơ bản, vẽ kỹ thuật"},
+            {"preset_id": "ME1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ học & Điện tử", "year": 2, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060"], "sample_tools_text": "AutoCAD, lập trình C/C++, mạch cơ bản"},
+            {"preset_id": "ME1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – CAD 3D & Điều khiển", "year": 3, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "ME3090", "ME3212", "EE3480_SME", "EE3280_SME", "ME3050"], "sample_tools_text": "SolidWorks 3D, STM32/Arduino, đọc bản vẽ lắp"},
+            {"preset_id": "ME1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Robot & PLC", "year": 4, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "ME3090", "ME3212", "EE3480_SME", "EE3280_SME", "ME3050", "EE4210_SME", "ME4110", "FL2100_SME"], "sample_tools_text": "SolidWorks, PLC Siemens, Robot/ROS cơ bản, Excel BOM, 5S/Kaizen"}
+          ]
+        },
+        {
+          "program_code": "ME-E1",
+          "program_name": "Kỹ thuật Cơ điện tử (Tiên tiến)",
+          "analysis_track": "SME",
+          "is_direct_track": true,
+          "focus_hint": "Cơ điện tử tích hợp chuẩn quốc tế, mô phỏng CAE và Robot",
+          "core_focus_note": "Giảng dạy tiếng Anh về cơ điện tử, mô phỏng FEM/CAE và hệ thống sản xuất thông minh.",
+          "year_presets": [
+            {"preset_id": "MEE1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Đồ họa kỹ thuật", "year": 1, "completed_courses": ["ME2011", "EE2012"], "sample_tools_text": "AutoCAD 2D, Technical English"},
+            {"preset_id": "MEE1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ học & Chi tiết máy", "year": 2, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060"], "sample_tools_text": "SolidWorks cơ bản, MATLAB"},
+            {"preset_id": "MEE1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – CAD/CAE & Vi xử lý", "year": 3, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "ME3090", "ME3212", "EE3480_SME", "ME3050", "ME4181"], "sample_tools_text": "SolidWorks 3D, ANSYS, C/C++ nhúng"},
+            {"preset_id": "MEE1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Robot & Sản xuất", "year": 4, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "ME3090", "ME3212", "EE3480_SME", "ME3050", "ME4181", "EE4210_SME", "ME4110", "FL2100_SME"], "sample_tools_text": "SolidWorks, ANSYS, PLC, Python, GD&T, IELTS 6.5"}
+          ]
+        },
+        {
+          "program_code": "ME2",
+          "program_name": "Kỹ thuật Cơ khí",
+          "analysis_track": "SME",
+          "is_direct_track": true,
+          "focus_hint": "Thiết kế máy CAD/CAM, công nghệ gia công CNC, GD&T và CAE ANSYS",
+          "core_focus_note": "Chuyên sâu thiết kế kết cấu, công nghệ chế tạo máy, gia công CNC và mô phỏng phần tử hữu hạn.",
+          "year_presets": [
+            {"preset_id": "ME2_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Đồ họa kỹ thuật", "year": 1, "completed_courses": ["ME2011", "EE2012"], "sample_tools_text": "AutoCAD 2D cơ bản, vẽ kỹ thuật tay"},
+            {"preset_id": "ME2_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ học & Vật liệu", "year": 2, "completed_courses": ["ME2011", "ME2040", "ME2030", "ME3060", "ME3110"], "sample_tools_text": "AutoCAD 2D, Inventor cơ bản"},
+            {"preset_id": "ME2_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Chi tiết máy & CNC", "year": 3, "completed_courses": ["ME2011", "ME2040", "ME2030", "ME3060", "ME3110", "ME3090", "ME3050", "ME3120"], "sample_tools_text": "SolidWorks 3D, Mastercam cơ bản, bản vẽ lắp GD&T"},
+            {"preset_id": "ME2_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – FEM/ANSYS & QA/QC", "year": 4, "completed_courses": ["ME2011", "ME2040", "ME2030", "ME3060", "ME3110", "ME3090", "ME3050", "ME3120", "ME4122", "ME4181", "EE4310", "FL2100_SME"], "sample_tools_text": "SolidWorks, ANSYS Workbench, Mastercam CNC, Excel BOM, FMEA/5S"}
+          ]
+        },
+        {
+          "program_code": "TE1",
+          "program_name": "Kỹ thuật Ô tô",
+          "analysis_track": "SME",
+          "is_direct_track": true,
+          "focus_hint": "Động cơ đốt trong, kết cấu - lý thuyết ô tô, CAD/CAE và QA/QC",
+          "core_focus_note": "Tập trung kết cấu khung gầm/truyền lực, động cơ, điện tử ô tô và tiêu chuẩn chất lượng IATF 16949.",
+          "year_presets": [
+            {"preset_id": "TE1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Đồ họa kỹ thuật", "year": 1, "completed_courses": ["ME2011", "EE2012"], "sample_tools_text": "AutoCAD 2D cơ bản"},
+            {"preset_id": "TE1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ học & Nhiệt", "year": 2, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "HE2010"], "sample_tools_text": "AutoCAD, đọc sơ đồ cơ khí"},
+            {"preset_id": "TE1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Động cơ & Kết cấu Ô tô", "year": 3, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "HE2010", "ME3090", "TE3010", "TE3200", "TE3210", "ME3050"], "sample_tools_text": "SolidWorks/CATIA cơ bản, đọc bản vẽ hệ thống truyền lực"},
+            {"preset_id": "TE1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – Thiết kế & Điện Ô tô", "year": 4, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "ME3060", "HE2010", "ME3090", "TE3010", "TE3200", "TE3210", "ME3050", "TE4210", "ME4181", "EE4310", "FL2100_SME"], "sample_tools_text": "CATIA/SolidWorks, ANSYS CAE, CAN Bus cơ bản, 7 QC Tools, IATF 16949"}
+          ]
+        },
+        {
+          "program_code": "TE-E2",
+          "program_name": "Kỹ thuật Ô tô (Tiên tiến)",
+          "analysis_track": "SME",
+          "is_direct_track": true,
+          "focus_hint": "Mô phỏng động lực học ô tô, hệ thống điện thân xe và ngoại ngữ kỹ thuật",
+          "core_focus_note": "Chương trình giảng dạy tiếng Anh chuyên sâu kết cấu, CAE mô phỏng và điện tử trên xe thế hệ mới.",
+          "year_presets": [
+            {"preset_id": "TEE2_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Đồ họa kỹ thuật", "year": 1, "completed_courses": ["ME2011", "EE2012"], "sample_tools_text": "AutoCAD 2D, Technical English"},
+            {"preset_id": "TEE2_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Cơ học & Nhiệt", "year": 2, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "HE2010"], "sample_tools_text": "SolidWorks basics, MATLAB"},
+            {"preset_id": "TEE2_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Lý thuyết & Kết cấu Ô tô", "year": 3, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "HE2010", "TE3010", "TE3200", "TE3210", "ME3050"], "sample_tools_text": "CATIA/SolidWorks 3D, MATLAB Simulink"},
+            {"preset_id": "TEE2_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – CAE & Điện tử Ô tô", "year": 4, "completed_courses": ["ME2011", "EE2012", "ME2040", "ME2030", "HE2010", "TE3010", "TE3200", "TE3210", "ME3050", "TE4210", "ME4181", "EE4310", "FL2100_SME"], "sample_tools_text": "CATIA, ANSYS, CAN Bus, FMEA, IELTS 6.5"}
+          ]
+        },
+        {
+          "program_code": "HE1",
+          "program_name": "Kỹ thuật Nhiệt",
+          "analysis_track": "SME",
+          "is_direct_track": true,
+          "focus_hint": "Nhiệt động, truyền nhiệt, hệ thống lạnh công nghiệp và điều hòa HVAC",
+          "core_focus_note": "Chuyên sâu thiết kế HVAC/MEP tòa nhà - nhà máy, lò hơi, hệ thống lạnh và bóc tách BOM.",
+          "year_presets": [
+            {"preset_id": "HE1_Y1", "label_vi": "Năm 1 (Kỳ 1-2) – Vẽ kỹ thuật", "year": 1, "completed_courses": ["ME2020", "EE2012"], "sample_tools_text": "AutoCAD 2D cơ bản"},
+            {"preset_id": "HE1_Y2", "label_vi": "Năm 2 (Kỳ 3-4) – Nhiệt động & Cơ học", "year": 2, "completed_courses": ["ME2020", "EE2012", "ME2040", "HE2010"], "sample_tools_text": "AutoCAD, tính toán chu trình nhiệt trên Excel"},
+            {"preset_id": "HE1_Y3", "label_vi": "Năm 3 (Kỳ 5-6) – Truyền nhiệt & Lạnh", "year": 3, "completed_courses": ["ME2020", "EE2012", "ME2040", "HE2010", "HE3010", "HE3020", "ME3050"], "sample_tools_text": "AutoCAD HVAC, Revit MEP cơ bản, Excel bóc tách khối lượng"},
+            {"preset_id": "HE1_Y4", "label_vi": "Năm 4 (Kỳ 7-8) – HVAC & Thiết bị nhiệt", "year": 4, "completed_courses": ["ME2020", "EE2012", "ME2040", "HE2010", "HE3010", "HE3020", "ME3050", "HE4010", "HE4020", "EE4310", "FL2100_SME"], "sample_tools_text": "Revit MEP, AutoCAD, HAP tính tải lạnh, Excel BOM, đọc Datasheet thiết bị HVAC"}
+          ]
+        }
+      ]
+    }
+  ]
+}

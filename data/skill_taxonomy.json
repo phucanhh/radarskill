@@ -1,0 +1,1758 @@
+{
+  "version": "2.0.0",
+  "total_skills": 108,
+  "skills": [
+    {
+      "skill_id": "IT_DSA",
+      "major_code": "IT",
+      "axis_id": "IT_AX1",
+      "name_vi": "Cấu trúc dữ liệu & Giải thuật (DSA)",
+      "name_en": "Data Structures & Algorithms",
+      "category": "core",
+      "aliases": [
+        "dsa",
+        "thuật toán",
+        "giải thuật",
+        "cấu trúc dữ liệu",
+        "leetcode",
+        "data structures",
+        "algorithms",
+        "competitive programming"
+      ]
+    },
+    {
+      "skill_id": "IT_OOP",
+      "major_code": "IT",
+      "axis_id": "IT_AX1",
+      "name_vi": "Lập trình Hướng đối tượng (OOP & Design Patterns)",
+      "name_en": "Object-Oriented Programming & Design Patterns",
+      "category": "core",
+      "aliases": [
+        "oop",
+        "hướng đối tượng",
+        "design pattern",
+        "solid",
+        "clean code",
+        "object oriented"
+      ]
+    },
+    {
+      "skill_id": "IT_OS",
+      "major_code": "IT",
+      "axis_id": "IT_AX1",
+      "name_vi": "Nguyên lý Hệ điều hành & Đa luồng",
+      "name_en": "Operating Systems & Concurrency",
+      "category": "core",
+      "aliases": [
+        "os",
+        "hệ điều hành",
+        "multithreading",
+        "concurrency",
+        "process",
+        "thread",
+        "memory management"
+      ]
+    },
+    {
+      "skill_id": "IT_NET",
+      "major_code": "IT",
+      "axis_id": "IT_AX1",
+      "name_vi": "Mạng máy tính (TCP/IP, HTTP, DNS)",
+      "name_en": "Computer Networking",
+      "category": "core",
+      "aliases": [
+        "tcp/ip",
+        "http",
+        "https",
+        "dns",
+        "mạng máy tính",
+        "networking",
+        "websocket",
+        "socket"
+      ]
+    },
+    {
+      "skill_id": "IT_CPP_JAVA",
+      "major_code": "IT",
+      "axis_id": "IT_AX1",
+      "name_vi": "Lập trình C/C++ hoặc Java nền tảng",
+      "name_en": "C/C++ or Core Java",
+      "category": "core",
+      "aliases": [
+        "c++",
+        "c/c++",
+        "java",
+        "core java",
+        "c programming"
+      ]
+    },
+    {
+      "skill_id": "IT_PROBLEM_SOLVING",
+      "major_code": "IT",
+      "axis_id": "IT_AX1",
+      "name_vi": "Tư duy logic & Phân tích bài toán",
+      "name_en": "Analytical Problem Solving",
+      "category": "soft",
+      "aliases": [
+        "problem solving",
+        "tư duy logic",
+        "phân tích bài toán",
+        "debugging",
+        "gỡ lỗi"
+      ]
+    },
+    {
+      "skill_id": "IT_SQL",
+      "major_code": "IT",
+      "axis_id": "IT_AX2",
+      "name_vi": "SQL & CSDL Quan hệ (PostgreSQL/MySQL)",
+      "name_en": "SQL & Relational Databases",
+      "category": "core",
+      "aliases": [
+        "sql",
+        "postgresql",
+        "postgres",
+        "mysql",
+        "mariadb",
+        "sql server",
+        "csdl",
+        "database",
+        "rdbms"
+      ]
+    },
+    {
+      "skill_id": "IT_REST_API",
+      "major_code": "IT",
+      "axis_id": "IT_AX2",
+      "name_vi": "Thiết kế RESTful API & Microservices cơ bản",
+      "name_en": "RESTful API Design",
+      "category": "core",
+      "aliases": [
+        "rest",
+        "restful",
+        "api",
+        "graphql",
+        "microservices",
+        "swagger",
+        "openapi",
+        "postman"
+      ]
+    },
+    {
+      "skill_id": "IT_PYTHON_BE",
+      "major_code": "IT",
+      "axis_id": "IT_AX2",
+      "name_vi": "Backend Python (FastAPI / Django)",
+      "name_en": "Python Backend",
+      "category": "tool",
+      "aliases": [
+        "python",
+        "fastapi",
+        "django",
+        "flask",
+        "uvicorn",
+        "pydantic"
+      ]
+    },
+    {
+      "skill_id": "IT_NODE_SPRING",
+      "major_code": "IT",
+      "axis_id": "IT_AX2",
+      "name_vi": "Backend Node.js (Express/NestJS) hoặc Spring Boot",
+      "name_en": "Node.js / Spring Boot Backend",
+      "category": "tool",
+      "aliases": [
+        "node.js",
+        "nodejs",
+        "express",
+        "nestjs",
+        "spring boot",
+        "spring",
+        "golang",
+        "go",
+        ".net",
+        "asp.net"
+      ]
+    },
+    {
+      "skill_id": "IT_NOSQL_CACHE",
+      "major_code": "IT",
+      "axis_id": "IT_AX2",
+      "name_vi": "NoSQL & Caching (MongoDB / Redis)",
+      "name_en": "NoSQL & Redis Caching",
+      "category": "tool",
+      "aliases": [
+        "mongodb",
+        "mongo",
+        "redis",
+        "nosql",
+        "caching",
+        "elasticsearch",
+        "kafka",
+        "rabbitmq"
+      ]
+    },
+    {
+      "skill_id": "IT_AUTH_SEC",
+      "major_code": "IT",
+      "axis_id": "IT_AX2",
+      "name_vi": "Xác thực & Bảo mật Web (JWT, OAuth2, OWASP)",
+      "name_en": "Authentication & Web Security",
+      "category": "core",
+      "aliases": [
+        "jwt",
+        "oauth",
+        "oauth2",
+        "security",
+        "bảo mật",
+        "owasp",
+        "authentication",
+        "authorization"
+      ]
+    },
+    {
+      "skill_id": "IT_HTML_CSS_JS",
+      "major_code": "IT",
+      "axis_id": "IT_AX3",
+      "name_vi": "HTML5, CSS3 & JavaScript (ES6+)",
+      "name_en": "HTML5, CSS3 & Modern JavaScript",
+      "category": "core",
+      "aliases": [
+        "html",
+        "css",
+        "javascript",
+        "js",
+        "es6",
+        "dom",
+        "html5",
+        "css3"
+      ]
+    },
+    {
+      "skill_id": "IT_TYPESCRIPT",
+      "major_code": "IT",
+      "axis_id": "IT_AX3",
+      "name_vi": "TypeScript",
+      "name_en": "TypeScript",
+      "category": "tool",
+      "aliases": [
+        "typescript",
+        "ts",
+        "tsx"
+      ]
+    },
+    {
+      "skill_id": "IT_REACT",
+      "major_code": "IT",
+      "axis_id": "IT_AX3",
+      "name_vi": "ReactJS / Next.js (hoặc Vue/Angular)",
+      "name_en": "React / Next.js Framework",
+      "category": "tool",
+      "aliases": [
+        "react",
+        "reactjs",
+        "react.js",
+        "next.js",
+        "nextjs",
+        "vue",
+        "vuejs",
+        "angular",
+        "vite",
+        "redux"
+      ]
+    },
+    {
+      "skill_id": "IT_TAILWIND_UI",
+      "major_code": "IT",
+      "axis_id": "IT_AX3",
+      "name_vi": "Tailwind CSS & Responsive UI",
+      "name_en": "Tailwind CSS & Responsive Design",
+      "category": "tool",
+      "aliases": [
+        "tailwind",
+        "tailwindcss",
+        "responsive",
+        "bootstrap",
+        "mui",
+        "ant design",
+        "shadcn",
+        "sass",
+        "scss"
+      ]
+    },
+    {
+      "skill_id": "IT_UX_FIGMA",
+      "major_code": "IT",
+      "axis_id": "IT_AX3",
+      "name_vi": "Tư duy UI/UX & Đọc thiết kế Figma",
+      "name_en": "UI/UX Principles & Figma",
+      "category": "tool",
+      "aliases": [
+        "figma",
+        "ui/ux",
+        "ux",
+        "ui",
+        "wireframe",
+        "prototype",
+        "accessibility"
+      ]
+    },
+    {
+      "skill_id": "IT_MOBILE",
+      "major_code": "IT",
+      "axis_id": "IT_AX3",
+      "name_vi": "Phát triển Mobile (Flutter / React Native)",
+      "name_en": "Mobile App Development",
+      "category": "tool",
+      "aliases": [
+        "flutter",
+        "react native",
+        "android",
+        "ios",
+        "kotlin",
+        "swift",
+        "mobile"
+      ]
+    },
+    {
+      "skill_id": "IT_DOCKER",
+      "major_code": "IT",
+      "axis_id": "IT_AX4",
+      "name_vi": "Docker & Containerization",
+      "name_en": "Docker & Containers",
+      "category": "tool",
+      "aliases": [
+        "docker",
+        "docker compose",
+        "container",
+        "kubernetes",
+        "k8s"
+      ]
+    },
+    {
+      "skill_id": "IT_LINUX",
+      "major_code": "IT",
+      "axis_id": "IT_AX4",
+      "name_vi": "Linux CLI & Shell Scripting",
+      "name_en": "Linux & Bash Scripting",
+      "category": "tool",
+      "aliases": [
+        "linux",
+        "ubuntu",
+        "bash",
+        "shell",
+        "cli",
+        "ssh",
+        "nginx"
+      ]
+    },
+    {
+      "skill_id": "IT_CLOUD",
+      "major_code": "IT",
+      "axis_id": "IT_AX4",
+      "name_vi": "Cloud căn bản (AWS / GCP / Azure)",
+      "name_en": "Cloud Fundamentals",
+      "category": "tool",
+      "aliases": [
+        "aws",
+        "gcp",
+        "azure",
+        "cloud",
+        "ec2",
+        "s3",
+        "vercel",
+        "supabase",
+        "firebase"
+      ]
+    },
+    {
+      "skill_id": "IT_CICD",
+      "major_code": "IT",
+      "axis_id": "IT_AX4",
+      "name_vi": "CI/CD (GitHub Actions / GitLab CI)",
+      "name_en": "CI/CD Pipelines",
+      "category": "tool",
+      "aliases": [
+        "ci/cd",
+        "cicd",
+        "github actions",
+        "gitlab ci",
+        "jenkins",
+        "deployment",
+        "devops"
+      ]
+    },
+    {
+      "skill_id": "IT_ML_AI",
+      "major_code": "IT",
+      "axis_id": "IT_AX4",
+      "name_vi": "Machine Learning & Ứng dụng LLM API",
+      "name_en": "Machine Learning & LLM Integration",
+      "category": "core",
+      "aliases": [
+        "machine learning",
+        "ml",
+        "ai",
+        "deep learning",
+        "pytorch",
+        "tensorflow",
+        "scikit-learn",
+        "llm",
+        "rag",
+        "langchain",
+        "openai"
+      ]
+    },
+    {
+      "skill_id": "IT_DATA_PY",
+      "major_code": "IT",
+      "axis_id": "IT_AX4",
+      "name_vi": "Phân tích dữ liệu Python (Pandas / NumPy)",
+      "name_en": "Python Data Analysis",
+      "category": "tool",
+      "aliases": [
+        "pandas",
+        "numpy",
+        "data analysis",
+        "data science",
+        "jupyter",
+        "matplotlib",
+        "etl",
+        "power bi"
+      ]
+    },
+    {
+      "skill_id": "IT_GIT",
+      "major_code": "IT",
+      "axis_id": "IT_AX5",
+      "name_vi": "Git & Quy trình GitHub/GitLab Flow",
+      "name_en": "Git Version Control",
+      "category": "tool",
+      "aliases": [
+        "git",
+        "github",
+        "gitlab",
+        "bitbucket",
+        "pull request",
+        "branching",
+        "version control"
+      ]
+    },
+    {
+      "skill_id": "IT_TESTING",
+      "major_code": "IT",
+      "axis_id": "IT_AX5",
+      "name_vi": "Kiểm thử phần mềm (Unit Test / Automation)",
+      "name_en": "Software Testing & QA",
+      "category": "core",
+      "aliases": [
+        "unit test",
+        "testing",
+        "pytest",
+        "jest",
+        "playwright",
+        "selenium",
+        "qa",
+        "automation test",
+        "tdd"
+      ]
+    },
+    {
+      "skill_id": "IT_AGILE",
+      "major_code": "IT",
+      "axis_id": "IT_AX5",
+      "name_vi": "Quy trình Agile / Scrum & Quản lý task (Jira)",
+      "name_en": "Agile / Scrum & Jira",
+      "category": "soft",
+      "aliases": [
+        "agile",
+        "scrum",
+        "jira",
+        "trello",
+        "kanban",
+        "sprint",
+        "cnpm"
+      ]
+    },
+    {
+      "skill_id": "IT_CODE_REVIEW",
+      "major_code": "IT",
+      "axis_id": "IT_AX5",
+      "name_vi": "Code Review & Coding Convention",
+      "name_en": "Code Review & Standards",
+      "category": "soft",
+      "aliases": [
+        "code review",
+        "eslint",
+        "prettier",
+        "coding convention",
+        "refactoring",
+        "maintainable code"
+      ]
+    },
+    {
+      "skill_id": "IT_SYS_DESIGN",
+      "major_code": "IT",
+      "axis_id": "IT_AX5",
+      "name_vi": "Phân tích thiết kế hệ thống (UML / ERD)",
+      "name_en": "System Analysis & Design",
+      "category": "core",
+      "aliases": [
+        "uml",
+        "erd",
+        "system design",
+        "phân tích thiết kế",
+        "architecture",
+        "srs"
+      ]
+    },
+    {
+      "skill_id": "IT_TECH_DOC",
+      "major_code": "IT",
+      "axis_id": "IT_AX5",
+      "name_vi": "Viết tài liệu kỹ thuật & README chuẩn",
+      "name_en": "Technical Documentation",
+      "category": "soft",
+      "aliases": [
+        "documentation",
+        "readme",
+        "markdown",
+        "tài liệu kỹ thuật",
+        "confluence",
+        "notion"
+      ]
+    },
+    {
+      "skill_id": "IT_ENG_READ",
+      "major_code": "IT",
+      "axis_id": "IT_AX6",
+      "name_vi": "Tiếng Anh đọc hiểu tài liệu kỹ thuật",
+      "name_en": "Technical English Reading",
+      "category": "language",
+      "aliases": [
+        "english reading",
+        "đọc hiểu tài liệu",
+        "tiếng anh chuyên ngành",
+        "english",
+        "tiếng anh"
+      ]
+    },
+    {
+      "skill_id": "IT_ENG_COMM",
+      "major_code": "IT",
+      "axis_id": "IT_AX6",
+      "name_vi": "Tiếng Anh giao tiếp & Viết (IELTS 6.0+ / TOEIC 700+)",
+      "name_en": "Business & Technical English Communication",
+      "category": "language",
+      "aliases": [
+        "ielts",
+        "toeic",
+        "giao tiếp tiếng anh",
+        "english communication",
+        "speaking",
+        "bilingual"
+      ]
+    },
+    {
+      "skill_id": "IT_JAPANESE",
+      "major_code": "IT",
+      "axis_id": "IT_AX6",
+      "name_vi": "Tiếng Nhật CNTT (JLPT N3-N2 / HEDSPI BrSE)",
+      "name_en": "Japanese for IT (JLPT N3-N2)",
+      "category": "language",
+      "aliases": [
+        "tiếng nhật",
+        "japanese",
+        "jlpt",
+        "n3",
+        "n2",
+        "brse",
+        "hedspi",
+        "comtor"
+      ]
+    },
+    {
+      "skill_id": "IT_TEAMWORK",
+      "major_code": "IT",
+      "axis_id": "IT_AX6",
+      "name_vi": "Làm việc nhóm đa chức năng",
+      "name_en": "Cross-functional Teamwork",
+      "category": "soft",
+      "aliases": [
+        "teamwork",
+        "làm việc nhóm",
+        "collaboration",
+        "phối hợp nhóm"
+      ]
+    },
+    {
+      "skill_id": "IT_PRESENTATION",
+      "major_code": "IT",
+      "axis_id": "IT_AX6",
+      "name_vi": "Thuyết trình kỹ thuật & Demo sản phẩm",
+      "name_en": "Technical Presentation & Demo",
+      "category": "soft",
+      "aliases": [
+        "thuyết trình",
+        "presentation",
+        "demo",
+        "pitching",
+        "communication"
+      ]
+    },
+    {
+      "skill_id": "IT_SELF_LEARNING",
+      "major_code": "IT",
+      "axis_id": "IT_AX6",
+      "name_vi": "Tự học công nghệ mới & Chủ động",
+      "name_en": "Self-learning & Proactiveness",
+      "category": "soft",
+      "aliases": [
+        "tự học",
+        "self-learning",
+        "fast learner",
+        "chủ động",
+        "adaptability"
+      ]
+    },
+    {
+      "skill_id": "SEEE_CIRCUITS",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX1",
+      "name_vi": "Điện tử Tương tự, Số & Phân tích mạch điện",
+      "name_en": "Analog/Digital Circuits",
+      "category": "core",
+      "aliases": [
+        "mạch điện",
+        "điện tử tương tự",
+        "điện tử số",
+        "analog",
+        "digital",
+        "circuit",
+        "hdl",
+        "verilog"
+      ]
+    },
+    {
+      "skill_id": "SEEE_POWER_SYS",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX1",
+      "name_vi": "Hệ thống điện, Máy điện, Lưới điện & Trạm biến áp",
+      "name_en": "Power Systems & Electrical Machines",
+      "category": "core",
+      "aliases": [
+        "hệ thống điện",
+        "máy điện",
+        "lưới điện",
+        "trạm biến áp",
+        "cung cấp điện",
+        "biến áp",
+        "ngắn mạch",
+        "bảo vệ rơle"
+      ]
+    },
+    {
+      "skill_id": "SEEE_DRIVES",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX1",
+      "name_vi": "Truyền động điện, Động cơ & Biến tần (Inverter/Servo)",
+      "name_en": "Electric Drives & Inverters",
+      "category": "core",
+      "aliases": [
+        "truyền động điện",
+        "động cơ",
+        "biến tần",
+        "inverter",
+        "servo",
+        "tủ điện",
+        "khí cụ điện"
+      ]
+    },
+    {
+      "skill_id": "SEEE_CTRL_THEORY",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX1",
+      "name_vi": "Lý thuyết Điều khiển tự động & Bộ điều khiển PID",
+      "name_en": "Control Theory & PID",
+      "category": "core",
+      "aliases": [
+        "điều khiển tự động",
+        "pid",
+        "hàm truyền",
+        "lý thuyết điều khiển",
+        "hệ thống điều khiển"
+      ]
+    },
+    {
+      "skill_id": "SEEE_DSP_SIGNAL",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX1",
+      "name_vi": "Xử lý Tín hiệu số (DSP) & Tín hiệu y sinh/viễn thông",
+      "name_en": "Digital Signal Processing",
+      "category": "core",
+      "aliases": [
+        "xử lý tín hiệu",
+        "dsp",
+        "tín hiệu",
+        "lọc số",
+        "ecg",
+        "eeg",
+        "ảnh y tế",
+        "dicom"
+      ]
+    },
+    {
+      "skill_id": "SEEE_SENSORS_MEAS",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX1",
+      "name_vi": "Cảm biến công nghiệp, Đo lường điện & Y sinh",
+      "name_en": "Sensors & Instrumentation",
+      "category": "core",
+      "aliases": [
+        "cảm biến",
+        "sensor",
+        "đo lường",
+        "measurement",
+        "transducer",
+        "đo lường y sinh"
+      ]
+    },
+    {
+      "skill_id": "SEEE_ALTIUM",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX2",
+      "name_vi": "Thiết kế mạch PCB (Altium Designer / KiCad / OrCAD)",
+      "name_en": "PCB Design (Altium/KiCad)",
+      "category": "tool",
+      "aliases": [
+        "altium",
+        "altium designer",
+        "kicad",
+        "orcad",
+        "pcb",
+        "schematic",
+        "gerber",
+        "vẽ mạch"
+      ]
+    },
+    {
+      "skill_id": "SEEE_MATLAB",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX2",
+      "name_vi": "MATLAB / Simulink mô phỏng hệ thống",
+      "name_en": "MATLAB & Simulink",
+      "category": "tool",
+      "aliases": [
+        "matlab",
+        "simulink",
+        "mô phỏng",
+        "simulation",
+        "ltspice",
+        "proteus"
+      ]
+    },
+    {
+      "skill_id": "SEEE_AUTOCAD_EL",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX2",
+      "name_vi": "AutoCAD Electrical / AutoCAD 2D bản vẽ điện",
+      "name_en": "AutoCAD Electrical",
+      "category": "tool",
+      "aliases": [
+        "autocad",
+        "autocad electrical",
+        "cad",
+        "bản vẽ điện",
+        "vẽ tủ điện"
+      ]
+    },
+    {
+      "skill_id": "SEEE_EPLAN_ETAP",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX2",
+      "name_vi": "EPLAN Electric P8 / ETAP / Dialux (Thiết kế hệ thống điện)",
+      "name_en": "EPLAN / ETAP / Dialux",
+      "category": "tool",
+      "aliases": [
+        "eplan",
+        "etap",
+        "dialux",
+        "revit mep",
+        "mep"
+      ]
+    },
+    {
+      "skill_id": "SEEE_FPGA_HDL",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX2",
+      "name_vi": "Thiết kế vi mạch số (Verilog / VHDL / FPGA)",
+      "name_en": "Digital IC / FPGA / HDL",
+      "category": "tool",
+      "aliases": [
+        "verilog",
+        "vhdl",
+        "fpga",
+        "rtl",
+        "vi mạch",
+        "ic design",
+        "vivado"
+      ]
+    },
+    {
+      "skill_id": "SEEE_LABVIEW",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX2",
+      "name_vi": "LabVIEW & Hệ thống thu thập dữ liệu đo",
+      "name_en": "LabVIEW & DAQ",
+      "category": "tool",
+      "aliases": [
+        "labview",
+        "daq",
+        "thu thập dữ liệu"
+      ]
+    },
+    {
+      "skill_id": "SEEE_PLC",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX3",
+      "name_vi": "Lập trình PLC (Siemens TIA Portal / Mitsubishi / Omron)",
+      "name_en": "PLC Programming",
+      "category": "tool",
+      "aliases": [
+        "plc",
+        "siemens",
+        "tia portal",
+        "s7-1200",
+        "mitsubishi",
+        "gx works",
+        "omron",
+        "ladder"
+      ]
+    },
+    {
+      "skill_id": "SEEE_HMI_SCADA",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX3",
+      "name_vi": "Thiết kế HMI & Hệ thống giám sát SCADA (WinCC)",
+      "name_en": "HMI & SCADA",
+      "category": "tool",
+      "aliases": [
+        "hmi",
+        "scada",
+        "wincc",
+        "ignition",
+        "giám sát điều khiển"
+      ]
+    },
+    {
+      "skill_id": "SEEE_MCU",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX3",
+      "name_vi": "Vi xử lý & Vi điều khiển (STM32, ESP32, ARM, PIC)",
+      "name_en": "Microcontrollers & ARM",
+      "category": "core",
+      "aliases": [
+        "stm32",
+        "esp32",
+        "arduino",
+        "arm",
+        "vi xử lý",
+        "vi điều khiển",
+        "mcu",
+        "hal"
+      ]
+    },
+    {
+      "skill_id": "SEEE_EMBEDDED_C",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX3",
+      "name_vi": "Lập trình C/C++ Nhúng, RTOS & Giao thức ngoại vi",
+      "name_en": "Embedded C & RTOS",
+      "category": "core",
+      "aliases": [
+        "embedded c",
+        "c nhúng",
+        "rtos",
+        "freertos",
+        "uart",
+        "spi",
+        "i2c",
+        "firmware"
+      ]
+    },
+    {
+      "skill_id": "SEEE_TELECOM_NET",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX3",
+      "name_vi": "Truyền số liệu, Mạng viễn thông & Giao tiếp IoT (MQTT/TCP)",
+      "name_en": "Telecom & IoT Networking",
+      "category": "core",
+      "aliases": [
+        "truyền số liệu",
+        "viễn thông",
+        "iot",
+        "mqtt",
+        "tcp/ip",
+        "5g",
+        "rf",
+        "loRa",
+        "wifi"
+      ]
+    },
+    {
+      "skill_id": "SEEE_IND_COMM",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX3",
+      "name_vi": "Truyền thông Công nghiệp (Modbus, Profinet, CAN, RS485)",
+      "name_en": "Industrial Fieldbus Protocols",
+      "category": "tool",
+      "aliases": [
+        "modbus",
+        "profinet",
+        "profibus",
+        "rs485",
+        "can",
+        "opc ua",
+        "iiot"
+      ]
+    },
+    {
+      "skill_id": "SEEE_TEST_MEAS",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX4",
+      "name_vi": "Đo kiểm phần cứng (Oscilloscope, Logic Analyzer, DMM)",
+      "name_en": "Hardware Testing & Debug",
+      "category": "tool",
+      "aliases": [
+        "oscilloscope",
+        "máy hiện sóng",
+        "dmm",
+        "đo kiểm",
+        "debug phần cứng",
+        "hàn mạch",
+        "smd"
+      ]
+    },
+    {
+      "skill_id": "SEEE_DATASHEET",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX4",
+      "name_vi": "Tra cứu Datasheet linh kiện & Chọn thiết bị",
+      "name_en": "Datasheet & Component Selection",
+      "category": "core",
+      "aliases": [
+        "datasheet",
+        "linh kiện",
+        "chọn thiết bị",
+        "catalog",
+        "hardware selection"
+      ]
+    },
+    {
+      "skill_id": "SEEE_BLUEPRINT",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX4",
+      "name_vi": "Đọc hiểu Sơ đồ nguyên lý điện, Tủ điện & Single-line",
+      "name_en": "Electrical Schematics Reading",
+      "category": "core",
+      "aliases": [
+        "sơ đồ nguyên lý",
+        "đọc bản vẽ",
+        "single line",
+        "tủ điện",
+        "wiring diagram"
+      ]
+    },
+    {
+      "skill_id": "SEEE_SAFETY_IEC",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX4",
+      "name_vi": "An toàn điện, Tiêu chuẩn IEC / TCVN & Thiết bị y tế",
+      "name_en": "Electrical Safety & IEC Standards",
+      "category": "core",
+      "aliases": [
+        "an toàn điện",
+        "iec",
+        "tcvn",
+        "emc",
+        "emi",
+        "an toàn bức xạ",
+        "bảo hộ"
+      ]
+    },
+    {
+      "skill_id": "SEEE_CALIBRATION",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX4",
+      "name_vi": "Bảo trì, Hiệu chuẩn & Chẩn đoán sự cố thiết bị",
+      "name_en": "Calibration & Troubleshooting",
+      "category": "core",
+      "aliases": [
+        "hiệu chuẩn",
+        "calibration",
+        "bảo trì",
+        "khắc phục sự cố",
+        "troubleshooting",
+        "thiết bị y tế"
+      ]
+    },
+    {
+      "skill_id": "SEEE_QA_QC",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX4",
+      "name_vi": "Kiểm tra chất lượng & Tiêu chuẩn sản xuất điện tử",
+      "name_en": "Electronics QA/QC",
+      "category": "core",
+      "aliases": [
+        "qa/qc",
+        "qc",
+        "kiểm tra chất lượng",
+        "ipc",
+        "iso",
+        "test plan"
+      ]
+    },
+    {
+      "skill_id": "SEEE_C_PYTHON",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX5",
+      "name_vi": "Lập trình C/C++ & Python tự động hóa test / dữ liệu",
+      "name_en": "C/C++ & Python Scripting",
+      "category": "tool",
+      "aliases": [
+        "c/c++",
+        "python",
+        "lập trình ứng dụng",
+        "test automation",
+        "numpy",
+        "opencv"
+      ]
+    },
+    {
+      "skill_id": "SEEE_EXCEL_BOM",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX5",
+      "name_vi": "Excel kỹ thuật, Lập bảng BOM linh kiện & Dự toán",
+      "name_en": "Engineering Excel & BOM",
+      "category": "tool",
+      "aliases": [
+        "excel",
+        "bom",
+        "bóc tách khối lượng",
+        "dự toán",
+        "vật tư"
+      ]
+    },
+    {
+      "skill_id": "SEEE_GIT",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX5",
+      "name_vi": "Quản lý mã nguồn Git / GitHub & Linux cơ bản",
+      "name_en": "Git & Embedded Linux",
+      "category": "tool",
+      "aliases": [
+        "git",
+        "github",
+        "linux",
+        "bash",
+        "version control"
+      ]
+    },
+    {
+      "skill_id": "SEEE_SQL_MES",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX5",
+      "name_vi": "CSDL SQL, SCADA Logging & Kết nối MES nhà máy",
+      "name_en": "SQL & MES Data Integration",
+      "category": "tool",
+      "aliases": [
+        "sql",
+        "mes",
+        "oee",
+        "smart factory",
+        "power bi",
+        "database"
+      ]
+    },
+    {
+      "skill_id": "SEEE_M365_DOC",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX5",
+      "name_vi": "Tin học văn phòng & Lập hồ sơ hoàn công (M365)",
+      "name_en": "Microsoft 365 & Documentation",
+      "category": "tool",
+      "aliases": [
+        "word",
+        "powerpoint",
+        "o365",
+        "microsoft 365",
+        "hồ sơ nghiệm thu",
+        "báo cáo"
+      ]
+    },
+    {
+      "skill_id": "SEEE_TECH_WRITING",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX5",
+      "name_vi": "Viết tài liệu đặc tả kỹ thuật & SOP vận hành",
+      "name_en": "Technical Specifications & SOP",
+      "category": "soft",
+      "aliases": [
+        "sop",
+        "spec",
+        "tài liệu kỹ thuật",
+        "technical writing",
+        "manual"
+      ]
+    },
+    {
+      "skill_id": "SEEE_ENG_TECH",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX6",
+      "name_vi": "Tiếng Anh Kỹ thuật (Đọc Datasheet, Manual, Giao tiếp)",
+      "name_en": "Technical English",
+      "category": "language",
+      "aliases": [
+        "tiếng anh kỹ thuật",
+        "technical english",
+        "toeic",
+        "ielts",
+        "tiếng anh",
+        "english"
+      ]
+    },
+    {
+      "skill_id": "SEEE_JP_KR",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX6",
+      "name_vi": "Tiếng Nhật (N4-N3) / Tiếng Hàn cho R&D FDI",
+      "name_en": "Japanese / Korean for FDI",
+      "category": "language",
+      "aliases": [
+        "tiếng nhật",
+        "jlpt",
+        "n4",
+        "n3",
+        "tiếng hàn",
+        "topik"
+      ]
+    },
+    {
+      "skill_id": "SEEE_5S_KAIZEN",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX6",
+      "name_vi": "Tác phong Công nghiệp 5S, Kaizen & Horenso",
+      "name_en": "5S, Kaizen & Horenso",
+      "category": "soft",
+      "aliases": [
+        "5s",
+        "kaizen",
+        "horenso",
+        "tác phong công nghiệp"
+      ]
+    },
+    {
+      "skill_id": "SEEE_TEAMWORK",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX6",
+      "name_vi": "Phối hợp nhóm Phần cứng – Firmware – Vận hành",
+      "name_en": "Cross-functional Teamwork",
+      "category": "soft",
+      "aliases": [
+        "teamwork",
+        "làm việc nhóm",
+        "phối hợp"
+      ]
+    },
+    {
+      "skill_id": "SEEE_FIELD_SITE",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX6",
+      "name_vi": "Triển khai công trường / Nhà máy & Chịu áp lực",
+      "name_en": "Site Commissioning Readiness",
+      "category": "soft",
+      "aliases": [
+        "công trường",
+        "site",
+        "commissioning",
+        "công tác",
+        "lắp đặt"
+      ]
+    },
+    {
+      "skill_id": "SEEE_PROBLEM_SOLV",
+      "major_code": "SEEE",
+      "axis_id": "SEEE_AX6",
+      "name_vi": "Tư duy phân tích lỗi hệ thống & Giải quyết vấn đề",
+      "name_en": "System Debugging Mindset",
+      "category": "soft",
+      "aliases": [
+        "problem solving",
+        "giải quyết vấn đề",
+        "phân tích lỗi",
+        "root cause"
+      ]
+    },
+    {
+      "skill_id": "SME_MECHANICS",
+      "major_code": "SME",
+      "axis_id": "SME_AX1",
+      "name_vi": "Cơ học kỹ thuật, Sức bền vật liệu & Kết cấu",
+      "name_en": "Engineering Mechanics & Materials Strength",
+      "category": "core",
+      "aliases": [
+        "cơ học",
+        "sức bền vật liệu",
+        "statics",
+        "dynamics",
+        "kết cấu"
+      ]
+    },
+    {
+      "skill_id": "SME_MACHINE_DESIGN",
+      "major_code": "SME",
+      "axis_id": "SME_AX1",
+      "name_vi": "Nguyên lý máy, Chi tiết máy & Thiết kế đồ gá (Jig)",
+      "name_en": "Machine Elements & Jig Design",
+      "category": "core",
+      "aliases": [
+        "nguyên lý máy",
+        "chi tiết máy",
+        "thiết kế máy",
+        "jig",
+        "đồ gá",
+        "fixture",
+        "truyền động"
+      ]
+    },
+    {
+      "skill_id": "SME_MATERIALS",
+      "major_code": "SME",
+      "axis_id": "SME_AX1",
+      "name_vi": "Vật liệu kỹ thuật, Kim loại, Polymer & Composite",
+      "name_en": "Engineering Materials",
+      "category": "core",
+      "aliases": [
+        "vật liệu",
+        "polymer",
+        "composite",
+        "nhiệt luyện",
+        "hợp kim"
+      ]
+    },
+    {
+      "skill_id": "SME_THERMO_HEAT",
+      "major_code": "SME",
+      "axis_id": "SME_AX1",
+      "name_vi": "Nhiệt động lực học, Truyền nhiệt & Thủy khí",
+      "name_en": "Thermodynamics & Heat Transfer",
+      "category": "core",
+      "aliases": [
+        "nhiệt động",
+        "truyền nhiệt",
+        "kỹ thuật nhiệt",
+        "thủy khí",
+        "lò hơi"
+      ]
+    },
+    {
+      "skill_id": "SME_PNEUMATICS",
+      "major_code": "SME",
+      "axis_id": "SME_AX1",
+      "name_vi": "Hệ thống Khí nén, Thủy lực & Cơ cấu chấp hành",
+      "name_en": "Pneumatics & Hydraulics",
+      "category": "core",
+      "aliases": [
+        "khí nén",
+        "thủy lực",
+        "pneumatic",
+        "hydraulic",
+        "xi lanh",
+        "smc",
+        "festo"
+      ]
+    },
+    {
+      "skill_id": "SME_AUTO_THEORY",
+      "major_code": "SME",
+      "axis_id": "SME_AX1",
+      "name_vi": "Động cơ đốt trong, Kết cấu & Lý thuyết Ô tô",
+      "name_en": "Automotive Theory & Powertrain",
+      "category": "core",
+      "aliases": [
+        "động cơ đốt trong",
+        "kết cấu ô tô",
+        "lý thuyết ô tô",
+        "khung gầm",
+        "truyền lực",
+        "xe điện"
+      ]
+    },
+    {
+      "skill_id": "SME_AUTOCAD",
+      "major_code": "SME",
+      "axis_id": "SME_AX2",
+      "name_vi": "AutoCAD 2D/3D xuất bản vẽ chế tạo & MEP",
+      "name_en": "AutoCAD 2D/3D",
+      "category": "tool",
+      "aliases": [
+        "autocad",
+        "cad 2d",
+        "vẽ cad",
+        "bản vẽ chế tạo"
+      ]
+    },
+    {
+      "skill_id": "SME_SOLIDWORKS",
+      "major_code": "SME",
+      "axis_id": "SME_AX2",
+      "name_vi": "SolidWorks / Inventor thiết kế 3D & Lắp ráp cụm máy",
+      "name_en": "SolidWorks / Inventor",
+      "category": "tool",
+      "aliases": [
+        "solidworks",
+        "inventor",
+        "cad 3d",
+        "lắp ráp 3d",
+        "3d modeling",
+        "fusion 360"
+      ]
+    },
+    {
+      "skill_id": "SME_CATIA_NX",
+      "major_code": "SME",
+      "axis_id": "SME_AX2",
+      "name_vi": "CATIA / Siemens NX / Creo (Thiết kế Ô tô & Khuôn mẫu)",
+      "name_en": "CATIA / NX / Creo",
+      "category": "tool",
+      "aliases": [
+        "catia",
+        "nx",
+        "creo",
+        "siemens nx",
+        "khuôn mẫu",
+        "surface"
+      ]
+    },
+    {
+      "skill_id": "SME_CAE_ANSYS",
+      "major_code": "SME",
+      "axis_id": "SME_AX2",
+      "name_vi": "Mô phỏng Phần tử hữu hạn CAE (ANSYS / SolidWorks Sim)",
+      "name_en": "FEA / CAE Simulation (ANSYS)",
+      "category": "tool",
+      "aliases": [
+        "ansys",
+        "cae",
+        "fea",
+        "fem",
+        "phần tử hữu hạn",
+        "cfd",
+        "abaqus"
+      ]
+    },
+    {
+      "skill_id": "SME_REVIT_HVAC",
+      "major_code": "SME",
+      "axis_id": "SME_AX2",
+      "name_vi": "Revit MEP / HAP tính tải lạnh & Thiết kế HVAC",
+      "name_en": "Revit MEP & HVAC Design",
+      "category": "tool",
+      "aliases": [
+        "revit",
+        "revit mep",
+        "hvac",
+        "hap",
+        "điều hòa không khí",
+        "thông gió",
+        "bim"
+      ]
+    },
+    {
+      "skill_id": "SME_MATLAB",
+      "major_code": "SME",
+      "axis_id": "SME_AX2",
+      "name_vi": "MATLAB / Simulink mô phỏng động lực học & điều khiển",
+      "name_en": "MATLAB & Simulink",
+      "category": "tool",
+      "aliases": [
+        "matlab",
+        "simulink",
+        "mô phỏng",
+        "kinematics"
+      ]
+    },
+    {
+      "skill_id": "SME_CNC_CAM",
+      "major_code": "SME",
+      "axis_id": "SME_AX3",
+      "name_vi": "Công nghệ chế tạo máy & Lập trình CNC/CAM (Mastercam)",
+      "name_en": "Manufacturing & CNC/CAM",
+      "category": "tool",
+      "aliases": [
+        "cnc",
+        "cam",
+        "mastercam",
+        "gia công cắt gọt",
+        "phay",
+        "tiện",
+        "g-code"
+      ]
+    },
+    {
+      "skill_id": "SME_ROBOTICS",
+      "major_code": "SME",
+      "axis_id": "SME_AX3",
+      "name_vi": "Kỹ thuật Robot công nghiệp, Cơ điện tử & ROS",
+      "name_en": "Industrial Robotics & Mechatronics",
+      "category": "core",
+      "aliases": [
+        "robot",
+        "robotics",
+        "ros",
+        "cơ điện tử",
+        "abb",
+        "fanuc",
+        "cánh tay máy"
+      ]
+    },
+    {
+      "skill_id": "SME_PLC_CTRL",
+      "major_code": "SME",
+      "axis_id": "SME_AX3",
+      "name_vi": "Điều khiển tự động, PLC & Vi điều khiển trong máy",
+      "name_en": "PLC & Embedded Mechatronics",
+      "category": "tool",
+      "aliases": [
+        "plc",
+        "siemens",
+        "tia portal",
+        "vi điều khiển",
+        "stm32",
+        "arduino",
+        "tự động hóa"
+      ]
+    },
+    {
+      "skill_id": "SME_AUTO_ELEC",
+      "major_code": "SME",
+      "axis_id": "SME_AX3",
+      "name_vi": "Hệ thống Điện - Điện tử Ô tô & Chẩn đoán (CAN Bus/ECU)",
+      "name_en": "Automotive Electronics & Diagnostics",
+      "category": "core",
+      "aliases": [
+        "điện ô tô",
+        "ecu",
+        "can bus",
+        "chẩn đoán ô tô",
+        "obd",
+        "ev"
+      ]
+    },
+    {
+      "skill_id": "SME_HVAC_REFRIG",
+      "major_code": "SME",
+      "axis_id": "SME_AX3",
+      "name_vi": "Hệ thống Lạnh công nghiệp, Chiller & Điều hòa HVAC",
+      "name_en": "Refrigeration & HVAC Systems",
+      "category": "core",
+      "aliases": [
+        "kỹ thuật lạnh",
+        "chiller",
+        "vrv",
+        "hvac",
+        "lạnh công nghiệp",
+        "máy nén"
+      ]
+    },
+    {
+      "skill_id": "SME_FINISHING_MFG",
+      "major_code": "SME",
+      "axis_id": "SME_AX3",
+      "name_vi": "Công nghệ gia công tinh, Đột dập, Đúc & Hàn công nghiệp",
+      "name_en": "Precision Machining & Sheet Metal",
+      "category": "core",
+      "aliases": [
+        "gia công tinh",
+        "đột dập",
+        "sheet metal",
+        "hàn",
+        "đúc",
+        "khuôn"
+      ]
+    },
+    {
+      "skill_id": "SME_GDT_BLUEPRINT",
+      "major_code": "SME",
+      "axis_id": "SME_AX4",
+      "name_vi": "Đọc hiểu Bản vẽ lắp & Dung sai hình học (GD&T)",
+      "name_en": "Blueprints & GD&T",
+      "category": "core",
+      "aliases": [
+        "gd&t",
+        "dung sai",
+        "đọc bản vẽ",
+        "bản vẽ lắp",
+        "blueprint"
+      ]
+    },
+    {
+      "skill_id": "SME_QA_QC",
+      "major_code": "SME",
+      "axis_id": "SME_AX4",
+      "name_vi": "Kiểm soát chất lượng QA/QC (FMEA, 7 QC Tools, SPC)",
+      "name_en": "Quality Control & FMEA",
+      "category": "core",
+      "aliases": [
+        "qa/qc",
+        "qc",
+        "fmea",
+        "7 qc tools",
+        "spc",
+        "iatf 16949",
+        "iso 9001"
+      ]
+    },
+    {
+      "skill_id": "SME_METROLOGY",
+      "major_code": "SME",
+      "axis_id": "SME_AX4",
+      "name_vi": "Đo lường cơ khí chính xác (CMM, Panme, Thước cặp)",
+      "name_en": "Mechanical Metrology & CMM",
+      "category": "tool",
+      "aliases": [
+        "cmm",
+        "panme",
+        "thước cặp",
+        "đo kiểm",
+        "đo lường cơ khí"
+      ]
+    },
+    {
+      "skill_id": "SME_MAINTENANCE",
+      "major_code": "SME",
+      "axis_id": "SME_AX4",
+      "name_vi": "Bảo trì phòng ngừa TPM & Sửa chữa dây chuyền máy",
+      "name_en": "TPM Maintenance",
+      "category": "core",
+      "aliases": [
+        "bảo trì",
+        "bảo dưỡng",
+        "tpm",
+        "sửa chữa máy",
+        "vận hành"
+      ]
+    },
+    {
+      "skill_id": "SME_SAFETY_EHS",
+      "major_code": "SME",
+      "axis_id": "SME_AX4",
+      "name_vi": "An toàn cơ khí, Áp lực - Nhiệt & Tiêu chuẩn EHS/ISO",
+      "name_en": "Mechanical/Thermal Safety & EHS",
+      "category": "core",
+      "aliases": [
+        "an toàn lao động",
+        "ehs",
+        "loto",
+        "iso",
+        "tcvn",
+        "an toàn"
+      ]
+    },
+    {
+      "skill_id": "SME_PROCESS_PE",
+      "major_code": "SME",
+      "axis_id": "SME_AX4",
+      "name_vi": "Kỹ thuật quy trình sản xuất (PE), Cycle Time & Line Balance",
+      "name_en": "Process Engineering & Line Balancing",
+      "category": "core",
+      "aliases": [
+        "process engineer",
+        "pe",
+        "cân bằng chuyền",
+        "cycle time",
+        "quy trình sản xuất"
+      ]
+    },
+    {
+      "skill_id": "SME_EXCEL_BOM",
+      "major_code": "SME",
+      "axis_id": "SME_AX5",
+      "name_vi": "Excel kỹ thuật, Bóc tách khối lượng & Lập bảng BOM",
+      "name_en": "Engineering Excel & BOM",
+      "category": "tool",
+      "aliases": [
+        "excel",
+        "bom",
+        "bóc tách khối lượng",
+        "dự toán",
+        "vật tư"
+      ]
+    },
+    {
+      "skill_id": "SME_M365_DOC",
+      "major_code": "SME",
+      "axis_id": "SME_AX5",
+      "name_vi": "Tin học văn phòng & Báo cáo kỹ thuật (Word/PPT/M365)",
+      "name_en": "Technical Reporting & M365",
+      "category": "tool",
+      "aliases": [
+        "word",
+        "powerpoint",
+        "o365",
+        "microsoft 365",
+        "báo cáo kỹ thuật"
+      ]
+    },
+    {
+      "skill_id": "SME_SOP_WI",
+      "major_code": "SME",
+      "axis_id": "SME_AX5",
+      "name_vi": "Soạn quy trình công nghệ & Hướng dẫn thao tác chuẩn (SOP/WI)",
+      "name_en": "SOP & Work Instruction",
+      "category": "soft",
+      "aliases": [
+        "sop",
+        "wi",
+        "work instruction",
+        "quy trình công nghệ",
+        "phiếu công nghệ"
+      ]
+    },
+    {
+      "skill_id": "SME_PDM_PLM",
+      "major_code": "SME",
+      "axis_id": "SME_AX5",
+      "name_vi": "Quản lý dữ liệu bản vẽ CAD (PDM/PLM/ERP sản xuất)",
+      "name_en": "PDM / PLM / Manufacturing ERP",
+      "category": "tool",
+      "aliases": [
+        "pdm",
+        "plm",
+        "erp",
+        "quản lý bản vẽ",
+        "teamcenter"
+      ]
+    },
+    {
+      "skill_id": "SME_OEE_BI",
+      "major_code": "SME",
+      "axis_id": "SME_AX5",
+      "name_vi": "Phân tích dữ liệu sản xuất, Chỉ số OEE & Power BI",
+      "name_en": "Production OEE & BI",
+      "category": "tool",
+      "aliases": [
+        "oee",
+        "mes",
+        "power bi",
+        "dữ liệu sản xuất",
+        "pareto"
+      ]
+    },
+    {
+      "skill_id": "SME_PROG_PY_C",
+      "major_code": "SME",
+      "axis_id": "SME_AX5",
+      "name_vi": "Lập trình C/C++ hoặc Python tính toán kỹ thuật",
+      "name_en": "C/C++ or Python for Engineering",
+      "category": "tool",
+      "aliases": [
+        "python",
+        "c/c++",
+        "lập trình cơ điện tử",
+        "script"
+      ]
+    },
+    {
+      "skill_id": "SME_ENG_TECH",
+      "major_code": "SME",
+      "axis_id": "SME_AX6",
+      "name_vi": "Tiếng Anh Kỹ thuật (Đọc Catalog, Manual, Bản vẽ)",
+      "name_en": "Technical English",
+      "category": "language",
+      "aliases": [
+        "tiếng anh kỹ thuật",
+        "technical english",
+        "toeic",
+        "ielts",
+        "tiếng anh",
+        "manual"
+      ]
+    },
+    {
+      "skill_id": "SME_JP_KR",
+      "major_code": "SME",
+      "axis_id": "SME_AX6",
+      "name_vi": "Tiếng Nhật (N4-N3) / Tiếng Hàn cho nhà máy FDI",
+      "name_en": "Japanese / Korean for FDI",
+      "category": "language",
+      "aliases": [
+        "tiếng nhật",
+        "jlpt",
+        "n4",
+        "n3",
+        "tiếng hàn",
+        "topik",
+        "fdi nhật"
+      ]
+    },
+    {
+      "skill_id": "SME_5S_KAIZEN",
+      "major_code": "SME",
+      "axis_id": "SME_AX6",
+      "name_vi": "Tác phong Công nghiệp 5S, Kaizen, Lean & Horenso",
+      "name_en": "5S, Kaizen & Lean",
+      "category": "soft",
+      "aliases": [
+        "5s",
+        "kaizen",
+        "lean",
+        "horenso",
+        "tác phong công nghiệp"
+      ]
+    },
+    {
+      "skill_id": "SME_TEAMWORK",
+      "major_code": "SME",
+      "axis_id": "SME_AX6",
+      "name_vi": "Phối hợp đa bộ phận (R&D – Gia công – QA – Lắp đặt)",
+      "name_en": "Cross-functional Teamwork",
+      "category": "soft",
+      "aliases": [
+        "teamwork",
+        "làm việc nhóm",
+        "phối hợp"
+      ]
+    },
+    {
+      "skill_id": "SME_FIELD_FACTORY",
+      "major_code": "SME",
+      "axis_id": "SME_AX6",
+      "name_vi": "Sẵn sàng làm việc tại Xưởng / Công trường & Tỉ mỉ",
+      "name_en": "Factory / Site Readiness",
+      "category": "soft",
+      "aliases": [
+        "xưởng",
+        "nhà máy",
+        "công trường",
+        "tỉ mỉ",
+        "hiện trường"
+      ]
+    },
+    {
+      "skill_id": "SME_ROOT_CAUSE",
+      "major_code": "SME",
+      "axis_id": "SME_AX6",
+      "name_vi": "Phân tích nguyên nhân gốc rễ (5 Why, Fishbone, 8D)",
+      "name_en": "Root Cause Analysis (5 Why / 8D)",
+      "category": "soft",
+      "aliases": [
+        "5 why",
+        "fishbone",
+        "8d",
+        "root cause",
+        "giải quyết vấn đề"
+      ]
+    }
+  ]
+}

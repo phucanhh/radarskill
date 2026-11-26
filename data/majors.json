@@ -1,0 +1,395 @@
+{
+  "version": "2.0.0",
+  "university": "Đại học Bách khoa Hà Nội (HUST)",
+  "majors": [
+    {
+      "major_code": "IT",
+      "name_vi": "Công nghệ Thông tin",
+      "name_en": "Information Technology",
+      "school_vi": "Trường Công nghệ Thông tin và Truyền thông (SoICT)",
+      "program_codes": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ],
+      "description_vi": "Phân tích khoảng cách kỹ năng cho 6 mã ngành thuộc Trường Công nghệ Thông tin và Truyền thông (SoICT) đối chiếu với 50 JD vị trí Intern/Fresher Software, Web, AI/Data, Hệ nhúng và An toàn thông tin.",
+      "lead_clubs": [
+        "CLB HEDSPI NICHIBU",
+        "CLB Sáng tạo & Lập trình SoICT",
+        "CLB tiếng Anh eHub"
+      ],
+      "axes": [
+        {
+          "axis_id": "IT_AX1",
+          "name_vi": "Nền tảng CS & Thuật toán",
+          "short_label": "CS & Thuật toán",
+          "name_en": "CS Fundamentals & Algorithms",
+          "description_vi": "Cấu trúc dữ liệu, giải thuật, OOP, hệ điều hành, mạng máy tính và tư duy giải quyết vấn đề."
+        },
+        {
+          "axis_id": "IT_AX2",
+          "name_vi": "Backend, API & CSDL",
+          "short_label": "Backend & CSDL",
+          "name_en": "Backend, API & Databases",
+          "description_vi": "Thiết kế CSDL SQL/NoSQL, xây dựng REST API với Python/Java/Node.js, xác thực và tối ưu truy vấn."
+        },
+        {
+          "axis_id": "IT_AX3",
+          "name_vi": "Frontend & UX/Web",
+          "short_label": "Frontend & Web",
+          "name_en": "Frontend & UX/Web",
+          "description_vi": "HTML/CSS/JS, TypeScript, React/Next.js, thiết kế responsive và trải nghiệm người dùng UI/UX."
+        },
+        {
+          "axis_id": "IT_AX4",
+          "name_vi": "AI, Data & Cloud/DevOps",
+          "short_label": "AI, Data & Cloud",
+          "name_en": "AI, Data & Cloud/DevOps",
+          "description_vi": "Docker, Linux, Cloud (AWS/GCP), CI/CD, Machine Learning cơ bản và phân tích dữ liệu."
+        },
+        {
+          "axis_id": "IT_AX5",
+          "name_vi": "Quy trình Phần mềm (Git/Agile)",
+          "short_label": "Quy trình & Git",
+          "name_en": "Software Process (Git/Agile)",
+          "description_vi": "Quản lý mã nguồn Git/GitHub, kiểm thử tự động (Unit Test), Agile/Scrum, code review và tài liệu kỹ thuật."
+        },
+        {
+          "axis_id": "IT_AX6",
+          "name_vi": "Ngoại ngữ (Anh/Nhật) & Giao tiếp",
+          "short_label": "Ngoại ngữ & Giao tiếp",
+          "name_en": "Foreign Language & Communication",
+          "description_vi": "Đọc hiểu tài liệu tiếng Anh chuyên ngành, giao tiếp tiếng Anh/Nhật (JLPT N3-N2), làm việc nhóm và thuyết trình kỹ thuật."
+        }
+      ],
+      "semester_presets": [
+        {
+          "preset_id": "IT_Y1",
+          "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn lập trình",
+          "year": 1,
+          "completed_courses": [
+            "IT1110",
+            "IT3020"
+          ],
+          "sample_tools_text": "C/C++ cơ bản, VS Code, bài tập lớn lập trình căn bản"
+        },
+        {
+          "preset_id": "IT_Y2",
+          "label_vi": "Năm 2 (Kỳ 3-4) – Nền tảng CS & CSDL",
+          "year": 2,
+          "completed_courses": [
+            "IT1110",
+            "IT3020",
+            "IT3011",
+            "IT3100",
+            "IT3030",
+            "IT3090"
+          ],
+          "sample_tools_text": "C++, Java OOP, PostgreSQL, Git cơ bản"
+        },
+        {
+          "preset_id": "IT_Y3",
+          "label_vi": "Năm 3 (Kỳ 5-6) – Web, Mạng & CNPM",
+          "year": 3,
+          "completed_courses": [
+            "IT1110",
+            "IT3020",
+            "IT3011",
+            "IT3100",
+            "IT3030",
+            "IT3090",
+            "IT3070",
+            "IT3080",
+            "IT3170",
+            "IT3180",
+            "IT4409"
+          ],
+          "sample_tools_text": "Làm web bán hàng với React, Node.js, PostgreSQL, GitHub, Postman"
+        },
+        {
+          "preset_id": "IT_Y4",
+          "label_vi": "Năm 4 (Kỳ 7-8) – Sẵn sàng thực tập/tốt nghiệp",
+          "year": 4,
+          "completed_courses": [
+            "IT1110",
+            "IT3020",
+            "IT3011",
+            "IT3100",
+            "IT3030",
+            "IT3090",
+            "IT3070",
+            "IT3080",
+            "IT3170",
+            "IT3180",
+            "IT4409",
+            "IT3160",
+            "IT4930",
+            "IT4866",
+            "FL1100"
+          ],
+          "sample_tools_text": "Python FastAPI, TypeScript React, Docker, AWS EC2, Unit Test, GitHub Actions, IELTS 6.5"
+        }
+      ]
+    },
+    {
+      "major_code": "SEEE",
+      "name_vi": "Điện - Điện tử & Tự động hóa",
+      "name_en": "Electrical, Electronics & Automation Engineering",
+      "school_vi": "Trường Điện - Điện tử (SEEE)",
+      "program_codes": [
+        "EE1",
+        "EE2",
+        "EE-E8",
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "description_vi": "Phân tích khoảng cách kỹ năng cho sinh viên Trường Điện - Điện tử (Kỹ thuật Điện, Điều khiển - Tự động hóa, Điện tử - Viễn thông, Kỹ thuật Y sinh) đối chiếu với 50 JD kỹ sư Intern/Fresher.",
+      "lead_clubs": [
+        "CLB Tự động hóa & Hệ thống Nhúng (SEEE)",
+        "CLB o365 - HUST",
+        "CLB tiếng Anh eHub"
+      ],
+      "axes": [
+        {
+          "axis_id": "SEEE_AX1",
+          "name_vi": "Lý thuyết Mạch, Điện & Tín hiệu",
+          "short_label": "Mạch & Tín hiệu",
+          "name_en": "Circuits, Power & Signals",
+          "description_vi": "Mạch điện tử tương tự/số, máy điện, lưới điện, tín hiệu & hệ thống và lý thuyết điều khiển."
+        },
+        {
+          "axis_id": "SEEE_AX2",
+          "name_vi": "Thiết kế Mạch PCB & Mô phỏng (Altium/MATLAB)",
+          "short_label": "PCB & Mô phỏng",
+          "name_en": "PCB Design & Simulation",
+          "description_vi": "Thiết kế mạch nguyên lý và layout PCB trên Altium/KiCad, mô phỏng MATLAB/Simulink, AutoCAD Electrical/ETAP."
+        },
+        {
+          "axis_id": "SEEE_AX3",
+          "name_vi": "PLC, SCADA & Hệ thống Nhúng (MCU)",
+          "short_label": "PLC & Nhúng",
+          "name_en": "PLC, SCADA & Embedded",
+          "description_vi": "Lập trình PLC Siemens/Mitsubishi, HMI/SCADA, vi điều khiển STM32/ESP32, C/C++ nhúng và RTOS."
+        },
+        {
+          "axis_id": "SEEE_AX4",
+          "name_vi": "Đo kiểm, Datasheet & Chuẩn Công nghiệp",
+          "short_label": "Đo kiểm & Chuẩn",
+          "name_en": "Testing, Datasheets & Standards",
+          "description_vi": "Sử dụng Oscilloscope/DMM, tra cứu Datasheet, đọc sơ đồ điện, an toàn IEC và truyền thông Modbus/Profinet/IoT."
+        },
+        {
+          "axis_id": "SEEE_AX5",
+          "name_vi": "Lập trình Ứng dụng & Dữ liệu Kỹ thuật",
+          "short_label": "Dữ liệu & Lập trình",
+          "name_en": "Engineering Data & Software",
+          "description_vi": "Lập trình C/C++, Python/LabVIEW xử lý tín hiệu và ảnh, Excel lập BOM tủ điện/vật tư và Git."
+        },
+        {
+          "axis_id": "SEEE_AX6",
+          "name_vi": "Ngoại ngữ Kỹ thuật & Tác phong Công nghiệp",
+          "short_label": "Ngoại ngữ & 5S",
+          "name_en": "Technical English & Discipline",
+          "description_vi": "Tiếng Anh/Nhật kỹ thuật, viết tài liệu báo cáo kỹ thuật, làm việc nhóm R&D và tác phong 5S/Kaizen."
+        }
+      ],
+      "semester_presets": [
+        {
+          "preset_id": "SEEE_Y1",
+          "label_vi": "Năm 1 (Kỳ 1-2) – Nhập môn Điện/Lập trình",
+          "year": 1,
+          "completed_courses": [
+            "EE1010",
+            "ME2015",
+            "ET2030"
+          ],
+          "sample_tools_text": "Ngôn ngữ C, AutoCAD 2D cơ bản"
+        },
+        {
+          "preset_id": "SEEE_Y2",
+          "label_vi": "Năm 2 (Kỳ 3-4) – Mạch, Điện tử & Tín hiệu",
+          "year": 2,
+          "completed_courses": [
+            "EE1010",
+            "EE2021",
+            "EE2000",
+            "ET2012",
+            "ET3220",
+            "ET3230",
+            "EE3110"
+          ],
+          "sample_tools_text": "MATLAB, Proteus, đồng hồ vạn năng"
+        },
+        {
+          "preset_id": "SEEE_Y3",
+          "label_vi": "Năm 3 (Kỳ 5-6) – Vi xử lý, PCB & Điều khiển",
+          "year": 3,
+          "completed_courses": [
+            "EE2021",
+            "EE2000",
+            "ET3220",
+            "ET3230",
+            "EE3110",
+            "EE3280",
+            "EE3480",
+            "ET3300",
+            "EE3020",
+            "EE3150"
+          ],
+          "sample_tools_text": "Altium Designer PCB 2 lớp, STM32, Oscilloscope"
+        },
+        {
+          "preset_id": "SEEE_Y4",
+          "label_vi": "Năm 4 (Kỳ 7-8) – PLC/SCADA, IIoT & Đồ án",
+          "year": 4,
+          "completed_courses": [
+            "EE2021",
+            "EE2000",
+            "EE3110",
+            "EE3280",
+            "EE3480",
+            "EE3020",
+            "EE4210",
+            "EE4420",
+            "EE4250",
+            "EE3150",
+            "FL2100"
+          ],
+          "sample_tools_text": "PLC Siemens TIA Portal, Altium PCB, STM32 Embedded C, Modbus/MQTT, Datasheet tiếng Anh"
+        }
+      ]
+    },
+    {
+      "major_code": "SME",
+      "name_vi": "Cơ khí, Cơ điện tử, Ô tô & Nhiệt",
+      "name_en": "Mechanical, Mechatronics, Automotive & Thermal Engineering",
+      "school_vi": "Trường Cơ khí (SME)",
+      "program_codes": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "description_vi": "Phân tích khoảng cách kỹ năng cho sinh viên Trường Cơ khí (Cơ điện tử, Kỹ thuật Cơ khí, Kỹ thuật Ô tô, Kỹ thuật Nhiệt) đối chiếu với 50 JD kỹ sư Intern/Fresher.",
+      "lead_clubs": [
+        "CLB Cơ khí - Cơ điện tử & Thiết kế CAD/CAM (SME)",
+        "CLB o365 - HUST",
+        "CLB tiếng Anh eHub"
+      ],
+      "axes": [
+        {
+          "axis_id": "SME_AX1",
+          "name_vi": "Cơ học, Chi tiết máy & Nhiệt kỹ thuật",
+          "short_label": "Cơ học & Máy",
+          "name_en": "Mechanics, Machine Design & Thermal",
+          "description_vi": "Cơ học kỹ thuật, sức bền vật liệu, nguyên lý - chi tiết máy, vật liệu kỹ thuật và nhiệt động/truyền nhiệt."
+        },
+        {
+          "axis_id": "SME_AX2",
+          "name_vi": "Thiết kế CAD 2D/3D & Mô phỏng CAE",
+          "short_label": "CAD 3D & CAE",
+          "name_en": "CAD 2D/3D & CAE Simulation",
+          "description_vi": "AutoCAD, SolidWorks/Inventor/CATIA/NX, Revit MEP (HVAC) và phân tích phần tử hữu hạn ANSYS/FEM."
+        },
+        {
+          "axis_id": "SME_AX3",
+          "name_vi": "Chế tạo CNC, Cơ điện tử & Hệ thống chuyên ngành",
+          "short_label": "CNC, Robot & Hệ thống",
+          "name_en": "CNC, Robotics & Domain Systems",
+          "description_vi": "Gia công CNC/CAM, kỹ thuật Robot, điều khiển PLC/khí nén, động cơ - kết cấu ô tô và hệ thống lạnh HVAC."
+        },
+        {
+          "axis_id": "SME_AX4",
+          "name_vi": "Đọc Bản vẽ GD&T, QA/QC & Bảo trì",
+          "short_label": "GD&T, QA/QC & TPM",
+          "name_en": "Blueprints, QA/QC & Maintenance",
+          "description_vi": "Đọc bản vẽ lắp có dung sai GD&T, kiểm soát chất lượng (FMEA, 7 QC Tools, IATF 16949), an toàn và bảo trì TPM."
+        },
+        {
+          "axis_id": "SME_AX5",
+          "name_vi": "Tin học Kỹ thuật, BOM & Quản trị Sản xuất",
+          "short_label": "BOM, Excel & Dữ liệu",
+          "name_en": "Engineering Excel, BOM & MES",
+          "description_vi": "Excel lập bảng BOM/dự toán vật tư, viết SOP/WI, quản lý PDM/PLM, theo dõi OEE và Python/MATLAB tính toán."
+        },
+        {
+          "axis_id": "SME_AX6",
+          "name_vi": "Ngoại ngữ Kỹ thuật & Tác phong Nhà máy",
+          "short_label": "Ngoại ngữ & 5S",
+          "name_en": "Technical Language & 5S/Kaizen",
+          "description_vi": "Tiếng Anh/Nhật (N4-N3) kỹ thuật, tác phong 5S/Kaizen/Horenso, phối hợp R&D-Sản xuất và tác phong hiện trường."
+        }
+      ],
+      "semester_presets": [
+        {
+          "preset_id": "SME_Y1",
+          "label_vi": "Năm 1 (Kỳ 1-2) – Đồ họa kỹ thuật",
+          "year": 1,
+          "completed_courses": [
+            "ME2011",
+            "ME2020",
+            "EE2012"
+          ],
+          "sample_tools_text": "AutoCAD 2D cơ bản"
+        },
+        {
+          "preset_id": "SME_Y2",
+          "label_vi": "Năm 2 (Kỳ 3-4) – Cơ học & Nguyên lý máy",
+          "year": 2,
+          "completed_courses": [
+            "ME2011",
+            "ME2040",
+            "ME2030",
+            "ME3060",
+            "ME3110",
+            "HE2010"
+          ],
+          "sample_tools_text": "AutoCAD, vẽ chi tiết máy"
+        },
+        {
+          "preset_id": "SME_Y3",
+          "label_vi": "Năm 3 (Kỳ 5-6) – CAD 3D, Chế tạo & Chuyên ngành",
+          "year": 3,
+          "completed_courses": [
+            "ME2011",
+            "ME2040",
+            "ME2030",
+            "ME3060",
+            "ME3090",
+            "ME3050",
+            "ME3120",
+            "TE3010",
+            "HE3010"
+          ],
+          "sample_tools_text": "SolidWorks 3D, đọc bản vẽ GD&T, Excel"
+        },
+        {
+          "preset_id": "SME_Y4",
+          "label_vi": "Năm 4 (Kỳ 7-8) – CAE/ANSYS, QA/QC & Hệ thống",
+          "year": 4,
+          "completed_courses": [
+            "ME2011",
+            "ME2040",
+            "ME2030",
+            "ME3060",
+            "ME3090",
+            "ME3050",
+            "ME3120",
+            "ME4122",
+            "ME4181",
+            "ME4110",
+            "EE4310",
+            "FL2100_SME"
+          ],
+          "sample_tools_text": "SolidWorks, ANSYS CAE, Mastercam CNC, Excel BOM, FMEA, 5S/Kaizen, tiếng Anh kỹ thuật"
+        }
+      ]
+    }
+  ]
+}

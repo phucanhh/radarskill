@@ -1,0 +1,2633 @@
+{
+  "version": "2.0.0",
+  "courses": [
+    {
+      "course_code": "IT1110",
+      "course_name_vi": "Tin học đại cương",
+      "major_code": "IT",
+      "credits": 4,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_CPP_JAVA",
+          "weight": 0.45
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.4
+        }
+      ],
+      "common_gap_note_vi": "Mới dừng ở cú pháp lập trình C cơ bản, chưa tiếp cận quản lý mã nguồn Git hay bài toán thực tế.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3020",
+      "course_name_vi": "Toán rời rạc",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_DSA",
+          "weight": 0.35
+        }
+      ],
+      "common_gap_note_vi": "Cung cấp nền tảng logic và đồ thị tốt nhưng cần luyện cài đặt code thực tế.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3011",
+      "course_name_vi": "Cấu trúc dữ liệu và Thuật toán",
+      "major_code": "IT",
+      "credits": 2,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_DSA",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_CPP_JAVA",
+          "weight": 0.6
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Nền tảng giải thuật mạnh, nhưng phỏng vấn Intern thường yêu cầu luyện thêm bài toán tối ưu độ phức tạp.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3100",
+      "course_name_vi": "Lập trình hướng đối tượng",
+      "major_code": "IT",
+      "credits": 2,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_OOP",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_CPP_JAVA",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_GIT",
+          "weight": 0.35
+        }
+      ],
+      "common_gap_note_vi": "Cần áp dụng thêm Design Patterns và Clean Code khi làm dự án nhóm lớn.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3030",
+      "course_name_vi": "Kiến trúc máy tính",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_OS",
+          "weight": 0.4
+        },
+        {
+          "skill_id": "IT_CPP_JAVA",
+          "weight": 0.35
+        }
+      ],
+      "common_gap_note_vi": "Kiến thức phần cứng sâu giúp hiểu tối ưu hiệu năng nhưng ít gắn trực tiếp với công cụ Web/Cloud.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3090",
+      "course_name_vi": "Cơ sở dữ liệu",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_SQL",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_SYS_DESIGN",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Mạnh về thiết kế ERD và truy vấn SQL chuẩn, nhưng JD hay đòi thêm tối ưu Index, ORM và Redis/NoSQL.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3070",
+      "course_name_vi": "Nguyên lý Hệ điều hành",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_OS",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_LINUX",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Nên thực hành thêm Linux CLI, Bash script và quản trị tiến trình trên server thật.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3080",
+      "course_name_vi": "Mạng máy tính",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_NET",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_REST_API",
+          "weight": 0.35
+        },
+        {
+          "skill_id": "IT_AUTH_SEC",
+          "weight": 0.35
+        }
+      ],
+      "common_gap_note_vi": "Thiếu thực hành cloud networking, reverse proxy (Nginx) và Docker networking.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3170",
+      "course_name_vi": "Thuật toán ứng dụng",
+      "major_code": "IT",
+      "credits": 2,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_DSA",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.8
+        }
+      ],
+      "common_gap_note_vi": "Mạnh tư duy giải thuật, nhưng chưa gắn với unit test và quy trình phát triển sản phẩm.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E6",
+        "IT-E7"
+      ]
+    },
+    {
+      "course_code": "IT3180",
+      "course_name_vi": "Nhập môn Công nghệ phần mềm",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_AGILE",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_SYS_DESIGN",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_GIT",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_TEAMWORK",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_TECH_DOC",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Sinh viên thường mới dùng Git mức cơ bản, chưa quen Code Review và viết Automated Unit Test.",
+      "applicable_programs": [
+        "IT1",
+        "IT2"
+      ]
+    },
+    {
+      "course_code": "IT4409",
+      "course_name_vi": "Công nghệ Web và Dịch vụ trực tuyến",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_HTML_CSS_JS",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_REST_API",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_REACT",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_NODE_SPRING",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_AUTH_SEC",
+          "weight": 0.45
+        }
+      ],
+      "common_gap_note_vi": "Cần bổ sung thêm TypeScript, Tailwind CSS, Docker và triển khai CI/CD theo JD mới.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E6",
+        "IT-E7",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3160",
+      "course_name_vi": "Nhập môn Trí tuệ nhân tạo",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_ML_AI",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_PYTHON_BE",
+          "weight": 0.45
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Tập trung thuật toán tìm kiếm và ML nền tảng; cần thực hành thêm tích hợp LLM API / RAG vào app thật.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E10"
+      ]
+    },
+    {
+      "course_code": "IT4441",
+      "course_name_vi": "Giao diện và Trải nghiệm người dùng (UI/UX)",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_UX_FIGMA",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_TAILWIND_UI",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_PRESENTATION",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Giúp cải thiện mạnh khả năng thiết kế Figma và phối hợp với Designer trong dự án Frontend.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E6",
+        "IT-E7"
+      ]
+    },
+    {
+      "course_code": "IT4930",
+      "course_name_vi": "Nhập môn Khoa học dữ liệu",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_DATA_PY",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_ML_AI",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_SQL",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Phù hợp định hướng Data/AI; cần luyện thêm pipeline dữ liệu thực tế và triển khai model thành API.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E10"
+      ]
+    },
+    {
+      "course_code": "IT4866",
+      "course_name_vi": "Điện toán đám mây & Triển khai hệ thống (Cloud/DevOps)",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_CLOUD",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_DOCKER",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_CICD",
+          "weight": 0.6
+        },
+        {
+          "skill_id": "IT_LINUX",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Học phần tự chọn rất sát yêu cầu JD về Docker, AWS/GCP và tự động hóa triển khai.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT4501",
+      "course_name_vi": "Đảm bảo chất lượng phần mềm & Kiểm thử (QA/Testing)",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_TESTING",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_CODE_REVIEW",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_AGILE",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Bù đắp trực tiếp lỗ hổng lớn nhất của sinh viên CNTT là viết Unit Test và Automation Test.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E6",
+        "IT-E7"
+      ]
+    },
+    {
+      "course_code": "IT4785",
+      "course_name_vi": "Phát triển ứng dụng cho thiết bị di động",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_MOBILE",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_REST_API",
+          "weight": 0.5
+        },
+        {
+          "skill_id": "IT_UX_FIGMA",
+          "weight": 0.45
+        }
+      ],
+      "common_gap_note_vi": "Nên kết hợp làm đồ án Flutter/React Native gọi Backend API thật.",
+      "applicable_programs": [
+        "IT1",
+        "IT-E7"
+      ]
+    },
+    {
+      "course_code": "FL1100",
+      "course_name_vi": "Tiếng Anh chuyên ngành CNTT / Ngoại ngữ HEDSPI",
+      "major_code": "IT",
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_ENG_READ",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_ENG_COMM",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_TECH_DOC",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Cần rèn thêm phản xạ phỏng vấn kỹ thuật tiếng Anh/Nhật tại CLB eHub hoặc HEDSPI NICHIBU.",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ]
+    },
+    {
+      "course_code": "IT3040",
+      "course_name_vi": "Kỹ thuật lập trình (C/C++ nâng cao)",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E6",
+        "IT-E7",
+        "IT-E10",
+        "IT-E15"
+      ],
+      "credits": 2,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_CPP_JAVA",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Rèn kỹ năng con trỏ, quản lý bộ nhớ và gỡ lỗi sâu trong C/C++."
+    },
+    {
+      "course_code": "IT3280",
+      "course_name_vi": "Thực hành Kiến trúc máy tính",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT2"
+      ],
+      "credits": 2,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_OS",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "IT_LINUX",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Thực hành trực tiếp ở mức thanh ghi và hợp ngữ cho sinh viên Kỹ thuật Máy tính (IT2)."
+    },
+    {
+      "course_code": "IT4210",
+      "course_name_vi": "Hệ nhúng (Embedded Systems)",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_CPP_JAVA",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_OS",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_LINUX",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Kết hợp thiết kế phần cứng - phần mềm và lập trình thời gian thực cho IT2."
+    },
+    {
+      "course_code": "IT4062",
+      "course_name_vi": "Thực hành Lập trình mạng",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT2",
+        "IT-E15"
+      ],
+      "credits": 2,
+      "recommended_year": 3,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_NET",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "IT_LINUX",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "IT_REST_API",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Lập trình socket TCP/UDP và xử lý đa luồng trên Linux."
+    },
+    {
+      "course_code": "IT4172",
+      "course_name_vi": "Xử lý tín hiệu số",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "IT_DATA_PY",
+          "weight": 0.6
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Nền tảng toán xử lý tín hiệu cho hệ nhúng và IoT."
+    },
+    {
+      "course_code": "IT4082",
+      "course_name_vi": "Kỹ thuật phần mềm (Quy trình phát triển chuẩn quốc tế)",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT-E6",
+        "IT-E7",
+        "IT-E15"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_AGILE",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_GIT",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_SYS_DESIGN",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_TESTING",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Quy trình phần mềm theo dự án thực tế của hệ Elitech."
+    },
+    {
+      "course_code": "IT4549",
+      "course_name_vi": "Phát triển phần mềm theo chuẩn kỹ năng ITSS",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT-E6"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_JAPANESE",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_AGILE",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_CODE_REVIEW",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_TEAMWORK",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Đặc thù của HEDSPI (IT-E6) rèn quy trình BrSE và tài liệu thiết kế chuẩn Nhật."
+    },
+    {
+      "course_code": "IT3190",
+      "course_name_vi": "Nhập môn Học máy và Khai phá dữ liệu",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT1",
+        "IT-E10"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_ML_AI",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "IT_DATA_PY",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "IT_PYTHON_BE",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Học phần cốt lõi cho định hướng AI/Data (IT-E10)."
+    },
+    {
+      "course_code": "IT4653",
+      "course_name_vi": "Học sâu và Ứng dụng (Deep Learning)",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT-E10"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_ML_AI",
+          "weight": 0.9
+        },
+        {
+          "skill_id": "IT_DATA_PY",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "IT_PYTHON_BE",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Chuyên sâu CNN, RNN, Transformer và bài toán Thị giác/NLP cho IT-E10."
+    },
+    {
+      "course_code": "IT3320",
+      "course_name_vi": "Nhập môn Học sâu (Introduction to Deep Learning)",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT-E10"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_ML_AI",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "IT_PYTHON_BE",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Xây dựng mạng nơ-ron bằng PyTorch trên tập dữ liệu lớn."
+    },
+    {
+      "course_code": "IT4611",
+      "course_name_vi": "Các hệ thống phân tán và Ứng dụng",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT1",
+        "IT2",
+        "IT-E7",
+        "IT-E10"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_SYS_DESIGN",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "IT_NOSQL_CACHE",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_CLOUD",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Bổ sung kiến trúc microservices, đồng bộ phân tán và xử lý chịu tải cao."
+    },
+    {
+      "course_code": "IT4015",
+      "course_name_vi": "Nhập môn An toàn thông tin",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT-E15"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_AUTH_SEC",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "IT_NET",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_LINUX",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Môn nền tảng bắt buộc của An toàn không gian số (IT-E15)."
+    },
+    {
+      "course_code": "IT4025",
+      "course_name_vi": "Mật mã ứng dụng (Applied Cryptography)",
+      "major_code": "IT",
+      "applicable_programs": [
+        "IT-E15"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "IT_AUTH_SEC",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "IT_PROBLEM_SOLVING",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "IT_PYTHON_BE",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Cung cấp nền tảng AES/RSA, hàm băm và chữ ký số trong bảo mật hệ thống."
+    },
+    {
+      "course_code": "EE1010",
+      "course_name_vi": "Nhập môn kỹ thuật ngành Điện",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 2,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_TEAMWORK",
+          "weight": 0.5
+        },
+        {
+          "skill_id": "SEEE_SAFETY_IEC",
+          "weight": 0.4
+        }
+      ],
+      "common_gap_note_vi": "Định hướng nghề nghiệp và kỹ năng làm việc nhóm kỹ thuật năm nhất."
+    },
+    {
+      "course_code": "ME2015",
+      "course_name_vi": "Hình học họa hình & Vẽ kỹ thuật",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2",
+        "EE-E8",
+        "ET1"
+      ],
+      "credits": 3,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_AUTOCAD_EL",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "SEEE_BLUEPRINT",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Cần rèn thêm vẽ sơ đồ nguyên lý tủ điện trên AutoCAD Electrical."
+    },
+    {
+      "course_code": "ET2030",
+      "course_name_vi": "Ngôn ngữ lập trình (C/C++)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_C_PYTHON",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_EMBEDDED_C",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "SEEE_PROBLEM_SOLV",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Môn lập trình C nền tảng cho khối Điện tử - Viễn thông và Y sinh."
+    },
+    {
+      "course_code": "EE2021",
+      "course_name_vi": "Lý thuyết Mạch điện I",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_CIRCUITS",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_PROBLEM_SOLV",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Nền tảng giải mạch xoay chiều và quá độ cho khối Điện."
+    },
+    {
+      "course_code": "EE2031",
+      "course_name_vi": "Trường điện từ (EE)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "SEEE_MATLAB",
+          "weight": 0.45
+        }
+      ],
+      "common_gap_note_vi": "Kiến thức trường điện từ ứng dụng vào thiết bị cao áp và máy điện."
+    },
+    {
+      "course_code": "EE2000",
+      "course_name_vi": "Tín hiệu và Hệ thống",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8",
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_MATLAB",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_DSP_SIGNAL",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Lý thuyết Fourier/Laplace tốt, nên gắn thêm với lọc tín hiệu cảm biến thật."
+    },
+    {
+      "course_code": "EE2111",
+      "course_name_vi": "Điện tử tương tự và số",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_CIRCUITS",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_TEST_MEAS",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Nên luyện đo kiểm bằng Oscilloscope và vẽ mạch PCB trên Altium."
+    },
+    {
+      "course_code": "ET2012",
+      "course_name_vi": "Kỹ thuật Điện tử",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_CIRCUITS",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Môn cơ sở linh kiện bán dẫn, khuếch đại và nguồn ổn áp cho ET1/ET2."
+    },
+    {
+      "course_code": "ET3210",
+      "course_name_vi": "Trường điện từ (ET)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_TELECOM_NET",
+          "weight": 0.55
+        },
+        {
+          "skill_id": "SEEE_MATLAB",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Nền tảng truyền sóng RF và anten cho Viễn thông (ET1)."
+    },
+    {
+      "course_code": "ET3220",
+      "course_name_vi": "Điện tử số (Digital Electronics / HDL)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_CIRCUITS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_FPGA_HDL",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Cung cấp mạch logic tổ hợp/dãy và cơ sở thiết kế số trên HDL/FPGA."
+    },
+    {
+      "course_code": "ET3230",
+      "course_name_vi": "Điện tử tương tự I",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_CIRCUITS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_TEST_MEAS",
+          "weight": 0.6
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Phân tích và thiết kế mạch khuếch đại BJT/MOSFET và hồi tiếp."
+    },
+    {
+      "course_code": "EE3110",
+      "course_name_vi": "Kỹ thuật đo lường",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_SENSORS_MEAS",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_TEST_MEAS",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Nguyên lý thiết bị đo, gia công sai số và ghép nối cảm biến công nghiệp."
+    },
+    {
+      "course_code": "EE3140",
+      "course_name_vi": "Máy điện I & Truyền động điện",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_DRIVES",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Nắm rõ máy biến áp, động cơ không đồng bộ và cách đấu nối biến tần."
+    },
+    {
+      "course_code": "EE3420",
+      "course_name_vi": "Hệ thống cung cấp điện",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_EPLAN_ETAP",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "SEEE_AUTOCAD_EL",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_EXCEL_BOM",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Thiết kế cấp điện nhà máy/tòa nhà, cần thành thạo AutoCAD Electrical và ETAP."
+    },
+    {
+      "course_code": "EE4010",
+      "course_name_vi": "Lưới điện",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_EPLAN_ETAP",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Tính toán chế độ xác lập lưới truyền tải và phân phối điện cho EE1."
+    },
+    {
+      "course_code": "EE4020",
+      "course_name_vi": "Ngắn mạch trong hệ thống điện",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_SAFETY_IEC",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Cơ sở chọn khí cụ đóng cắt và thiết bị bảo vệ cho công trình điện."
+    },
+    {
+      "course_code": "EE4030",
+      "course_name_vi": "Phần điện nhà máy điện và trạm biến áp",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_BLUEPRINT",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_EPLAN_ETAP",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Đọc và lập sơ đồ nhất thứ/nhị thứ trạm biến áp theo chuẩn IEC."
+    },
+    {
+      "course_code": "EE4040",
+      "course_name_vi": "Bảo vệ và điều khiển hệ thống điện I",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_POWER_SYS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_SAFETY_IEC",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_CALIBRATION",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Phù hợp vị trí kỹ sư thiết kế rơle, vận hành trạm và nhà máy điện."
+    },
+    {
+      "course_code": "EE3280",
+      "course_name_vi": "Lý thuyết điều khiển tự động I",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_CTRL_THEORY",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_MATLAB",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Học phần cốt lõi của Tự động hóa (EE2) về mô hình hóa PID và ổn định hệ thống."
+    },
+    {
+      "course_code": "EE3480",
+      "course_name_vi": "Vi xử lý & Vi điều khiển (EE)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_MCU",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_EMBEDDED_C",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Nên mở rộng từ thực hành vi điều khiển lên STM32/RTOS và quản lý code Git."
+    },
+    {
+      "course_code": "EE4210",
+      "course_name_vi": "Đồ án Thiết bị điều khiển & PLC/SCADA",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_PLC",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_HMI_SCADA",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_IND_COMM",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_DRIVES",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Học phần thực chiến nhất cho vị trí Kỹ sư Tự động hóa PLC tại nhà máy FDI."
+    },
+    {
+      "course_code": "EE4250",
+      "course_name_vi": "Xử lý tín hiệu (SEEE)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_DSP_SIGNAL",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_MATLAB",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_LABVIEW",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Lọc nhiễu tín hiệu đo lường và phân tích rung/dòng công nghiệp."
+    },
+    {
+      "course_code": "EE4260",
+      "course_name_vi": "Thiết kế thiết bị đo công nghiệp",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8"
+      ],
+      "credits": 2,
+      "recommended_year": 3,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_SENSORS_MEAS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_CALIBRATION",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Thiết kế mạch thu thập cảm biến và hiệu chuẩn thiết bị đo."
+    },
+    {
+      "course_code": "EE4420",
+      "course_name_vi": "Hệ thống Nhúng và IIoT công nghiệp",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE2",
+        "EE-E8",
+        "ET1",
+        "ET-E4"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_MCU",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_EMBEDDED_C",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_IND_COMM",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_GIT",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Rất sát tuyển dụng Firmware Engineer & Smart Factory Engineer."
+    },
+    {
+      "course_code": "ET3300",
+      "course_name_vi": "Kỹ thuật Vi xử lý (ET)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_MCU",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_EMBEDDED_C",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Lập trình vi xử lý và ghép nối ngoại vi UART/SPI/I2C cho Điện tử & Y sinh."
+    },
+    {
+      "course_code": "EE3020",
+      "course_name_vi": "Thiết kế mạch điện tử & PCB (Altium)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_ALTIUM",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_TEST_MEAS",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_EXCEL_BOM",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Thiết kế schematic/layout PCB nhiều lớp, DRC và xuất file Gerber/BOM."
+    },
+    {
+      "course_code": "ET3250",
+      "course_name_vi": "Thông tin số (Digital Communications)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_TELECOM_NET",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_DSP_SIGNAL",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Điều chế số, mã hóa kênh và đánh giá SNR/BER trong mạng viễn thông."
+    },
+    {
+      "course_code": "ET4070",
+      "course_name_vi": "Cơ sở truyền số liệu",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_TELECOM_NET",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_SQL_MES",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Kiến thức giao thức mạng, truyền dữ liệu IoT và thiết bị viễn thông."
+    },
+    {
+      "course_code": "ET3260",
+      "course_name_vi": "Kỹ thuật phần mềm ứng dụng (ET)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET1",
+        "ET-E4"
+      ],
+      "credits": 2,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_C_PYTHON",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_SQL_MES",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SEEE_GIT",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Bổ sung kỹ năng phần mềm CSDL và công cụ quản lý mã nguồn cho kỹ sư Điện tử."
+    },
+    {
+      "course_code": "ET4111",
+      "course_name_vi": "Kỹ thuật đo lường Y sinh",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_SENSORS_MEAS",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_CALIBRATION",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Đặc thù ngành Y sinh (ET2): đo tín hiệu sinh lý ECG/SpO2 và cảm biến y tế."
+    },
+    {
+      "course_code": "ET4120",
+      "course_name_vi": "Thiết bị điện tử Y sinh I",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_CALIBRATION",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_QA_QC",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Cấu trúc, vận hành và bảo trì thiết bị điện tử y tế tại bệnh viện và hãng."
+    },
+    {
+      "course_code": "ET4480",
+      "course_name_vi": "Công nghệ chẩn đoán hình ảnh I",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_DSP_SIGNAL",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_CALIBRATION",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Hệ thống X-quang, CT, MRI, siêu âm — trọng tâm cho vị trí Biomedical Field Engineer."
+    },
+    {
+      "course_code": "ET4500",
+      "course_name_vi": "Xử lý ảnh Y tế",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_DSP_SIGNAL",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_C_PYTHON",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Xử lý ảnh DICOM bằng Python/MATLAB phục vụ R&D phần mềm y tế."
+    },
+    {
+      "course_code": "ET4570",
+      "course_name_vi": "Xử lý tín hiệu Y sinh số",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_DSP_SIGNAL",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_MATLAB",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Phân tích tín hiệu ECG, EEG trong nghiên cứu và sản phẩm công nghệ sức khỏe."
+    },
+    {
+      "course_code": "ET4550",
+      "course_name_vi": "An toàn bức xạ và An toàn điện trong Y tế",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "ET2"
+      ],
+      "credits": 2,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_SAFETY_IEC",
+          "weight": 0.9
+        },
+        {
+          "skill_id": "SEEE_QA_QC",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Tiêu chuẩn IEC 60601 và kiểm định an toàn thiết bị y tế."
+    },
+    {
+      "course_code": "EE3150",
+      "course_name_vi": "An toàn điện & Tiêu chuẩn Công nghiệp",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2"
+      ],
+      "credits": 2,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_SAFETY_IEC",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SEEE_5S_KAIZEN",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Nền tảng an toàn IEC/TCVN khi thiết kế và lắp đặt tại nhà máy."
+    },
+    {
+      "course_code": "ET2022",
+      "course_name_vi": "Kỹ năng viết và thuyết trình kỹ thuật (Technical Writing)",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE-E8",
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 2,
+      "recommended_year": 3,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SEEE_ENG_TECH",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_TECH_WRITING",
+          "weight": 0.8
+        }
+      ],
+      "common_gap_note_vi": "Rèn kỹ năng viết báo cáo kỹ thuật và thuyết trình bằng tiếng Anh."
+    },
+    {
+      "course_code": "FL2100",
+      "course_name_vi": "Tiếng Anh Kỹ thuật & Đọc hiểu Datasheet",
+      "major_code": "SEEE",
+      "applicable_programs": [
+        "EE1",
+        "EE2",
+        "EE-E8",
+        "ET1",
+        "ET-E4",
+        "ET2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SEEE_ENG_TECH",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SEEE_DATASHEET",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Cải thiện phản xạ đọc catalog thiết bị và phỏng vấn kỹ thuật tiếng Anh."
+    },
+    {
+      "course_code": "ME2011",
+      "course_name_vi": "Đồ họa kỹ thuật I",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_AUTOCAD",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SME_GDT_BLUEPRINT",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Nền tảng hình học họa hình và đọc bản vẽ kỹ thuật cơ khí."
+    },
+    {
+      "course_code": "ME2020",
+      "course_name_vi": "Vẽ kỹ thuật (Khối Nhiệt/Năng lượng)",
+      "major_code": "SME",
+      "applicable_programs": [
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_AUTOCAD",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SME_GDT_BLUEPRINT",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Đọc và dựng bản vẽ đường ống, mặt bằng HVAC và thiết bị nhiệt."
+    },
+    {
+      "course_code": "EE2012",
+      "course_name_vi": "Kỹ thuật Điện (Đại cương cho Cơ khí)",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 1,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_PLC_CTRL",
+          "weight": 0.4
+        },
+        {
+          "skill_id": "SME_SAFETY_EHS",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Cơ sở đọc mạch động lực máy công cụ, chiller và tủ điều khiển."
+    },
+    {
+      "course_code": "ME2040",
+      "course_name_vi": "Cơ học kỹ thuật",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_MECHANICS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_MATLAB",
+          "weight": 0.4
+        }
+      ],
+      "common_gap_note_vi": "Tĩnh học và động lực học cơ cấu nền tảng cho thiết kế kết cấu máy."
+    },
+    {
+      "course_code": "ME2030",
+      "course_name_vi": "Sức bền vật liệu",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_MECHANICS",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_CAE_ANSYS",
+          "weight": 0.5
+        }
+      ],
+      "common_gap_note_vi": "Tính toán bền chi tiết; nên kết hợp kiểm nghiệm ứng suất trên ANSYS/SolidWorks."
+    },
+    {
+      "course_code": "ME3060",
+      "course_name_vi": "Nguyên lý máy",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_MACHINE_DESIGN",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SME_MECHANICS",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Động học và lực học cơ cấu cam, bánh răng, cân bằng máy."
+    },
+    {
+      "course_code": "ME3110",
+      "course_name_vi": "Vật liệu chất dẻo và Composite",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME2"
+      ],
+      "credits": 2,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_MATERIALS",
+          "weight": 0.8
+        }
+      ],
+      "common_gap_note_vi": "Chọn vật liệu cho thiết kế khuôn ép nhựa và chi tiết nhẹ."
+    },
+    {
+      "course_code": "ME3090",
+      "course_name_vi": "Chi tiết máy",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_MACHINE_DESIGN",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_GDT_BLUEPRINT",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SME_EXCEL_BOM",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Thiết kế hộp giảm tốc/truyền động; cần bổ sung vẽ 3D và lập BOM chuẩn nhà máy."
+    },
+    {
+      "course_code": "ME3050",
+      "course_name_vi": "Thiết kế cơ khí 3D (CAD/CAM/BIM)",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_SOLIDWORKS",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_AUTOCAD",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SME_CATIA_NX",
+          "weight": 0.6
+        },
+        {
+          "skill_id": "SME_REVIT_HVAC",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Luyện xuất bản vẽ 2D chuẩn GD&T và dựng lắp ráp 3D/MEP phức tạp."
+    },
+    {
+      "course_code": "ME3212",
+      "course_name_vi": "Kỹ thuật lập trình trong Cơ điện tử",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_PROG_PY_C",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_MATLAB",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Lập trình C/C++ điều khiển thiết bị và xử lý dữ liệu cảm biến Cơ điện tử."
+    },
+    {
+      "course_code": "EE3480_SME",
+      "course_name_vi": "Vi xử lý & Vi điều khiển trong Cơ điện tử",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_PLC_CTRL",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SME_PROG_PY_C",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Lập trình điều khiển động cơ servo/stepper và ghép nối cảm biến."
+    },
+    {
+      "course_code": "EE3280_SME",
+      "course_name_vi": "Lý thuyết điều khiển tự động (SME)",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_MATLAB",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SME_ROBOTICS",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Mô hình hóa điều khiển PID trên MATLAB/Simulink cho hệ cơ điện tử."
+    },
+    {
+      "course_code": "EE4210_SME",
+      "course_name_vi": "Điều khiển PLC, Khí nén & Thủy lực",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_PLC_CTRL",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_PNEUMATICS",
+          "weight": 0.85
+        }
+      ],
+      "common_gap_note_vi": "Thiết kế trạm máy tự động kết hợp xi lanh khí nén và PLC Siemens."
+    },
+    {
+      "course_code": "ME4110",
+      "course_name_vi": "Kỹ thuật Robot và Hệ thống Cơ điện tử",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_ROBOTICS",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_PNEUMATICS",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "SME_TEAMWORK",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Động học robot công nghiệp và tích hợp dây chuyền gắp thả tự động."
+    },
+    {
+      "course_code": "ME3120",
+      "course_name_vi": "Công nghệ chế tạo máy & Gia công CNC",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_CNC_CAM",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_METROLOGY",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "SME_SOP_WI",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Lập phiếu quy trình công nghệ gia công và lập trình phay/tiện CNC."
+    },
+    {
+      "course_code": "ME4122",
+      "course_name_vi": "Các phương pháp gia công tinh & Đo lường chính xác",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_FINISHING_MFG",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_METROLOGY",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_QA_QC",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Chuyên sâu mài, đánh bóng, EDM và đo kiểm CMM trong xưởng khuôn mẫu."
+    },
+    {
+      "course_code": "ME4181",
+      "course_name_vi": "Phương pháp Phần tử hữu hạn (FEM / ANSYS CAE)",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_CAE_ANSYS",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_MECHANICS",
+          "weight": 0.7
+        },
+        {
+          "skill_id": "SME_M365_DOC",
+          "weight": 0.55
+        }
+      ],
+      "common_gap_note_vi": "Điểm cộng lớn khi ứng tuyển Kỹ sư R&D Cơ khí và Ô tô."
+    },
+    {
+      "course_code": "TE3010",
+      "course_name_vi": "Động cơ đốt trong",
+      "major_code": "SME",
+      "applicable_programs": [
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_AUTO_THEORY",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_THERMO_HEAT",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Cấu tạo và chu trình làm việc động cơ xăng/diesel trên ô tô."
+    },
+    {
+      "course_code": "TE3200",
+      "course_name_vi": "Kết cấu ô tô",
+      "major_code": "SME",
+      "applicable_programs": [
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_AUTO_THEORY",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_CATIA_NX",
+          "weight": 0.6
+        },
+        {
+          "skill_id": "SME_MACHINE_DESIGN",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Khảo sát toàn bộ truyền lực, hộp số, hệ thống treo, lái và phanh ô tô."
+    },
+    {
+      "course_code": "TE3210",
+      "course_name_vi": "Lý thuyết ô tô",
+      "major_code": "SME",
+      "applicable_programs": [
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_AUTO_THEORY",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_MATLAB",
+          "weight": 0.65
+        }
+      ],
+      "common_gap_note_vi": "Động lực học sức kéo, phanh, ổn định và êm dịu chuyển động xe."
+    },
+    {
+      "course_code": "TE4210",
+      "course_name_vi": "Thiết kế tính toán & Điện - Điện tử ô tô",
+      "major_code": "SME",
+      "applicable_programs": [
+        "TE1",
+        "TE-E2"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_AUTO_ELEC",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_CATIA_NX",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Thiết kế cụm ô tô và nắm bắt CAN Bus, ECU và hệ thống xe điện (EV)."
+    },
+    {
+      "course_code": "HE2010",
+      "course_name_vi": "Kỹ thuật nhiệt (Nhiệt động lực học kỹ thuật)",
+      "major_code": "SME",
+      "applicable_programs": [
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 2,
+      "course_type": "core",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_THERMO_HEAT",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_EXCEL_BOM",
+          "weight": 0.45
+        }
+      ],
+      "common_gap_note_vi": "Cơ sở chu trình nhiệt, máy nhiệt và truyền nhiệt công nghiệp."
+    },
+    {
+      "course_code": "HE3010",
+      "course_name_vi": "Truyền nhiệt và Thiết bị trao đổi nhiệt",
+      "major_code": "SME",
+      "applicable_programs": [
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_THERMO_HEAT",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_EXCEL_BOM",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Tính toán thiết bị trao đổi nhiệt cho hệ thống năng lượng và HVAC."
+    },
+    {
+      "course_code": "HE3020",
+      "course_name_vi": "Cơ sở Kỹ thuật Lạnh & Máy nén lạnh",
+      "major_code": "SME",
+      "applicable_programs": [
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 3,
+      "course_type": "core",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_HVAC_REFRIG",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_THERMO_HEAT",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Học phần chuyên ngành Lạnh công nghiệp, kho lạnh và chiller (HE1)."
+    },
+    {
+      "course_code": "HE4010",
+      "course_name_vi": "Hệ thống Điều hòa không khí (HVAC) & Thông gió",
+      "major_code": "SME",
+      "applicable_programs": [
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_HVAC_REFRIG",
+          "weight": 0.9
+        },
+        {
+          "skill_id": "SME_REVIT_HVAC",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_EXCEL_BOM",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Rất sát yêu cầu tuyển dụng Kỹ sư thiết kế và giám sát thi công M&E/HVAC."
+    },
+    {
+      "course_code": "HE4020",
+      "course_name_vi": "Lò hơi, Thiết bị nhiệt & Năng lượng bền vững",
+      "major_code": "SME",
+      "applicable_programs": [
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": true,
+      "skills": [
+        {
+          "skill_id": "SME_THERMO_HEAT",
+          "weight": 0.85
+        },
+        {
+          "skill_id": "SME_SAFETY_EHS",
+          "weight": 0.75
+        }
+      ],
+      "common_gap_note_vi": "Vận hành lò hơi công nghiệp, tuabin và giải pháp tiết kiệm năng lượng nhà máy."
+    },
+    {
+      "course_code": "EE4310",
+      "course_name_vi": "Quản lý Chất lượng (QA/QC) & Bảo trì Hệ thống Công nghiệp",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "credits": 2,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_QA_QC",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_MAINTENANCE",
+          "weight": 0.8
+        },
+        {
+          "skill_id": "SME_5S_KAIZEN",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SME_OEE_BI",
+          "weight": 0.65
+        },
+        {
+          "skill_id": "SME_ROOT_CAUSE",
+          "weight": 0.7
+        }
+      ],
+      "common_gap_note_vi": "Đáp ứng trực tiếp yêu cầu PE/QA/Maintenance tại nhà máy FDI."
+    },
+    {
+      "course_code": "FL2100_SME",
+      "course_name_vi": "Tiếng Anh Kỹ thuật & Đọc hiểu Bản vẽ / Manual",
+      "major_code": "SME",
+      "applicable_programs": [
+        "ME1",
+        "ME-E1",
+        "ME2",
+        "TE1",
+        "TE-E2",
+        "HE1"
+      ],
+      "credits": 3,
+      "recommended_year": 4,
+      "course_type": "elective",
+      "has_project": false,
+      "skills": [
+        {
+          "skill_id": "SME_ENG_TECH",
+          "weight": 0.75
+        },
+        {
+          "skill_id": "SME_SOP_WI",
+          "weight": 0.6
+        }
+      ],
+      "common_gap_note_vi": "Cần rèn thêm giao tiếp kỹ thuật và tìm hiểu tác phong 5S/Horenso Nhật Bản."
+    }
+  ]
+}

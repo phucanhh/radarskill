@@ -1,0 +1,732 @@
+{
+  "version": "2.0.0",
+  "metadata": {
+    "total_students": 254,
+    "privacy_threshold_n": 20,
+    "survey_period": "Học kỳ 2026.1 (Thí điểm 3 trường trọng điểm HUST: SoICT, SEEE, SME)",
+    "anonymization_note_vi": "Dữ liệu tổng hợp ẩn danh theo nhóm (tối thiểu n >= 20 sinh viên), không lưu MSSV hay họ tên."
+  },
+  "cohorts": [
+    {
+      "cohort_id": "IT_ALL",
+      "major_code": "IT",
+      "major_name_vi": "Công nghệ Thông tin",
+      "year_group": "Tất cả (Năm 1–4)",
+      "student_count": 96,
+      "avg_readiness_score": 61.4,
+      "axis_gaps": [
+        {
+          "axis_id": "IT_AX1",
+          "axis_name_vi": "Nền tảng CS & Thuật toán",
+          "market_score": 82,
+          "avg_student_score": 76,
+          "avg_gap": 6
+        },
+        {
+          "axis_id": "IT_AX2",
+          "axis_name_vi": "Backend, API & CSDL",
+          "market_score": 85,
+          "avg_student_score": 64,
+          "avg_gap": 21
+        },
+        {
+          "axis_id": "IT_AX3",
+          "axis_name_vi": "Frontend & UX/Web",
+          "market_score": 76,
+          "avg_student_score": 55,
+          "avg_gap": 21
+        },
+        {
+          "axis_id": "IT_AX4",
+          "axis_name_vi": "AI, Data & Cloud/DevOps",
+          "market_score": 78,
+          "avg_student_score": 38,
+          "avg_gap": 40
+        },
+        {
+          "axis_id": "IT_AX5",
+          "axis_name_vi": "Quy trình Phần mềm (Git/Agile)",
+          "market_score": 84,
+          "avg_student_score": 52,
+          "avg_gap": 32
+        },
+        {
+          "axis_id": "IT_AX6",
+          "axis_name_vi": "Ngoại ngữ (Anh/Nhật) & Giao tiếp",
+          "market_score": 80,
+          "avg_student_score": 58,
+          "avg_gap": 22
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "IT_DOCKER",
+          "skill_name_vi": "Docker & Containerization",
+          "missing_rate_pct": 74,
+          "jd_demand_pct": 62
+        },
+        {
+          "skill_id": "IT_TESTING",
+          "skill_name_vi": "Kiểm thử phần mềm (Unit Test / Automation)",
+          "missing_rate_pct": 71,
+          "jd_demand_pct": 58
+        },
+        {
+          "skill_id": "IT_CICD",
+          "skill_name_vi": "CI/CD (GitHub Actions / GitLab CI)",
+          "missing_rate_pct": 78,
+          "jd_demand_pct": 48
+        },
+        {
+          "skill_id": "IT_TYPESCRIPT",
+          "skill_name_vi": "TypeScript",
+          "missing_rate_pct": 63,
+          "jd_demand_pct": 54
+        },
+        {
+          "skill_id": "IT_ENG_COMM",
+          "skill_name_vi": "Tiếng Anh giao tiếp & Viết (IELTS 6.0+ / TOEIC 700+)",
+          "missing_rate_pct": 56,
+          "jd_demand_pct": 64
+        }
+      ]
+    },
+    {
+      "cohort_id": "IT_Y1_2",
+      "major_code": "IT",
+      "major_name_vi": "Công nghệ Thông tin",
+      "year_group": "Năm 1–2",
+      "student_count": 42,
+      "avg_readiness_score": 44.8,
+      "axis_gaps": [
+        {
+          "axis_id": "IT_AX1",
+          "axis_name_vi": "Nền tảng CS & Thuật toán",
+          "market_score": 82,
+          "avg_student_score": 65,
+          "avg_gap": 17
+        },
+        {
+          "axis_id": "IT_AX2",
+          "axis_name_vi": "Backend, API & CSDL",
+          "market_score": 85,
+          "avg_student_score": 42,
+          "avg_gap": 43
+        },
+        {
+          "axis_id": "IT_AX3",
+          "axis_name_vi": "Frontend & UX/Web",
+          "market_score": 76,
+          "avg_student_score": 38,
+          "avg_gap": 38
+        },
+        {
+          "axis_id": "IT_AX4",
+          "axis_name_vi": "AI, Data & Cloud/DevOps",
+          "market_score": 78,
+          "avg_student_score": 21,
+          "avg_gap": 57
+        },
+        {
+          "axis_id": "IT_AX5",
+          "axis_name_vi": "Quy trình Phần mềm (Git/Agile)",
+          "market_score": 84,
+          "avg_student_score": 34,
+          "avg_gap": 50
+        },
+        {
+          "axis_id": "IT_AX6",
+          "axis_name_vi": "Ngoại ngữ (Anh/Nhật) & Giao tiếp",
+          "market_score": 80,
+          "avg_student_score": 50,
+          "avg_gap": 30
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "IT_GIT",
+          "skill_name_vi": "Git & Quy trình GitHub/GitLab Flow",
+          "missing_rate_pct": 69,
+          "jd_demand_pct": 88
+        },
+        {
+          "skill_id": "IT_REST_API",
+          "skill_name_vi": "Thiết kế RESTful API & Microservices cơ bản",
+          "missing_rate_pct": 79,
+          "jd_demand_pct": 76
+        },
+        {
+          "skill_id": "IT_DOCKER",
+          "skill_name_vi": "Docker & Containerization",
+          "missing_rate_pct": 88,
+          "jd_demand_pct": 62
+        },
+        {
+          "skill_id": "IT_REACT",
+          "skill_name_vi": "ReactJS / Next.js (hoặc Vue/Angular)",
+          "missing_rate_pct": 74,
+          "jd_demand_pct": 56
+        },
+        {
+          "skill_id": "IT_TESTING",
+          "skill_name_vi": "Kiểm thử phần mềm (Unit Test / Automation)",
+          "missing_rate_pct": 86,
+          "jd_demand_pct": 58
+        }
+      ]
+    },
+    {
+      "cohort_id": "IT_Y3_4",
+      "major_code": "IT",
+      "major_name_vi": "Công nghệ Thông tin",
+      "year_group": "Năm 3–4",
+      "student_count": 54,
+      "avg_readiness_score": 74.3,
+      "axis_gaps": [
+        {
+          "axis_id": "IT_AX1",
+          "axis_name_vi": "Nền tảng CS & Thuật toán",
+          "market_score": 82,
+          "avg_student_score": 85,
+          "avg_gap": 0
+        },
+        {
+          "axis_id": "IT_AX2",
+          "axis_name_vi": "Backend, API & CSDL",
+          "market_score": 85,
+          "avg_student_score": 81,
+          "avg_gap": 4
+        },
+        {
+          "axis_id": "IT_AX3",
+          "axis_name_vi": "Frontend & UX/Web",
+          "market_score": 76,
+          "avg_student_score": 68,
+          "avg_gap": 8
+        },
+        {
+          "axis_id": "IT_AX4",
+          "axis_name_vi": "AI, Data & Cloud/DevOps",
+          "market_score": 78,
+          "avg_student_score": 51,
+          "avg_gap": 27
+        },
+        {
+          "axis_id": "IT_AX5",
+          "axis_name_vi": "Quy trình Phần mềm (Git/Agile)",
+          "market_score": 84,
+          "avg_student_score": 66,
+          "avg_gap": 18
+        },
+        {
+          "axis_id": "IT_AX6",
+          "axis_name_vi": "Ngoại ngữ (Anh/Nhật) & Giao tiếp",
+          "market_score": 80,
+          "avg_student_score": 64,
+          "avg_gap": 16
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "IT_DOCKER",
+          "skill_name_vi": "Docker & Containerization",
+          "missing_rate_pct": 63,
+          "jd_demand_pct": 62
+        },
+        {
+          "skill_id": "IT_TESTING",
+          "skill_name_vi": "Kiểm thử phần mềm (Unit Test / Automation)",
+          "missing_rate_pct": 59,
+          "jd_demand_pct": 58
+        },
+        {
+          "skill_id": "IT_CICD",
+          "skill_name_vi": "CI/CD (GitHub Actions / GitLab CI)",
+          "missing_rate_pct": 67,
+          "jd_demand_pct": 48
+        },
+        {
+          "skill_id": "IT_CLOUD",
+          "skill_name_vi": "Cloud căn bản (AWS / GCP / Azure)",
+          "missing_rate_pct": 61,
+          "jd_demand_pct": 52
+        },
+        {
+          "skill_id": "IT_JAPANESE",
+          "skill_name_vi": "Tiếng Nhật CNTT (JLPT N3-N2 / HEDSPI BrSE)",
+          "missing_rate_pct": 54,
+          "jd_demand_pct": 30
+        }
+      ]
+    },
+    {
+      "cohort_id": "SEEE_ALL",
+      "major_code": "SEEE",
+      "major_name_vi": "Trường Điện - Điện tử (SEEE)",
+      "year_group": "Tất cả (Năm 1–4)",
+      "student_count": 82,
+      "avg_readiness_score": 59.8,
+      "axis_gaps": [
+        {
+          "axis_id": "SEEE_AX1",
+          "axis_name_vi": "Lý thuyết Mạch, Điện & Tín hiệu",
+          "market_score": 82,
+          "avg_student_score": 76,
+          "avg_gap": 6
+        },
+        {
+          "axis_id": "SEEE_AX2",
+          "axis_name_vi": "Thiết kế Mạch PCB & Mô phỏng (Altium/MATLAB)",
+          "market_score": 84,
+          "avg_student_score": 53,
+          "avg_gap": 31
+        },
+        {
+          "axis_id": "SEEE_AX3",
+          "axis_name_vi": "PLC, SCADA & Hệ thống Nhúng (MCU)",
+          "market_score": 83,
+          "avg_student_score": 47,
+          "avg_gap": 36
+        },
+        {
+          "axis_id": "SEEE_AX4",
+          "axis_name_vi": "Đo kiểm, Datasheet & Chuẩn Công nghiệp",
+          "market_score": 81,
+          "avg_student_score": 58,
+          "avg_gap": 23
+        },
+        {
+          "axis_id": "SEEE_AX5",
+          "axis_name_vi": "Lập trình Ứng dụng & Dữ liệu Kỹ thuật",
+          "market_score": 76,
+          "avg_student_score": 49,
+          "avg_gap": 27
+        },
+        {
+          "axis_id": "SEEE_AX6",
+          "axis_name_vi": "Ngoại ngữ Kỹ thuật & Tác phong Công nghiệp",
+          "market_score": 80,
+          "avg_student_score": 51,
+          "avg_gap": 29
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "SEEE_ALTIUM",
+          "skill_name_vi": "Thiết kế mạch PCB (Altium Designer / KiCad)",
+          "missing_rate_pct": 68,
+          "jd_demand_pct": 60
+        },
+        {
+          "skill_id": "SEEE_PLC",
+          "skill_name_vi": "Lập trình PLC (Siemens TIA Portal / Mitsubishi)",
+          "missing_rate_pct": 71,
+          "jd_demand_pct": 54
+        },
+        {
+          "skill_id": "SEEE_ENG_TECH",
+          "skill_name_vi": "Tiếng Anh Kỹ thuật (Đọc Datasheet, Manual)",
+          "missing_rate_pct": 61,
+          "jd_demand_pct": 80
+        },
+        {
+          "skill_id": "SEEE_GIT",
+          "skill_name_vi": "Quản lý mã nguồn Git / GitHub & Linux cơ bản",
+          "missing_rate_pct": 72,
+          "jd_demand_pct": 48
+        }
+      ]
+    },
+    {
+      "cohort_id": "SEEE_Y1_2",
+      "major_code": "SEEE",
+      "major_name_vi": "Trường Điện - Điện tử (SEEE)",
+      "year_group": "Năm 1–2",
+      "student_count": 36,
+      "avg_readiness_score": 42.1,
+      "axis_gaps": [
+        {
+          "axis_id": "SEEE_AX1",
+          "axis_name_vi": "Lý thuyết Mạch, Điện & Tín hiệu",
+          "market_score": 82,
+          "avg_student_score": 61,
+          "avg_gap": 21
+        },
+        {
+          "axis_id": "SEEE_AX2",
+          "axis_name_vi": "Thiết kế Mạch PCB & Mô phỏng",
+          "market_score": 84,
+          "avg_student_score": 32,
+          "avg_gap": 52
+        },
+        {
+          "axis_id": "SEEE_AX3",
+          "axis_name_vi": "PLC, SCADA & Hệ thống Nhúng",
+          "market_score": 83,
+          "avg_student_score": 26,
+          "avg_gap": 57
+        },
+        {
+          "axis_id": "SEEE_AX4",
+          "axis_name_vi": "Đo kiểm, Datasheet & Chuẩn",
+          "market_score": 81,
+          "avg_student_score": 44,
+          "avg_gap": 37
+        },
+        {
+          "axis_id": "SEEE_AX5",
+          "axis_name_vi": "Lập trình & Dữ liệu Kỹ thuật",
+          "market_score": 76,
+          "avg_student_score": 39,
+          "avg_gap": 37
+        },
+        {
+          "axis_id": "SEEE_AX6",
+          "axis_name_vi": "Ngoại ngữ & Tác phong",
+          "market_score": 80,
+          "avg_student_score": 43,
+          "avg_gap": 37
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "SEEE_PLC",
+          "skill_name_vi": "Lập trình PLC (Siemens TIA Portal)",
+          "missing_rate_pct": 89,
+          "jd_demand_pct": 54
+        },
+        {
+          "skill_id": "SEEE_ALTIUM",
+          "skill_name_vi": "Thiết kế mạch PCB (Altium Designer)",
+          "missing_rate_pct": 86,
+          "jd_demand_pct": 60
+        }
+      ]
+    },
+    {
+      "cohort_id": "SEEE_Y3_4",
+      "major_code": "SEEE",
+      "major_name_vi": "Trường Điện - Điện tử (SEEE)",
+      "year_group": "Năm 3–4",
+      "student_count": 46,
+      "avg_readiness_score": 73.2,
+      "axis_gaps": [
+        {
+          "axis_id": "SEEE_AX1",
+          "axis_name_vi": "Lý thuyết Mạch, Điện & Tín hiệu",
+          "market_score": 82,
+          "avg_student_score": 88,
+          "avg_gap": 0
+        },
+        {
+          "axis_id": "SEEE_AX2",
+          "axis_name_vi": "Thiết kế Mạch PCB & Mô phỏng",
+          "market_score": 84,
+          "avg_student_score": 69,
+          "avg_gap": 15
+        },
+        {
+          "axis_id": "SEEE_AX3",
+          "axis_name_vi": "PLC, SCADA & Hệ thống Nhúng",
+          "market_score": 83,
+          "avg_student_score": 64,
+          "avg_gap": 19
+        },
+        {
+          "axis_id": "SEEE_AX4",
+          "axis_name_vi": "Đo kiểm, Datasheet & Chuẩn",
+          "market_score": 81,
+          "avg_student_score": 69,
+          "avg_gap": 12
+        },
+        {
+          "axis_id": "SEEE_AX5",
+          "axis_name_vi": "Lập trình & Dữ liệu Kỹ thuật",
+          "market_score": 76,
+          "avg_student_score": 57,
+          "avg_gap": 19
+        },
+        {
+          "axis_id": "SEEE_AX6",
+          "axis_name_vi": "Ngoại ngữ & Tác phong",
+          "market_score": 80,
+          "avg_student_score": 57,
+          "avg_gap": 23
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "SEEE_ENG_TECH",
+          "skill_name_vi": "Tiếng Anh Kỹ thuật (Đọc Datasheet, Manual)",
+          "missing_rate_pct": 52,
+          "jd_demand_pct": 80
+        },
+        {
+          "skill_id": "SEEE_GIT",
+          "skill_name_vi": "Quản lý mã nguồn Git / GitHub & Linux",
+          "missing_rate_pct": 63,
+          "jd_demand_pct": 48
+        }
+      ]
+    },
+    {
+      "cohort_id": "SME_ALL",
+      "major_code": "SME",
+      "major_name_vi": "Trường Cơ khí (SME)",
+      "year_group": "Tất cả (Năm 1–4)",
+      "student_count": 76,
+      "avg_readiness_score": 57.9,
+      "axis_gaps": [
+        {
+          "axis_id": "SME_AX1",
+          "axis_name_vi": "Cơ học, Chi tiết máy & Nhiệt kỹ thuật",
+          "market_score": 82,
+          "avg_student_score": 75,
+          "avg_gap": 7
+        },
+        {
+          "axis_id": "SME_AX2",
+          "axis_name_vi": "Thiết kế CAD 2D/3D & Mô phỏng CAE",
+          "market_score": 86,
+          "avg_student_score": 56,
+          "avg_gap": 30
+        },
+        {
+          "axis_id": "SME_AX3",
+          "axis_name_vi": "Chế tạo CNC, Cơ điện tử & Hệ thống",
+          "market_score": 79,
+          "avg_student_score": 49,
+          "avg_gap": 30
+        },
+        {
+          "axis_id": "SME_AX4",
+          "axis_name_vi": "Đọc Bản vẽ GD&T, QA/QC & Bảo trì",
+          "market_score": 84,
+          "avg_student_score": 54,
+          "avg_gap": 30
+        },
+        {
+          "axis_id": "SME_AX5",
+          "axis_name_vi": "Tin học Kỹ thuật, BOM & Sản xuất",
+          "market_score": 78,
+          "avg_student_score": 45,
+          "avg_gap": 33
+        },
+        {
+          "axis_id": "SME_AX6",
+          "axis_name_vi": "Ngoại ngữ Kỹ thuật & Tác phong Nhà máy",
+          "market_score": 81,
+          "avg_student_score": 48,
+          "avg_gap": 33
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "SME_SOLIDWORKS",
+          "skill_name_vi": "SolidWorks / Inventor thiết kế 3D & Lắp ráp",
+          "missing_rate_pct": 66,
+          "jd_demand_pct": 68
+        },
+        {
+          "skill_id": "SME_EXCEL_BOM",
+          "skill_name_vi": "Excel kỹ thuật, Bóc tách khối lượng & BOM",
+          "missing_rate_pct": 69,
+          "jd_demand_pct": 64
+        },
+        {
+          "skill_id": "SME_5S_KAIZEN",
+          "skill_name_vi": "Tác phong Công nghiệp 5S, Kaizen & Horenso",
+          "missing_rate_pct": 71,
+          "jd_demand_pct": 62
+        },
+        {
+          "skill_id": "SME_QA_QC",
+          "skill_name_vi": "Kiểm soát chất lượng QA/QC (FMEA, 7 QC Tools)",
+          "missing_rate_pct": 64,
+          "jd_demand_pct": 56
+        }
+      ]
+    },
+    {
+      "cohort_id": "SME_Y1_2",
+      "major_code": "SME",
+      "major_name_vi": "Trường Cơ khí (SME)",
+      "year_group": "Năm 1–2",
+      "student_count": 32,
+      "avg_readiness_score": 40.8,
+      "axis_gaps": [
+        {
+          "axis_id": "SME_AX1",
+          "axis_name_vi": "Cơ học, Chi tiết máy & Nhiệt",
+          "market_score": 82,
+          "avg_student_score": 59,
+          "avg_gap": 23
+        },
+        {
+          "axis_id": "SME_AX2",
+          "axis_name_vi": "Thiết kế CAD 2D/3D & CAE",
+          "market_score": 86,
+          "avg_student_score": 36,
+          "avg_gap": 50
+        },
+        {
+          "axis_id": "SME_AX3",
+          "axis_name_vi": "Chế tạo CNC, Cơ điện tử",
+          "market_score": 79,
+          "avg_student_score": 28,
+          "avg_gap": 51
+        },
+        {
+          "axis_id": "SME_AX4",
+          "axis_name_vi": "GD&T, QA/QC & Bảo trì",
+          "market_score": 84,
+          "avg_student_score": 38,
+          "avg_gap": 46
+        },
+        {
+          "axis_id": "SME_AX5",
+          "axis_name_vi": "Tin học Kỹ thuật & BOM",
+          "market_score": 78,
+          "avg_student_score": 34,
+          "avg_gap": 44
+        },
+        {
+          "axis_id": "SME_AX6",
+          "axis_name_vi": "Ngoại ngữ & Tác phong 5S",
+          "market_score": 81,
+          "avg_student_score": 41,
+          "avg_gap": 40
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "SME_SOLIDWORKS",
+          "skill_name_vi": "SolidWorks / Inventor thiết kế 3D",
+          "missing_rate_pct": 84,
+          "jd_demand_pct": 68
+        },
+        {
+          "skill_id": "SME_5S_KAIZEN",
+          "skill_name_vi": "Tác phong Công nghiệp 5S & Kaizen",
+          "missing_rate_pct": 81,
+          "jd_demand_pct": 62
+        }
+      ]
+    },
+    {
+      "cohort_id": "SME_Y3_4",
+      "major_code": "SME",
+      "major_name_vi": "Trường Cơ khí (SME)",
+      "year_group": "Năm 3–4",
+      "student_count": 44,
+      "avg_readiness_score": 70.4,
+      "axis_gaps": [
+        {
+          "axis_id": "SME_AX1",
+          "axis_name_vi": "Cơ học, Chi tiết máy & Nhiệt",
+          "market_score": 82,
+          "avg_student_score": 87,
+          "avg_gap": 0
+        },
+        {
+          "axis_id": "SME_AX2",
+          "axis_name_vi": "Thiết kế CAD 2D/3D & CAE",
+          "market_score": 86,
+          "avg_student_score": 71,
+          "avg_gap": 15
+        },
+        {
+          "axis_id": "SME_AX3",
+          "axis_name_vi": "Chế tạo CNC, Cơ điện tử",
+          "market_score": 79,
+          "avg_student_score": 64,
+          "avg_gap": 15
+        },
+        {
+          "axis_id": "SME_AX4",
+          "axis_name_vi": "GD&T, QA/QC & Bảo trì",
+          "market_score": 84,
+          "avg_student_score": 66,
+          "avg_gap": 18
+        },
+        {
+          "axis_id": "SME_AX5",
+          "axis_name_vi": "Tin học Kỹ thuật & BOM",
+          "market_score": 78,
+          "avg_student_score": 53,
+          "avg_gap": 25
+        },
+        {
+          "axis_id": "SME_AX6",
+          "axis_name_vi": "Ngoại ngữ & Tác phong 5S",
+          "market_score": 81,
+          "avg_student_score": 53,
+          "avg_gap": 28
+        }
+      ],
+      "top_missing_skills": [
+        {
+          "skill_id": "SME_EXCEL_BOM",
+          "skill_name_vi": "Excel kỹ thuật, Bóc tách khối lượng & BOM",
+          "missing_rate_pct": 59,
+          "jd_demand_pct": 64
+        },
+        {
+          "skill_id": "SME_ENG_TECH",
+          "skill_name_vi": "Tiếng Anh Kỹ thuật (Đọc Catalog, Manual)",
+          "missing_rate_pct": 61,
+          "jd_demand_pct": 74
+        }
+      ]
+    }
+  ],
+  "suggested_club_workshops": [
+    {
+      "workshop_id": "WS_01",
+      "host_club_id": "CLUB_SOICT_INNOVATION",
+      "host_club_name": "CLB Sáng tạo & Lập trình SoICT",
+      "target_majors": [
+        "IT"
+      ],
+      "title_vi": "Bootcamp: Docker, CI/CD & Viết Unit Test chuẩn doanh nghiệp cho sinh viên SoICT",
+      "triggered_by_gap_vi": "74% sinh viên CNTT thiếu Docker và 71% thiếu Unit Test dù nền tảng thuật toán rất vững.",
+      "expected_impact_vi": "Giúp 100+ sinh viên đóng gói đồ án môn học thành sản phẩm chạy Docker & CI/CD xanh 100%."
+    },
+    {
+      "workshop_id": "WS_02",
+      "host_club_id": "CLUB_SEEE_AUTO",
+      "host_club_name": "CLB Tự động hóa & Hệ thống Nhúng (SEEE)",
+      "target_majors": [
+        "SEEE"
+      ],
+      "title_vi": "Hands-on Lab: Thiết kế PCB Altium 4 lớp & Lập trình PLC S7-1200 + HMI",
+      "triggered_by_gap_vi": "Trục PCB/Mô phỏng (Gap 31đ) và PLC/Nhúng (Gap 36đ) là 2 khoảng cách lớn nhất ở sinh viên SEEE.",
+      "expected_impact_vi": "Trang bị sản phẩm mạch thật hoặc project TIA Portal hoàn chỉnh trước kỳ tuyển dụng Intern."
+    },
+    {
+      "workshop_id": "WS_03",
+      "host_club_id": "CLUB_O365",
+      "host_club_name": "CLB o365 - HUST × CLB SME CAD",
+      "target_majors": [
+        "SME",
+        "SEEE"
+      ],
+      "title_vi": "Excel Kỹ thuật Lập bảng BOM đa cấp, OEE & Đọc bản vẽ GD&T / SolidWorks",
+      "triggered_by_gap_vi": "69% sinh viên Cơ khí thiếu kỹ năng lập BOM vật tư chuẩn nhà máy và phân tích chất lượng QA/QC.",
+      "expected_impact_vi": "Giảm 30–35% skill gap công cụ văn phòng kỹ thuật và quy trình sản xuất PE/QA."
+    },
+    {
+      "workshop_id": "WS_04",
+      "host_club_id": "CLUB_EHUB",
+      "host_club_name": "CLB tiếng Anh eHub × CLB HEDSPI NICHIBU",
+      "target_majors": [
+        "IT",
+        "SEEE",
+        "SME"
+      ],
+      "title_vi": "Technical English Mock Interview, Đọc Datasheet & Tác phong 5S/Horenso FDI",
+      "triggered_by_gap_vi": "Khoảng cách ngoại ngữ kỹ thuật và tác phong công nghiệp dao động 22–33 điểm trên cả 3 Trường trọng điểm.",
+      "expected_impact_vi": "Nâng cao khả năng vượt vòng phỏng vấn kỹ thuật bằng tiếng Anh/Nhật tại doanh nghiệp R&D và FDI."
+    }
+  ]
+}
